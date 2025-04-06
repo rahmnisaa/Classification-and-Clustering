@@ -1,0 +1,2513 @@
+TransactionAmount,TransactionType,Location,MerchantID,Channel,CustomerAge,CustomerOccupation,TransactionDuration,LoginAttempts,AccountBalance,LoginAttempts_Binned,cluster
+14.09,Debit,San Diego,M015,ATM,70,Doctor,81,1,5112.21,Sangat Rendah,0
+376.24,Debit,Houston,M052,ATM,68,Doctor,141,1,13758.91,Sangat Rendah,0
+126.29,Debit,Mesa,M009,Online,19,Student,56,1,1122.35,Sangat Rendah,0
+184.5,Debit,Raleigh,M002,Online,26,Student,25,1,8569.06,Sangat Rendah,0
+13.45,Credit,Atlanta,M091,Online,26,Student,198,1,7429.4,Sangat Rendah,0
+92.15,Debit,Oklahoma City,M054,ATM,18,Student,172,1,781.68,Sangat Rendah,0
+7.08,Credit,Seattle,M019,ATM,37,Doctor,139,1,13316.71,Sangat Rendah,0
+171.42,Credit,Indianapolis,M020,Branch,67,Retired,291,1,2796.24,Sangat Rendah,0
+106.23,Credit,Detroit,M035,Branch,51,Engineer,86,1,9095.14,Sangat Rendah,0
+815.96,Debit,Nashville,M007,ATM,55,Doctor,120,1,1021.88,Sangat Rendah,0
+17.78,Credit,Albuquerque,M073,Online,52,Engineer,59,1,7599.52,Sangat Rendah,0
+190.02,Debit,Memphis,M030,Online,21,Student,173,1,1528.81,Sangat Rendah,0
+494.52,Credit,Mesa,M057,Branch,24,Student,111,1,1620.02,Sangat Rendah,0
+781.76,Debit,Memphis,M025,ATM,26,Student,123,1,189.69,Sangat Rendah,0
+166.99,Debit,Louisville,M017,Online,18,Student,134,1,299.93,Sangat Rendah,0
+465.45,Debit,Denver,M025,ATM,36,Engineer,129,1,3465.54,Sangat Rendah,0
+555.8,Credit,Austin,M048,Branch,19,Student,158,1,1131.26,Sangat Rendah,0
+492.93,Debit,Columbus,M059,Online,39,Engineer,234,1,5109.97,Sangat Rendah,0
+18.68,Credit,Albuquerque,M054,Branch,59,Retired,106,1,7948.37,Sangat Rendah,0
+71.48,Credit,Columbus,M039,Online,18,Student,169,1,6568.59,Sangat Rendah,0
+59.32,Debit,Los Angeles,M040,Branch,71,Retired,38,1,5750.89,Sangat Rendah,0
+85.77,Debit,Las Vegas,M065,Branch,38,Doctor,93,1,9146.19,Sangat Rendah,0
+52.2,Debit,Atlanta,M022,Online,39,Engineer,120,1,8974.93,Sangat Rendah,0
+345.84,Debit,Fort Worth,M083,Online,22,Student,142,3,1402.5,Rendah,1
+145.54,Debit,Raleigh,M028,Online,21,Student,96,1,1930.96,Sangat Rendah,0
+7.49,Credit,Houston,M043,Online,65,Retired,276,1,3634.67,Sangat Rendah,0
+246.93,Debit,Miami,M029,ATM,23,Student,158,5,673.35,Sedang,1
+40.32,Debit,Milwaukee,M008,Branch,37,Engineer,95,1,2686.52,Sangat Rendah,0
+127.45,Debit,Las Vegas,M092,Online,44,Doctor,197,1,1772.06,Sangat Rendah,0
+56.17,Debit,Detroit,M043,Branch,27,Student,283,1,1351.69,Sangat Rendah,0
+28.31,Credit,Miami,M091,Online,59,Doctor,20,1,8334.47,Sangat Rendah,0
+59.12,Debit,Baltimore,M053,ATM,29,Doctor,257,1,9823.64,Sangat Rendah,0
+396.45,Debit,New York,M007,ATM,49,Engineer,168,3,9690.15,Rendah,1
+877.81,Debit,Los Angeles,M094,Online,22,Student,150,1,399.0,Sangat Rendah,0
+255.26,Credit,San Francisco,M002,Branch,45,Doctor,50,1,14815.87,Sangat Rendah,0
+124.76,Debit,Seattle,M002,Branch,49,Engineer,45,1,5764.72,Sangat Rendah,0
+78.13,Debit,Milwaukee,M028,Branch,26,Student,145,1,900.61,Sangat Rendah,0
+649.28,Debit,San Jose,M074,ATM,75,Retired,137,1,4875.86,Sangat Rendah,0
+795.31,Debit,Mesa,M048,ATM,66,Doctor,90,2,7914.88,Rendah,0
+335.63,Debit,Oklahoma City,M040,Online,55,Retired,216,1,1019.39,Sangat Rendah,0
+328.47,Debit,San Antonio,M014,ATM,63,Retired,119,1,4323.66,Sangat Rendah,0
+34.02,Debit,Philadelphia,M046,Online,38,Doctor,19,1,14214.48,Sangat Rendah,0
+241.42,Credit,Charlotte,M044,Online,57,Doctor,116,1,13357.02,Sangat Rendah,0
+55.32,Debit,Tucson,M009,ATM,19,Student,117,1,241.79,Sangat Rendah,0
+304.31,Debit,Louisville,M005,Branch,27,Student,33,1,868.61,Sangat Rendah,0
+435.27,Debit,Chicago,M051,Branch,74,Retired,90,1,4673.28,Sangat Rendah,0
+164.49,Debit,Baltimore,M070,Branch,26,Student,75,1,1509.27,Sangat Rendah,0
+510.24,Debit,Oklahoma City,M090,Online,19,Student,105,1,781.7,Sangat Rendah,0
+626.9,Debit,Denver,M023,Online,26,Student,138,1,265.51,Sangat Rendah,0
+22.01,Credit,Sacramento,M055,Online,41,Engineer,175,1,1335.09,Sangat Rendah,0
+425.34,Credit,Kansas City,M040,Online,69,Retired,121,1,3907.54,Sangat Rendah,0
+424.56,Debit,Omaha,M015,Online,51,Engineer,264,1,5183.85,Sangat Rendah,0
+85.43,Debit,Virginia Beach,M078,Branch,67,Doctor,145,1,14904.9,Sangat Rendah,0
+169.5,Debit,San Diego,M036,Branch,28,Student,142,1,918.88,Sangat Rendah,0
+104.63,Debit,Omaha,M095,ATM,62,Retired,90,1,4477.78,Sangat Rendah,0
+316.95,Debit,Mesa,M052,Branch,25,Student,83,1,1324.03,Sangat Rendah,0
+60.54,Credit,Columbus,M095,Branch,57,Retired,52,1,3534.93,Sangat Rendah,0
+292.56,Credit,Dallas,M075,Branch,68,Retired,61,1,4638.37,Sangat Rendah,0
+386.52,Debit,Indianapolis,M064,Branch,48,Engineer,28,1,5630.61,Sangat Rendah,0
+112.07,Debit,Kansas City,M064,Branch,23,Student,51,1,930.3,Sangat Rendah,0
+568.52,Debit,Indianapolis,M094,ATM,46,Engineer,152,1,5499.91,Sangat Rendah,0
+263.99,Debit,Dallas,M087,Branch,79,Retired,227,2,4175.02,Rendah,0
+349.64,Debit,Las Vegas,M097,Online,48,Engineer,226,1,6651.62,Sangat Rendah,0
+601.4,Credit,Philadelphia,M001,Branch,56,Engineer,104,1,8458.29,Sangat Rendah,0
+5.77,Debit,Charlotte,M071,Online,50,Doctor,124,1,13988.12,Sangat Rendah,0
+201.33,Credit,Nashville,M003,Branch,42,Engineer,186,1,2585.07,Sangat Rendah,0
+298.42,Debit,Indianapolis,M005,Branch,56,Retired,225,1,3014.75,Sangat Rendah,0
+521.06,Debit,Albuquerque,M063,Branch,25,Student,128,1,1951.42,Sangat Rendah,0
+117.28,Credit,Austin,M057,Online,60,Engineer,16,1,3665.77,Sangat Rendah,0
+189.12,Credit,Indianapolis,M040,Branch,32,Engineer,103,1,977.01,Sangat Rendah,0
+133.55,Debit,Atlanta,M091,ATM,44,Engineer,220,1,3846.28,Sangat Rendah,0
+143.21,Debit,Dallas,M066,Online,35,Engineer,135,1,6374.82,Sangat Rendah,0
+24.77,Debit,Boston,M070,ATM,62,Retired,55,1,5866.01,Sangat Rendah,0
+233.92,Credit,Jacksonville,M046,Online,26,Student,280,1,6537.62,Sangat Rendah,0
+1212.51,Debit,Indianapolis,M036,Branch,20,Student,24,1,605.95,Sangat Rendah,0
+232.12,Debit,Omaha,M066,ATM,37,Engineer,51,1,6689.87,Sangat Rendah,0
+162.63,Debit,Kansas City,M060,Online,22,Student,113,1,634.17,Sangat Rendah,0
+91.53,Debit,Milwaukee,M095,Branch,44,Doctor,69,1,14676.05,Sangat Rendah,0
+120.29,Debit,Miami,M045,Branch,19,Student,77,1,1362.39,Sangat Rendah,0
+174.25,Debit,Seattle,M032,Online,50,Doctor,67,1,10528.34,Sangat Rendah,0
+183.71,Debit,Denver,M074,ATM,38,Engineer,102,1,552.52,Sangat Rendah,0
+345.39,Credit,Phoenix,M081,Online,58,Engineer,80,1,6451.96,Sangat Rendah,0
+922.55,Debit,Detroit,M004,ATM,63,Retired,87,1,4715.84,Sangat Rendah,0
+259.91,Debit,Denver,M028,Online,49,Doctor,170,1,7176.86,Sangat Rendah,0
+154.71,Debit,San Diego,M030,Online,34,Doctor,157,1,1523.72,Sangat Rendah,0
+1340.19,Credit,Austin,M012,Online,54,Engineer,30,1,8654.28,Sangat Rendah,0
+24.56,Debit,Mesa,M033,Branch,64,Doctor,69,1,9869.93,Sangat Rendah,0
+568.07,Debit,Washington,M054,ATM,48,Doctor,115,1,10556.81,Sangat Rendah,0
+9.61,Credit,San Diego,M043,Online,58,Doctor,179,1,12883.91,Sangat Rendah,0
+392.96,Debit,Kansas City,M022,Online,24,Student,100,1,791.65,Sangat Rendah,0
+716.93,Credit,Milwaukee,M052,Online,60,Retired,34,1,4064.02,Sangat Rendah,0
+223.85,Debit,Kansas City,M009,ATM,53,Engineer,55,4,2929.91,Sedang,1
+230.66,Debit,Houston,M049,Branch,21,Student,135,1,618.05,Sangat Rendah,0
+442.12,Debit,Los Angeles,M047,Online,19,Student,260,1,1375.8,Sangat Rendah,0
+644.17,Debit,San Antonio,M093,ATM,29,Engineer,72,1,1143.52,Sangat Rendah,0
+508.68,Credit,Mesa,M048,Branch,51,Engineer,127,1,7708.41,Sangat Rendah,0
+858.63,Credit,San Francisco,M002,Branch,27,Student,185,1,1872.96,Sangat Rendah,0
+25.36,Debit,Louisville,M007,ATM,57,Engineer,78,1,201.04,Sangat Rendah,0
+147.62,Debit,Charlotte,M028,Branch,71,Retired,133,1,2115.8,Sangat Rendah,0
+115.02,Debit,San Antonio,M004,Branch,37,Doctor,175,1,7643.66,Sangat Rendah,0
+383.37,Debit,Fort Worth,M066,Branch,30,Engineer,24,1,8901.93,Sangat Rendah,0
+98.54,Credit,El Paso,M095,Online,20,Student,167,1,9383.43,Sangat Rendah,0
+83.24,Credit,Fort Worth,M009,Branch,55,Doctor,164,1,1181.31,Sangat Rendah,0
+196.16,Debit,Virginia Beach,M099,Branch,27,Engineer,146,1,9418.86,Sangat Rendah,0
+129.94,Debit,Las Vegas,M045,ATM,32,Engineer,235,1,7954.92,Sangat Rendah,0
+306.9,Debit,Colorado Springs,M047,Online,46,Engineer,51,1,9418.08,Sangat Rendah,0
+114.98,Debit,Seattle,M032,Online,59,Retired,80,1,6144.68,Sangat Rendah,0
+756.59,Debit,Sacramento,M012,Branch,27,Student,17,1,420.65,Sangat Rendah,0
+503.76,Debit,Los Angeles,M083,Online,22,Student,35,1,447.82,Sangat Rendah,0
+143.03,Debit,San Antonio,M055,ATM,63,Retired,147,1,7981.45,Sangat Rendah,0
+1045.22,Debit,Columbus,M077,ATM,53,Retired,73,1,1829.9,Sangat Rendah,0
+245.54,Debit,New York,M089,ATM,25,Student,180,1,985.06,Sangat Rendah,0
+254.37,Credit,Dallas,M012,Online,51,Engineer,174,1,8849.26,Sangat Rendah,0
+213.76,Credit,Dallas,M009,ATM,78,Retired,282,1,3528.72,Sangat Rendah,0
+327.86,Debit,Fresno,M051,Online,40,Engineer,104,1,480.16,Sangat Rendah,0
+2.5,Debit,San Diego,M042,Online,47,Doctor,107,1,12145.27,Sangat Rendah,0
+300.08,Credit,Austin,M040,Online,68,Doctor,47,1,13546.75,Sangat Rendah,0
+56.98,Credit,Oklahoma City,M086,ATM,43,Engineer,122,2,5688.37,Rendah,0
+407.65,Debit,Boston,M041,Online,26,Engineer,62,1,8346.64,Sangat Rendah,0
+115.83,Debit,Fresno,M086,Branch,39,Engineer,167,1,6481.04,Sangat Rendah,0
+53.57,Debit,Houston,M025,ATM,69,Retired,121,1,1651.33,Sangat Rendah,0
+63.34,Credit,Detroit,M028,Online,46,Doctor,165,1,11174.94,Sangat Rendah,0
+317.87,Debit,Detroit,M076,Online,27,Student,91,1,145.5,Sangat Rendah,0
+331.65,Debit,Portland,M006,Online,41,Engineer,61,1,4172.57,Sangat Rendah,0
+5.04,Debit,Washington,M001,ATM,56,Retired,41,1,5558.36,Sangat Rendah,0
+214.54,Credit,Detroit,M026,Online,70,Doctor,247,1,11151.53,Sangat Rendah,0
+598.81,Debit,Philadelphia,M081,Branch,57,Doctor,158,1,1415.52,Sangat Rendah,0
+841.28,Debit,Tucson,M083,Online,26,Student,80,1,1103.64,Sangat Rendah,0
+38.15,Debit,Mesa,M005,Online,26,Student,108,1,303.68,Sangat Rendah,0
+1036.66,Debit,San Antonio,M062,Branch,58,Doctor,144,1,5541.57,Sangat Rendah,0
+124.72,Debit,Oklahoma City,M004,Branch,33,Engineer,105,1,6309.8,Sangat Rendah,0
+302.45,Credit,San Antonio,M059,Branch,78,Retired,40,1,5133.61,Sangat Rendah,0
+208.04,Debit,Louisville,M055,Online,47,Engineer,273,1,9344.98,Sangat Rendah,0
+5.77,Credit,Los Angeles,M098,Branch,23,Student,254,1,1117.97,Sangat Rendah,0
+381.33,Debit,Albuquerque,M034,ATM,56,Doctor,75,1,11835.35,Sangat Rendah,0
+16.16,Debit,Milwaukee,M065,ATM,50,Doctor,124,1,14401.17,Sangat Rendah,0
+486.08,Debit,Oklahoma City,M060,Online,18,Student,68,1,1748.69,Sangat Rendah,0
+336.39,Debit,San Antonio,M003,Branch,21,Student,18,1,1000.46,Sangat Rendah,0
+997.43,Debit,Seattle,M067,Online,69,Doctor,118,1,6810.05,Sangat Rendah,0
+234.57,Debit,Chicago,M045,Online,23,Student,120,1,263.98,Sangat Rendah,0
+6.0,Debit,Chicago,M090,Online,30,Doctor,246,1,5442.76,Sangat Rendah,0
+1049.92,Debit,Detroit,M052,ATM,80,Retired,21,1,2037.85,Sangat Rendah,0
+227.14,Debit,Charlotte,M057,ATM,18,Student,294,1,341.94,Sangat Rendah,0
+233.74,Credit,Oklahoma City,M030,Online,66,Retired,17,1,1066.59,Sangat Rendah,0
+113.02,Credit,Jacksonville,M019,Branch,69,Retired,166,1,6077.96,Sangat Rendah,0
+45.85,Debit,Los Angeles,M085,ATM,20,Student,92,1,1659.15,Sangat Rendah,0
+973.39,Debit,Sacramento,M026,Branch,77,Retired,296,1,2042.22,Sangat Rendah,0
+514.95,Debit,New York,M056,Online,41,Doctor,142,5,421.93,Sedang,1
+415.5,Debit,Memphis,M077,ATM,66,Doctor,141,1,10113.66,Sangat Rendah,0
+265.76,Debit,Philadelphia,M049,Online,54,Retired,92,1,4446.17,Sangat Rendah,0
+69.4,Debit,Virginia Beach,M073,Online,80,Retired,113,1,6452.77,Sangat Rendah,0
+332.93,Credit,Albuquerque,M039,Branch,35,Engineer,293,1,2788.2,Sangat Rendah,0
+267.9,Debit,San Antonio,M078,Online,20,Student,160,1,596.16,Sangat Rendah,0
+496.03,Debit,San Francisco,M009,Branch,61,Doctor,265,1,12904.66,Sangat Rendah,0
+376.26,Debit,Tucson,M081,ATM,37,Engineer,245,1,9062.4,Sangat Rendah,0
+83.02,Credit,Seattle,M058,Online,36,Engineer,171,1,9009.56,Sangat Rendah,0
+93.26,Credit,New York,M092,Online,20,Student,72,1,1152.2,Sangat Rendah,0
+803.37,Credit,Memphis,M030,Branch,68,Doctor,129,1,12168.37,Sangat Rendah,0
+35.76,Debit,Charlotte,M057,Branch,23,Student,122,1,611.86,Sangat Rendah,0
+28.53,Debit,Washington,M035,Online,62,Doctor,99,1,8670.53,Sangat Rendah,0
+139.53,Credit,Louisville,M002,Online,53,Doctor,177,1,10098.86,Sangat Rendah,0
+307.57,Debit,Detroit,M049,Branch,33,Doctor,285,1,5307.74,Sangat Rendah,0
+60.65,Credit,Tucson,M085,Branch,56,Retired,53,1,1047.28,Sangat Rendah,0
+74.86,Debit,Nashville,M028,Branch,70,Doctor,125,1,6921.48,Sangat Rendah,0
+117.97,Debit,Kansas City,M100,Branch,51,Retired,137,1,1475.46,Sangat Rendah,0
+231.91,Debit,Memphis,M044,ATM,34,Engineer,165,1,112.76,Sangat Rendah,0
+126.21,Debit,Baltimore,M001,Branch,75,Retired,268,1,5669.66,Sangat Rendah,0
+506.28,Credit,Chicago,M010,Online,53,Retired,162,2,1309.95,Rendah,0
+304.35,Debit,Houston,M007,Branch,31,Engineer,36,1,4057.1,Sangat Rendah,0
+281.85,Debit,Detroit,M013,ATM,22,Student,109,1,1585.98,Sangat Rendah,0
+777.88,Debit,Houston,M018,Branch,31,Engineer,17,1,6825.55,Sangat Rendah,0
+119.18,Debit,Los Angeles,M093,Branch,56,Retired,96,1,5516.5,Sangat Rendah,0
+177.19,Debit,Chicago,M088,Online,76,Retired,43,1,5343.3,Sangat Rendah,0
+260.88,Debit,Denver,M094,Branch,22,Student,36,1,903.05,Sangat Rendah,0
+169.47,Debit,Chicago,M046,Online,24,Student,19,1,1806.16,Sangat Rendah,0
+73.23,Debit,Portland,M022,Branch,26,Student,14,1,787.74,Sangat Rendah,0
+1362.55,Debit,El Paso,M001,ATM,29,Engineer,106,1,2429.68,Sangat Rendah,0
+792.57,Debit,Baltimore,M059,ATM,19,Student,164,1,770.37,Sangat Rendah,0
+237.06,Debit,Phoenix,M049,Online,71,Retired,46,1,1182.77,Sangat Rendah,0
+34.17,Credit,Philadelphia,M091,Online,54,Engineer,54,1,726.55,Sangat Rendah,0
+740.25,Debit,Philadelphia,M010,Online,41,Doctor,123,1,14464.3,Sangat Rendah,0
+453.54,Debit,Albuquerque,M017,ATM,58,Doctor,82,1,12046.3,Sangat Rendah,0
+300.47,Debit,Jacksonville,M065,Branch,73,Retired,100,1,7885.64,Sangat Rendah,0
+110.93,Credit,Virginia Beach,M036,Branch,19,Student,201,1,1952.35,Sangat Rendah,0
+201.69,Debit,Las Vegas,M019,ATM,59,Doctor,299,1,7328.52,Sangat Rendah,0
+399.21,Debit,Portland,M062,ATM,59,Engineer,109,1,3210.39,Sangat Rendah,0
+1041.88,Debit,Jacksonville,M032,Online,78,Retired,57,1,5726.2,Sangat Rendah,0
+630.36,Debit,Mesa,M084,ATM,62,Retired,52,1,1363.65,Sangat Rendah,0
+10.94,Credit,Philadelphia,M083,ATM,60,Engineer,245,1,1241.99,Sangat Rendah,0
+215.9,Debit,Los Angeles,M083,ATM,38,Doctor,235,1,7873.28,Sangat Rendah,0
+1422.55,Debit,Washington,M072,Branch,79,Retired,165,1,5674.32,Sangat Rendah,0
+226.37,Credit,Louisville,M041,Branch,49,Doctor,141,1,9840.04,Sangat Rendah,0
+444.89,Credit,Las Vegas,M060,Branch,43,Doctor,101,1,10328.23,Sangat Rendah,0
+280.57,Credit,Virginia Beach,M017,Online,25,Student,24,1,293.24,Sangat Rendah,0
+488.54,Debit,Jacksonville,M036,Branch,52,Engineer,132,1,7486.63,Sangat Rendah,0
+3.3,Credit,Los Angeles,M085,Branch,50,Doctor,131,1,11385.37,Sangat Rendah,0
+199.39,Debit,Colorado Springs,M023,Branch,69,Retired,165,1,7264.79,Sangat Rendah,0
+20.36,Debit,Tucson,M069,Branch,62,Retired,75,1,2762.48,Sangat Rendah,0
+113.64,Debit,Detroit,M038,Online,62,Retired,32,1,6675.03,Sangat Rendah,0
+493.11,Debit,Colorado Springs,M022,Branch,53,Retired,236,1,7432.99,Sangat Rendah,0
+307.41,Debit,Los Angeles,M007,ATM,19,Student,14,1,1057.0,Sangat Rendah,0
+11.18,Debit,Atlanta,M017,Online,43,Doctor,161,1,5956.89,Sangat Rendah,0
+313.82,Debit,Tucson,M097,Branch,59,Engineer,151,1,7261.59,Sangat Rendah,0
+51.0,Debit,Seattle,M063,Branch,64,Retired,107,1,4943.16,Sangat Rendah,0
+140.98,Debit,Memphis,M059,Branch,60,Engineer,100,1,8127.48,Sangat Rendah,0
+288.04,Debit,Denver,M092,ATM,68,Retired,63,1,1748.02,Sangat Rendah,0
+800.55,Debit,Oklahoma City,M062,ATM,31,Engineer,108,1,9660.22,Sangat Rendah,0
+485.54,Debit,Houston,M061,ATM,46,Engineer,143,1,6371.51,Sangat Rendah,0
+521.15,Debit,Kansas City,M084,ATM,54,Doctor,214,1,9442.47,Sangat Rendah,0
+321.79,Credit,Raleigh,M056,ATM,63,Retired,61,1,5959.2,Sangat Rendah,0
+304.93,Debit,Portland,M098,ATM,65,Doctor,158,1,13531.22,Sangat Rendah,0
+432.08,Debit,El Paso,M044,ATM,40,Doctor,145,1,11500.62,Sangat Rendah,0
+694.2,Debit,Milwaukee,M035,ATM,61,Retired,72,1,1389.37,Sangat Rendah,0
+116.86,Debit,Louisville,M088,ATM,55,Engineer,171,1,6706.56,Sangat Rendah,0
+386.81,Credit,Detroit,M039,Online,57,Doctor,149,1,7175.29,Sangat Rendah,0
+74.88,Debit,Atlanta,M026,ATM,25,Student,202,1,420.67,Sangat Rendah,0
+195.76,Debit,Philadelphia,M056,Branch,75,Retired,99,1,7323.53,Sangat Rendah,0
+134.7,Debit,Fort Worth,M074,ATM,50,Doctor,106,1,8395.85,Sangat Rendah,0
+890.24,Credit,Las Vegas,M029,Online,33,Engineer,161,1,5140.93,Sangat Rendah,0
+361.27,Debit,Omaha,M088,ATM,63,Doctor,180,1,7945.57,Sangat Rendah,0
+131.56,Debit,Charlotte,M014,Branch,44,Doctor,42,1,5873.54,Sangat Rendah,0
+485.51,Credit,Milwaukee,M097,Online,76,Retired,37,1,3074.45,Sangat Rendah,0
+547.87,Debit,Columbus,M064,ATM,64,Retired,131,1,6155.76,Sangat Rendah,0
+457.3,Debit,Virginia Beach,M042,Online,28,Engineer,15,1,8318.29,Sangat Rendah,0
+506.24,Debit,Chicago,M077,ATM,58,Engineer,64,1,230.09,Sangat Rendah,0
+486.59,Debit,Indianapolis,M017,Branch,57,Retired,119,1,2513.56,Sangat Rendah,0
+163.68,Debit,San Diego,M087,Branch,41,Doctor,292,1,10090.05,Sangat Rendah,0
+581.65,Debit,Boston,M009,ATM,22,Student,176,1,480.19,Sangat Rendah,0
+52.01,Debit,Mesa,M019,ATM,48,Doctor,85,1,1120.88,Sangat Rendah,0
+630.24,Debit,Boston,M054,ATM,21,Student,62,1,370.81,Sangat Rendah,0
+523.74,Debit,Oklahoma City,M099,ATM,43,Doctor,159,1,13498.55,Sangat Rendah,0
+705.6,Debit,Phoenix,M071,Branch,40,Doctor,124,3,14804.7,Rendah,1
+217.5,Credit,Denver,M043,Branch,46,Engineer,35,1,3057.4,Sangat Rendah,0
+91.48,Debit,Fort Worth,M081,ATM,51,Doctor,141,1,14942.78,Sangat Rendah,0
+5.25,Debit,San Jose,M010,ATM,39,Doctor,49,1,14143.32,Sangat Rendah,0
+54.03,Credit,Milwaukee,M087,ATM,56,Retired,161,1,6736.3,Sangat Rendah,0
+736.73,Debit,Memphis,M037,Branch,48,Engineer,10,1,3313.07,Sangat Rendah,0
+368.91,Debit,Virginia Beach,M082,Branch,54,Doctor,14,1,829.71,Sangat Rendah,0
+33.06,Credit,Fort Worth,M045,Online,53,Retired,170,1,1540.87,Sangat Rendah,0
+66.5,Credit,Louisville,M098,Online,32,Engineer,144,1,6820.23,Sangat Rendah,0
+177.08,Debit,Las Vegas,M014,Online,35,Doctor,85,1,13475.14,Sangat Rendah,0
+588.54,Debit,Portland,M031,Branch,32,Engineer,130,1,714.45,Sangat Rendah,0
+173.5,Debit,Nashville,M052,ATM,21,Student,282,1,1306.91,Sangat Rendah,0
+78.33,Credit,Memphis,M069,Online,56,Engineer,189,1,7255.33,Sangat Rendah,0
+40.66,Debit,Louisville,M061,Branch,59,Retired,156,1,1153.84,Sangat Rendah,0
+97.22,Credit,Atlanta,M063,Branch,77,Retired,55,1,6647.73,Sangat Rendah,0
+34.07,Debit,Philadelphia,M080,Branch,22,Student,81,1,8709.77,Sangat Rendah,0
+492.06,Debit,Fresno,M012,Online,23,Student,74,1,857.9,Sangat Rendah,0
+842.01,Credit,Virginia Beach,M015,Online,53,Doctor,185,1,509.45,Sangat Rendah,0
+73.55,Debit,Atlanta,M086,ATM,51,Engineer,158,1,2812.06,Sangat Rendah,0
+760.53,Debit,Phoenix,M005,Online,57,Engineer,118,1,6179.91,Sangat Rendah,0
+273.08,Credit,Houston,M007,Branch,26,Engineer,134,1,6609.3,Sangat Rendah,0
+371.69,Debit,San Francisco,M020,Branch,67,Retired,143,1,3484.32,Sangat Rendah,0
+218.96,Debit,Seattle,M021,ATM,18,Student,13,1,754.21,Sangat Rendah,0
+227.39,Debit,Atlanta,M010,Online,18,Student,65,1,751.09,Sangat Rendah,0
+237.99,Credit,Kansas City,M043,Branch,39,Doctor,86,1,8510.09,Sangat Rendah,0
+186.6,Debit,Washington,M037,Online,58,Doctor,13,1,1508.72,Sangat Rendah,0
+341.15,Debit,San Jose,M042,Online,18,Student,148,1,511.37,Sangat Rendah,0
+434.58,Debit,Memphis,M091,ATM,59,Doctor,215,1,12648.32,Sangat Rendah,0
+312.88,Credit,Portland,M040,Branch,54,Engineer,44,1,233.21,Sangat Rendah,0
+75.15,Debit,Boston,M094,ATM,23,Student,154,1,1092.92,Sangat Rendah,0
+23.3,Debit,Los Angeles,M061,ATM,59,Engineer,161,1,6711.15,Sangat Rendah,0
+47.38,Credit,Seattle,M061,Online,25,Student,61,1,459.37,Sangat Rendah,0
+512.81,Debit,Sacramento,M004,Branch,79,Retired,30,1,6994.34,Sangat Rendah,0
+488.15,Debit,Louisville,M098,Branch,43,Engineer,168,1,7071.09,Sangat Rendah,0
+12.82,Debit,Fort Worth,M055,ATM,44,Engineer,156,1,9045.19,Sangat Rendah,0
+66.9,Credit,Charlotte,M021,Online,79,Retired,129,4,5238.71,Sedang,1
+535.91,Debit,Las Vegas,M097,Online,43,Engineer,22,1,9642.12,Sangat Rendah,0
+270.72,Credit,Washington,M094,Online,26,Engineer,53,1,6263.96,Sangat Rendah,0
+97.98,Debit,Denver,M033,Branch,72,Retired,18,1,7460.33,Sangat Rendah,0
+196.08,Debit,San Francisco,M088,Online,61,Retired,98,1,4233.82,Sangat Rendah,0
+251.18,Debit,San Jose,M058,ATM,42,Engineer,246,1,8303.9,Sangat Rendah,0
+44.52,Debit,El Paso,M081,Online,28,Student,205,1,314.28,Sangat Rendah,0
+178.87,Debit,Baltimore,M001,Online,35,Doctor,180,1,5241.23,Sangat Rendah,0
+1176.28,Credit,Kansas City,M074,ATM,54,Engineer,174,5,323.69,Sedang,1
+386.68,Debit,New York,M019,Branch,46,Doctor,128,1,6863.06,Sangat Rendah,0
+167.14,Debit,Denver,M049,Online,76,Retired,20,1,3877.73,Sangat Rendah,0
+345.22,Debit,Fresno,M025,Branch,69,Retired,253,1,4046.58,Sangat Rendah,0
+74.85,Debit,Raleigh,M091,ATM,72,Retired,117,1,2409.73,Sangat Rendah,0
+671.73,Debit,Washington,M071,Branch,58,Engineer,54,1,5211.88,Sangat Rendah,0
+255.04,Debit,Seattle,M084,ATM,45,Engineer,152,1,6217.86,Sangat Rendah,0
+45.77,Debit,Philadelphia,M066,Online,25,Student,109,1,5978.12,Sangat Rendah,0
+329.69,Credit,San Antonio,M088,Online,26,Student,66,1,1671.66,Sangat Rendah,0
+362.04,Credit,Philadelphia,M059,Branch,58,Doctor,198,2,8421.88,Rendah,0
+11.92,Debit,San Diego,M063,Branch,53,Doctor,52,1,14611.9,Sangat Rendah,0
+47.42,Debit,San Diego,M012,ATM,64,Doctor,28,1,8253.52,Sangat Rendah,0
+35.99,Debit,Miami,M023,Branch,63,Retired,129,1,4489.79,Sangat Rendah,0
+151.19,Credit,New York,M061,Branch,37,Doctor,96,1,11903.82,Sangat Rendah,0
+242.62,Credit,San Francisco,M094,Online,22,Student,234,1,483.02,Sangat Rendah,0
+48.72,Debit,Virginia Beach,M063,Branch,21,Student,17,1,816.08,Sangat Rendah,0
+43.46,Debit,Boston,M020,ATM,25,Student,80,1,578.06,Sangat Rendah,0
+1036.21,Debit,Omaha,M067,Online,25,Student,126,1,477.3,Sangat Rendah,0
+443.79,Debit,Las Vegas,M099,ATM,53,Retired,87,1,3133.85,Sangat Rendah,0
+365.14,Debit,Dallas,M002,Online,68,Retired,57,1,5894.09,Sangat Rendah,0
+757.41,Debit,Los Angeles,M048,ATM,22,Student,37,1,9532.42,Sangat Rendah,0
+20.54,Debit,Fort Worth,M055,Branch,51,Engineer,72,1,5327.03,Sangat Rendah,0
+475.36,Debit,Phoenix,M018,ATM,34,Engineer,105,1,2000.6,Sangat Rendah,0
+34.74,Debit,San Francisco,M072,ATM,56,Retired,24,1,6827.57,Sangat Rendah,0
+689.54,Debit,Oklahoma City,M038,Branch,27,Student,93,1,1633.76,Sangat Rendah,0
+211.18,Debit,Washington,M059,ATM,73,Retired,90,1,4069.17,Sangat Rendah,0
+211.36,Credit,Fort Worth,M041,Branch,51,Engineer,286,1,7943.47,Sangat Rendah,0
+744.41,Credit,Houston,M095,Online,39,Engineer,107,1,8842.47,Sangat Rendah,0
+61.43,Debit,Phoenix,M035,Online,24,Student,170,1,1882.77,Sangat Rendah,0
+167.44,Debit,Mesa,M087,Branch,37,Doctor,82,1,12526.71,Sangat Rendah,0
+361.46,Debit,Nashville,M093,Online,21,Student,83,1,4737.84,Sangat Rendah,0
+378.85,Debit,Virginia Beach,M089,Branch,78,Retired,126,1,2300.53,Sangat Rendah,0
+241.11,Debit,Columbus,M063,Branch,30,Doctor,55,1,12385.05,Sangat Rendah,0
+131.93,Credit,Fort Worth,M049,Branch,31,Engineer,13,1,4547.06,Sangat Rendah,0
+20.28,Debit,Oklahoma City,M047,Online,36,Engineer,213,1,2047.83,Sangat Rendah,0
+415.88,Debit,San Diego,M005,Branch,70,Doctor,170,1,10008.33,Sangat Rendah,0
+49.99,Debit,Omaha,M062,ATM,62,Retired,139,1,2299.64,Sangat Rendah,0
+1221.65,Debit,Denver,M091,Online,27,Student,153,1,243.92,Sangat Rendah,0
+100.66,Debit,Dallas,M024,Branch,50,Doctor,144,1,14473.33,Sangat Rendah,0
+485.54,Debit,Louisville,M080,Online,19,Student,148,1,1533.32,Sangat Rendah,0
+321.15,Debit,Los Angeles,M037,Branch,46,Doctor,179,1,7005.05,Sangat Rendah,0
+711.3,Debit,San Jose,M076,Branch,21,Student,51,1,955.4,Sangat Rendah,0
+12.23,Debit,Houston,M065,ATM,42,Engineer,139,1,7844.88,Sangat Rendah,0
+350.94,Debit,Colorado Springs,M013,ATM,20,Student,64,1,221.56,Sangat Rendah,0
+301.85,Debit,Columbus,M062,Online,54,Engineer,25,1,6586.19,Sangat Rendah,0
+29.34,Debit,Louisville,M087,Online,65,Retired,30,1,3944.82,Sangat Rendah,0
+231.71,Debit,Raleigh,M060,Branch,27,Student,148,1,1127.98,Sangat Rendah,0
+179.43,Debit,Oklahoma City,M004,ATM,58,Retired,244,1,2626.63,Sangat Rendah,0
+36.71,Debit,Jacksonville,M095,Branch,48,Doctor,55,1,6459.38,Sangat Rendah,0
+138.12,Credit,Los Angeles,M067,Branch,53,Doctor,281,1,1649.69,Sangat Rendah,0
+233.24,Debit,Louisville,M070,ATM,33,Engineer,72,1,6939.23,Sangat Rendah,0
+609.14,Debit,Tucson,M086,ATM,39,Engineer,177,1,9033.87,Sangat Rendah,0
+436.64,Debit,Los Angeles,M033,Branch,31,Doctor,111,1,14365.18,Sangat Rendah,0
+870.43,Debit,Los Angeles,M037,Branch,29,Doctor,55,1,10115.18,Sangat Rendah,0
+354.4,Debit,Chicago,M046,ATM,74,Retired,128,1,7358.65,Sangat Rendah,0
+22.63,Debit,Kansas City,M052,Online,53,Engineer,112,1,4438.03,Sangat Rendah,0
+182.19,Debit,Mesa,M007,Branch,26,Student,53,1,1176.1,Sangat Rendah,0
+126.81,Debit,Philadelphia,M036,Branch,26,Engineer,290,1,5427.98,Sangat Rendah,0
+288.17,Debit,Virginia Beach,M012,Online,37,Engineer,50,1,3653.11,Sangat Rendah,0
+118.77,Debit,Atlanta,M066,Branch,55,Engineer,123,1,2104.82,Sangat Rendah,0
+651.82,Debit,Indianapolis,M094,ATM,21,Student,166,1,1802.77,Sangat Rendah,0
+66.65,Debit,Detroit,M100,ATM,37,Engineer,33,1,3559.96,Sangat Rendah,0
+98.53,Debit,Denver,M085,Branch,69,Retired,166,1,3564.8,Sangat Rendah,0
+138.95,Debit,Washington,M090,Online,71,Retired,30,1,6752.92,Sangat Rendah,0
+33.89,Debit,Nashville,M079,Branch,26,Student,177,1,1444.75,Sangat Rendah,0
+23.71,Debit,Atlanta,M005,Branch,58,Doctor,164,1,10788.89,Sangat Rendah,0
+1830.0,Debit,San Antonio,M082,Online,55,Engineer,238,1,2235.7,Sangat Rendah,0
+26.06,Debit,San Diego,M096,ATM,65,Doctor,283,1,12893.63,Sangat Rendah,0
+17.07,Debit,Los Angeles,M023,Branch,27,Engineer,44,1,2798.15,Sangat Rendah,0
+703.89,Debit,San Antonio,M074,Online,46,Engineer,62,1,3583.67,Sangat Rendah,0
+1271.9,Debit,Houston,M073,ATM,47,Engineer,155,1,2120.8,Sangat Rendah,0
+26.55,Debit,Houston,M099,ATM,77,Retired,228,1,3085.38,Sangat Rendah,0
+147.4,Debit,San Jose,M067,Branch,42,Engineer,259,1,6797.71,Sangat Rendah,0
+202.11,Debit,Memphis,M005,ATM,27,Student,18,1,746.47,Sangat Rendah,0
+308.42,Debit,Nashville,M077,Branch,75,Retired,39,1,5427.81,Sangat Rendah,0
+11.18,Debit,Miami,M035,ATM,53,Engineer,144,1,7467.3,Sangat Rendah,0
+294.15,Debit,Fresno,M020,Online,38,Engineer,136,1,6362.16,Sangat Rendah,0
+29.58,Debit,Colorado Springs,M066,Branch,54,Engineer,121,1,8345.26,Sangat Rendah,0
+139.45,Debit,Boston,M004,Online,27,Student,31,1,1305.76,Sangat Rendah,0
+432.63,Debit,Colorado Springs,M024,ATM,29,Doctor,137,1,13648.36,Sangat Rendah,0
+131.43,Debit,Charlotte,M053,Online,43,Doctor,65,1,1337.5,Sangat Rendah,0
+516.72,Debit,Mesa,M025,ATM,42,Engineer,128,1,2015.69,Sangat Rendah,0
+121.82,Debit,Colorado Springs,M094,Online,69,Doctor,123,3,8354.54,Rendah,1
+374.5,Credit,San Francisco,M002,Branch,26,Student,178,1,1671.51,Sangat Rendah,0
+166.13,Debit,Omaha,M013,ATM,68,Doctor,227,1,11822.53,Sangat Rendah,0
+626.9,Debit,Chicago,M017,ATM,23,Student,146,1,587.11,Sangat Rendah,0
+466.85,Debit,Austin,M007,Branch,56,Retired,165,1,5422.53,Sangat Rendah,0
+788.84,Debit,Phoenix,M055,Online,58,Retired,231,1,1913.73,Sangat Rendah,0
+873.65,Credit,Oklahoma City,M050,Online,37,Doctor,59,1,12139.83,Sangat Rendah,0
+525.28,Debit,Colorado Springs,M011,ATM,69,Retired,134,1,4693.6,Sangat Rendah,0
+110.17,Debit,Raleigh,M054,ATM,30,Engineer,137,1,464.2,Sangat Rendah,0
+632.69,Debit,Denver,M047,ATM,80,Retired,76,1,4363.74,Sangat Rendah,0
+124.35,Debit,Oklahoma City,M015,ATM,72,Retired,90,1,3319.76,Sangat Rendah,0
+43.85,Debit,Fresno,M013,ATM,62,Retired,122,1,4356.98,Sangat Rendah,0
+283.81,Debit,San Diego,M046,Branch,28,Student,29,1,1519.35,Sangat Rendah,0
+168.53,Debit,San Francisco,M100,ATM,71,Retired,112,1,5962.58,Sangat Rendah,0
+218.59,Credit,Denver,M088,Branch,40,Engineer,123,1,6699.23,Sangat Rendah,0
+132.84,Debit,Oklahoma City,M060,ATM,21,Student,143,1,822.73,Sangat Rendah,0
+157.37,Credit,Dallas,M014,Branch,42,Doctor,289,1,13964.31,Sangat Rendah,0
+144.77,Debit,Albuquerque,M007,Online,20,Student,159,1,867.32,Sangat Rendah,0
+643.22,Debit,Atlanta,M073,ATM,64,Doctor,93,1,1035.86,Sangat Rendah,0
+1392.54,Debit,El Paso,M013,Branch,41,Doctor,297,1,13347.69,Sangat Rendah,0
+208.07,Debit,Oklahoma City,M100,Online,32,Doctor,36,1,8478.9,Sangat Rendah,0
+94.3,Debit,Phoenix,M042,Branch,57,Doctor,57,1,11088.95,Sangat Rendah,0
+295.5,Debit,Mesa,M095,ATM,59,Retired,36,1,6280.66,Sangat Rendah,0
+30.23,Debit,Austin,M049,ATM,44,Doctor,99,1,481.13,Sangat Rendah,0
+112.05,Credit,Phoenix,M078,ATM,26,Student,159,1,1122.88,Sangat Rendah,0
+180.24,Debit,Phoenix,M098,Branch,58,Engineer,144,1,8431.23,Sangat Rendah,0
+13.71,Credit,Denver,M084,Online,38,Engineer,148,1,8342.79,Sangat Rendah,0
+96.54,Debit,New York,M020,Branch,58,Retired,95,1,7182.22,Sangat Rendah,0
+79.35,Debit,Los Angeles,M051,Online,67,Retired,70,1,1692.15,Sangat Rendah,0
+101.04,Debit,San Antonio,M067,ATM,27,Student,160,1,1695.57,Sangat Rendah,0
+74.42,Debit,El Paso,M003,Online,49,Engineer,68,1,6264.21,Sangat Rendah,0
+39.66,Debit,Virginia Beach,M045,Branch,52,Engineer,169,1,8497.34,Sangat Rendah,0
+99.36,Debit,Seattle,M004,ATM,40,Doctor,46,1,1272.12,Sangat Rendah,0
+123.85,Debit,Las Vegas,M047,Online,56,Engineer,244,1,3959.62,Sangat Rendah,0
+426.93,Debit,Omaha,M054,ATM,19,Student,248,1,476.19,Sangat Rendah,0
+133.73,Credit,San Jose,M001,Online,25,Student,123,1,1872.22,Sangat Rendah,0
+222.39,Debit,Virginia Beach,M088,Online,49,Engineer,73,1,3117.39,Sangat Rendah,0
+215.94,Credit,Virginia Beach,M021,Online,22,Student,140,1,1841.69,Sangat Rendah,0
+6.3,Debit,Columbus,M017,Branch,80,Retired,283,5,7697.68,Sedang,1
+826.23,Debit,Colorado Springs,M042,ATM,29,Doctor,209,1,7580.59,Sangat Rendah,0
+416.37,Debit,Columbus,M015,Online,35,Engineer,67,1,7936.91,Sangat Rendah,0
+131.46,Debit,Charlotte,M006,Branch,67,Retired,258,1,6642.33,Sangat Rendah,0
+202.86,Credit,Memphis,M088,Branch,61,Doctor,149,1,7642.25,Sangat Rendah,0
+268.39,Debit,Miami,M017,ATM,26,Student,171,1,136.74,Sangat Rendah,0
+194.85,Debit,Jacksonville,M096,Online,23,Student,130,4,319.84,Sedang,1
+137.35,Credit,Sacramento,M028,Online,40,Doctor,220,1,12662.66,Sangat Rendah,0
+712.75,Debit,Philadelphia,M074,Branch,44,Doctor,25,1,8126.06,Sangat Rendah,0
+353.82,Debit,Milwaukee,M035,ATM,42,Doctor,143,1,705.75,Sangat Rendah,0
+507.25,Debit,Washington,M063,Branch,73,Retired,143,1,5331.57,Sangat Rendah,0
+212.74,Debit,Seattle,M050,Branch,27,Engineer,128,1,7645.47,Sangat Rendah,0
+364.42,Debit,Colorado Springs,M078,ATM,51,Engineer,146,1,8119.73,Sangat Rendah,0
+195.12,Debit,Louisville,M043,ATM,46,Doctor,144,1,6101.15,Sangat Rendah,0
+230.61,Debit,Raleigh,M076,Branch,80,Retired,204,1,2561.42,Sangat Rendah,0
+739.28,Credit,Tucson,M026,Branch,58,Doctor,47,1,11905.64,Sangat Rendah,0
+390.35,Credit,Omaha,M019,ATM,64,Doctor,61,1,7095.88,Sangat Rendah,0
+242.03,Debit,Dallas,M014,Online,58,Engineer,124,1,4382.73,Sangat Rendah,0
+242.39,Credit,San Antonio,M008,ATM,18,Student,271,1,1328.73,Sangat Rendah,0
+135.03,Debit,San Francisco,M097,ATM,23,Student,180,1,1278.0,Sangat Rendah,0
+83.5,Debit,Dallas,M100,Branch,61,Retired,91,5,1749.79,Sedang,1
+193.54,Debit,Oklahoma City,M088,Branch,80,Retired,267,1,2929.51,Sangat Rendah,0
+617.36,Debit,Kansas City,M035,Branch,29,Engineer,61,1,8926.38,Sangat Rendah,0
+775.23,Credit,Albuquerque,M036,Online,59,Doctor,38,1,5977.59,Sangat Rendah,0
+266.57,Debit,El Paso,M031,ATM,72,Retired,100,1,7676.92,Sangat Rendah,0
+153.4,Debit,Mesa,M057,ATM,45,Engineer,144,1,4657.7,Sangat Rendah,0
+946.94,Debit,Charlotte,M018,Branch,53,Retired,251,1,5579.11,Sangat Rendah,0
+5.12,Debit,New York,M002,Branch,34,Engineer,90,1,3293.01,Sangat Rendah,0
+119.11,Debit,Detroit,M070,ATM,57,Engineer,131,1,7998.25,Sangat Rendah,0
+1096.7,Debit,Colorado Springs,M005,Online,24,Student,147,1,1093.89,Sangat Rendah,0
+119.72,Debit,Tucson,M011,Branch,30,Engineer,123,1,3435.34,Sangat Rendah,0
+107.4,Debit,Virginia Beach,M079,Online,58,Doctor,32,1,344.07,Sangat Rendah,0
+115.92,Debit,Raleigh,M033,ATM,53,Retired,57,1,3897.17,Sangat Rendah,0
+438.04,Debit,Philadelphia,M025,ATM,67,Retired,247,1,5358.95,Sangat Rendah,0
+677.29,Debit,Houston,M015,Online,27,Engineer,287,1,627.79,Sangat Rendah,0
+296.0,Debit,Las Vegas,M085,Branch,35,Doctor,248,1,7418.82,Sangat Rendah,0
+299.09,Credit,Boston,M034,Branch,36,Engineer,84,1,5615.26,Sangat Rendah,0
+461.52,Credit,Denver,M068,Branch,24,Student,44,1,1995.18,Sangat Rendah,0
+100.52,Debit,Las Vegas,M038,ATM,50,Engineer,110,1,453.39,Sangat Rendah,0
+85.35,Debit,Washington,M074,ATM,66,Retired,166,1,2173.76,Sangat Rendah,0
+79.76,Debit,Raleigh,M055,Branch,39,Engineer,170,1,6452.14,Sangat Rendah,0
+778.49,Credit,Omaha,M054,Online,75,Retired,107,1,7713.67,Sangat Rendah,0
+386.38,Debit,Phoenix,M058,Online,42,Engineer,135,1,5528.36,Sangat Rendah,0
+165.25,Debit,Sacramento,M025,Online,35,Doctor,106,1,9939.94,Sangat Rendah,0
+14.29,Debit,Los Angeles,M070,ATM,34,Engineer,150,1,7016.99,Sangat Rendah,0
+232.79,Credit,Indianapolis,M019,Branch,55,Retired,145,1,2661.3,Sangat Rendah,0
+1237.56,Credit,Austin,M060,Branch,60,Engineer,159,1,9410.17,Sangat Rendah,0
+92.29,Debit,Albuquerque,M015,Branch,54,Engineer,115,1,2026.32,Sangat Rendah,0
+293.97,Debit,Phoenix,M047,Branch,68,Retired,153,1,7371.85,Sangat Rendah,0
+136.32,Debit,Miami,M060,Online,19,Student,113,1,264.83,Sangat Rendah,0
+251.06,Debit,Colorado Springs,M003,Online,36,Doctor,34,1,10001.66,Sangat Rendah,0
+50.17,Credit,Sacramento,M039,ATM,77,Retired,35,1,7752.14,Sangat Rendah,0
+21.4,Debit,Fresno,M027,Branch,34,Engineer,258,1,9594.11,Sangat Rendah,0
+73.28,Debit,Boston,M096,Branch,21,Student,21,1,1329.41,Sangat Rendah,0
+70.23,Debit,Memphis,M066,ATM,38,Doctor,260,1,11624.93,Sangat Rendah,0
+689.29,Debit,El Paso,M034,ATM,22,Student,100,1,168.84,Sangat Rendah,0
+745.03,Debit,Fort Worth,M075,Online,28,Student,231,1,160.57,Sangat Rendah,0
+54.61,Debit,Milwaukee,M043,ATM,58,Engineer,160,1,7135.64,Sangat Rendah,0
+54.05,Debit,Louisville,M008,Branch,27,Student,146,1,469.14,Sangat Rendah,0
+107.47,Debit,Austin,M037,Online,67,Retired,144,1,7517.5,Sangat Rendah,0
+611.11,Debit,Detroit,M045,ATM,20,Student,282,4,919.84,Sedang,1
+219.63,Debit,Charlotte,M002,ATM,48,Doctor,44,1,8013.63,Sangat Rendah,0
+188.7,Debit,New York,M099,Branch,54,Retired,123,1,5077.06,Sangat Rendah,0
+93.52,Debit,Philadelphia,M011,Online,51,Engineer,97,1,2791.2,Sangat Rendah,0
+275.92,Credit,Nashville,M042,Branch,62,Retired,107,1,1777.38,Sangat Rendah,0
+376.79,Debit,Milwaukee,M039,Branch,68,Retired,265,1,7749.14,Sangat Rendah,0
+8.98,Debit,Detroit,M063,Online,66,Retired,56,1,4516.76,Sangat Rendah,0
+697.32,Debit,Atlanta,M080,Online,68,Retired,91,1,2016.02,Sangat Rendah,0
+17.45,Debit,Omaha,M059,ATM,18,Student,88,1,1959.52,Sangat Rendah,0
+302.16,Debit,Kansas City,M014,Online,80,Retired,138,5,3876.61,Sedang,1
+442.74,Debit,San Diego,M019,Branch,23,Student,136,1,1790.27,Sangat Rendah,0
+623.9,Debit,San Jose,M005,ATM,27,Student,249,1,711.47,Sangat Rendah,0
+445.41,Debit,Fresno,M015,ATM,35,Doctor,235,3,12154.66,Rendah,1
+63.41,Debit,Fort Worth,M035,ATM,26,Student,36,1,1546.22,Sangat Rendah,0
+346.85,Debit,Kansas City,M025,ATM,44,Doctor,88,1,7208.15,Sangat Rendah,0
+71.95,Credit,Omaha,M100,Online,59,Engineer,53,1,9267.32,Sangat Rendah,0
+7.5,Debit,Dallas,M054,Online,63,Retired,36,1,6485.78,Sangat Rendah,0
+206.46,Debit,Virginia Beach,M013,ATM,65,Retired,279,1,3984.38,Sangat Rendah,0
+423.11,Debit,Columbus,M055,ATM,60,Engineer,47,1,412.78,Sangat Rendah,0
+35.84,Credit,Colorado Springs,M013,Online,54,Retired,172,1,4795.65,Sangat Rendah,0
+88.6,Credit,Raleigh,M054,Branch,28,Student,105,1,246.57,Sangat Rendah,0
+1431.3,Debit,Oklahoma City,M082,ATM,18,Student,168,1,1058.13,Sangat Rendah,0
+53.81,Credit,Raleigh,M079,ATM,55,Engineer,37,2,2564.62,Rendah,0
+22.46,Debit,New York,M087,Online,54,Retired,78,1,6631.5,Sangat Rendah,0
+334.89,Debit,Fort Worth,M040,Online,21,Student,260,1,1661.68,Sangat Rendah,0
+319.27,Credit,Omaha,M068,Online,54,Retired,59,1,5504.01,Sangat Rendah,0
+144.3,Debit,Oklahoma City,M049,ATM,18,Student,88,1,312.19,Sangat Rendah,0
+348.7,Credit,Fresno,M067,Branch,69,Retired,149,1,2445.58,Sangat Rendah,0
+366.21,Debit,Oklahoma City,M052,ATM,62,Doctor,181,1,10862.99,Sangat Rendah,0
+99.11,Debit,Philadelphia,M015,Online,55,Retired,12,1,5414.87,Sangat Rendah,0
+539.35,Debit,Milwaukee,M002,ATM,55,Retired,127,1,3919.44,Sangat Rendah,0
+188.99,Debit,Oklahoma City,M065,Branch,58,Engineer,92,1,7315.34,Sangat Rendah,0
+1416.69,Debit,Nashville,M015,ATM,46,Engineer,58,1,3740.73,Sangat Rendah,0
+710.14,Debit,El Paso,M059,ATM,26,Student,227,1,465.63,Sangat Rendah,0
+308.68,Debit,Milwaukee,M064,Online,53,Doctor,170,1,9992.36,Sangat Rendah,0
+166.68,Debit,Mesa,M008,ATM,57,Retired,139,1,5141.19,Sangat Rendah,0
+0.99,Debit,Los Angeles,M029,ATM,45,Engineer,133,1,4317.85,Sangat Rendah,0
+505.19,Debit,Kansas City,M023,ATM,30,Doctor,128,5,5326.68,Sedang,1
+66.58,Debit,Raleigh,M040,Branch,23,Student,79,1,1636.32,Sangat Rendah,0
+223.43,Debit,Dallas,M091,Branch,77,Retired,178,1,7932.41,Sangat Rendah,0
+659.95,Debit,Detroit,M044,Online,60,Engineer,114,1,3927.69,Sangat Rendah,0
+634.86,Debit,Chicago,M009,ATM,27,Student,45,1,588.5,Sangat Rendah,0
+286.5,Credit,Boston,M097,Branch,30,Engineer,60,1,8517.95,Sangat Rendah,0
+322.96,Credit,Philadelphia,M033,Branch,76,Retired,168,1,2401.59,Sangat Rendah,0
+654.48,Debit,Columbus,M047,Branch,19,Student,114,1,6776.41,Sangat Rendah,0
+157.97,Debit,Philadelphia,M009,Branch,48,Doctor,140,1,5529.92,Sangat Rendah,0
+120.9,Debit,Tucson,M074,Branch,40,Doctor,52,1,9009.42,Sangat Rendah,0
+254.77,Debit,Denver,M031,Branch,57,Engineer,57,1,5994.87,Sangat Rendah,0
+795.96,Debit,Raleigh,M014,Online,65,Retired,119,1,5468.58,Sangat Rendah,0
+149.25,Debit,Omaha,M067,ATM,39,Engineer,142,1,5677.52,Sangat Rendah,0
+3.42,Credit,San Antonio,M092,Online,43,Doctor,158,1,14180.21,Sangat Rendah,0
+68.19,Credit,Fresno,M026,Online,40,Doctor,189,1,9895.1,Sangat Rendah,0
+493.42,Debit,Baltimore,M039,Branch,39,Engineer,111,1,2232.84,Sangat Rendah,0
+37.57,Debit,El Paso,M048,ATM,57,Retired,42,1,7739.54,Sangat Rendah,0
+127.0,Credit,Nashville,M015,Branch,19,Student,68,5,431.16,Sedang,1
+96.89,Debit,Sacramento,M005,ATM,59,Retired,53,1,6044.93,Sangat Rendah,0
+448.33,Debit,Atlanta,M031,ATM,25,Student,161,1,922.19,Sangat Rendah,0
+1116.48,Debit,San Diego,M057,ATM,51,Engineer,55,1,447.53,Sangat Rendah,0
+8.65,Debit,Las Vegas,M037,Online,48,Doctor,273,1,10778.35,Sangat Rendah,0
+65.57,Debit,Miami,M039,Online,41,Engineer,82,1,7513.79,Sangat Rendah,0
+539.81,Debit,San Francisco,M064,Online,46,Engineer,177,1,2051.25,Sangat Rendah,0
+363.53,Debit,Kansas City,M068,ATM,63,Retired,142,1,1038.91,Sangat Rendah,0
+64.9,Credit,Detroit,M043,Branch,51,Retired,72,1,6854.61,Sangat Rendah,0
+358.18,Debit,Boston,M028,ATM,18,Student,157,1,619.86,Sangat Rendah,0
+167.2,Debit,San Antonio,M036,Branch,30,Doctor,84,1,11320.83,Sangat Rendah,0
+121.91,Debit,Chicago,M015,Branch,60,Doctor,133,1,14510.8,Sangat Rendah,0
+137.57,Debit,Louisville,M067,Online,54,Engineer,70,1,5103.67,Sangat Rendah,0
+534.62,Debit,Oklahoma City,M007,Online,55,Doctor,45,1,13793.53,Sangat Rendah,0
+463.92,Debit,Mesa,M010,Online,50,Engineer,199,1,2403.39,Sangat Rendah,0
+320.14,Debit,Milwaukee,M021,Online,60,Retired,96,1,3075.97,Sangat Rendah,0
+214.93,Debit,Albuquerque,M038,Online,28,Student,52,1,7835.4,Sangat Rendah,0
+660.02,Debit,Nashville,M053,Branch,20,Student,84,1,414.43,Sangat Rendah,0
+345.81,Debit,Raleigh,M099,Branch,40,Engineer,135,1,6116.8,Sangat Rendah,0
+143.54,Debit,Philadelphia,M096,ATM,71,Retired,80,1,6067.62,Sangat Rendah,0
+42.55,Debit,Seattle,M013,Branch,53,Engineer,29,1,7341.43,Sangat Rendah,0
+1063.25,Credit,Omaha,M070,Online,21,Student,128,1,1240.71,Sangat Rendah,0
+541.79,Debit,Mesa,M098,ATM,22,Student,125,1,1454.08,Sangat Rendah,0
+40.57,Debit,Columbus,M096,Branch,26,Student,63,1,1476.91,Sangat Rendah,0
+120.24,Debit,Milwaukee,M087,Branch,18,Student,131,2,1943.13,Rendah,0
+498.67,Debit,Miami,M036,Online,28,Student,244,1,1719.97,Sangat Rendah,0
+227.22,Debit,El Paso,M074,ATM,53,Doctor,220,1,832.82,Sangat Rendah,0
+1182.86,Debit,Tucson,M050,Online,30,Engineer,34,1,7696.16,Sangat Rendah,0
+56.94,Credit,Charlotte,M043,Online,76,Retired,74,1,7004.63,Sangat Rendah,0
+629.82,Debit,Colorado Springs,M056,ATM,68,Retired,159,1,6385.69,Sangat Rendah,0
+59.44,Debit,Chicago,M002,Online,35,Engineer,176,1,5472.03,Sangat Rendah,0
+186.69,Debit,New York,M015,Branch,30,Engineer,54,1,8602.22,Sangat Rendah,0
+230.46,Debit,Mesa,M003,Online,19,Student,179,1,162.53,Sangat Rendah,0
+65.09,Credit,Seattle,M066,Online,44,Engineer,159,1,9370.9,Sangat Rendah,0
+457.09,Credit,Nashville,M033,Online,55,Engineer,63,1,8570.82,Sangat Rendah,0
+552.02,Credit,Chicago,M048,ATM,44,Engineer,100,1,522.08,Sangat Rendah,0
+377.12,Debit,Houston,M049,ATM,34,Engineer,61,1,836.67,Sangat Rendah,0
+204.56,Credit,San Diego,M013,Branch,18,Student,179,1,364.72,Sangat Rendah,0
+420.28,Debit,Washington,M002,Branch,35,Doctor,144,1,8557.32,Sangat Rendah,0
+97.09,Debit,Fort Worth,M052,ATM,24,Student,202,4,1579.57,Sedang,1
+124.59,Debit,Charlotte,M025,Branch,27,Student,171,1,129.29,Sangat Rendah,0
+73.88,Debit,Charlotte,M015,Online,39,Doctor,34,1,6474.41,Sangat Rendah,0
+77.43,Debit,Raleigh,M047,Online,21,Student,169,1,1380.21,Sangat Rendah,0
+106.16,Debit,Phoenix,M098,ATM,56,Doctor,277,4,7487.79,Sedang,1
+245.93,Debit,Fresno,M054,Branch,54,Engineer,172,1,7986.63,Sangat Rendah,0
+622.41,Debit,Indianapolis,M100,ATM,64,Doctor,125,1,7322.01,Sangat Rendah,0
+43.73,Debit,Omaha,M011,ATM,34,Doctor,145,1,9929.43,Sangat Rendah,0
+1282.86,Debit,Austin,M070,Branch,19,Student,68,1,1830.98,Sangat Rendah,0
+2.03,Credit,Detroit,M012,ATM,33,Engineer,28,1,3012.31,Sangat Rendah,0
+770.65,Debit,Jacksonville,M016,Online,31,Doctor,137,1,7198.8,Sangat Rendah,0
+260.31,Debit,Austin,M065,Branch,63,Doctor,113,1,10980.38,Sangat Rendah,0
+356.1,Credit,Fort Worth,M043,Branch,26,Student,187,1,868.35,Sangat Rendah,0
+27.07,Credit,Virginia Beach,M004,Branch,80,Retired,39,1,3773.29,Sangat Rendah,0
+119.89,Debit,Tucson,M004,ATM,67,Doctor,60,1,6697.77,Sangat Rendah,0
+106.39,Debit,Virginia Beach,M003,Online,37,Doctor,281,1,9410.99,Sangat Rendah,0
+12.04,Debit,Fort Worth,M053,Online,37,Engineer,58,1,6213.32,Sangat Rendah,0
+365.7,Debit,Houston,M045,Branch,21,Student,115,2,368.78,Rendah,0
+29.38,Credit,Baltimore,M064,Branch,28,Student,63,1,1663.31,Sangat Rendah,0
+319.85,Debit,Denver,M083,ATM,60,Doctor,148,1,711.66,Sangat Rendah,0
+350.14,Credit,Los Angeles,M048,Online,75,Retired,38,1,2403.25,Sangat Rendah,0
+163.94,Credit,Virginia Beach,M041,Branch,52,Retired,73,1,5957.37,Sangat Rendah,0
+170.53,Debit,Oklahoma City,M089,Branch,24,Student,58,1,801.01,Sangat Rendah,0
+262.22,Credit,Baltimore,M080,ATM,40,Engineer,136,1,5711.71,Sangat Rendah,0
+41.49,Debit,Albuquerque,M027,Online,24,Student,13,1,928.33,Sangat Rendah,0
+121.43,Credit,Sacramento,M062,Branch,52,Engineer,243,1,7365.28,Sangat Rendah,0
+350.46,Debit,Nashville,M023,Branch,51,Retired,165,1,5839.38,Sangat Rendah,0
+220.41,Credit,El Paso,M059,Online,26,Engineer,155,1,5116.98,Sangat Rendah,0
+33.46,Debit,Seattle,M003,ATM,72,Retired,111,1,3641.07,Sangat Rendah,0
+104.79,Debit,Denver,M039,ATM,70,Doctor,223,1,1352.19,Sangat Rendah,0
+246.27,Debit,Fresno,M058,Online,29,Doctor,141,1,7299.86,Sangat Rendah,0
+48.85,Debit,Dallas,M049,ATM,19,Student,176,1,1503.56,Sangat Rendah,0
+332.0,Debit,Charlotte,M038,ATM,69,Retired,17,1,5943.13,Sangat Rendah,0
+118.1,Debit,Memphis,M071,Online,54,Engineer,167,1,895.66,Sangat Rendah,0
+84.59,Credit,Las Vegas,M004,Branch,67,Doctor,10,1,5669.1,Sangat Rendah,0
+295.64,Debit,Jacksonville,M021,Online,21,Student,82,1,1061.96,Sangat Rendah,0
+514.33,Debit,Philadelphia,M017,Branch,25,Student,160,1,1592.94,Sangat Rendah,0
+992.17,Debit,San Antonio,M007,ATM,43,Doctor,169,1,6215.96,Sangat Rendah,0
+94.59,Debit,Washington,M085,Online,39,Doctor,34,1,6171.89,Sangat Rendah,0
+80.43,Debit,Columbus,M014,Branch,59,Retired,157,1,5987.67,Sangat Rendah,0
+54.25,Debit,Virginia Beach,M042,Online,68,Doctor,37,1,14783.33,Sangat Rendah,0
+178.88,Credit,Dallas,M026,Branch,76,Retired,93,4,4708.29,Sedang,1
+518.85,Debit,Kansas City,M038,Online,22,Student,82,1,1806.0,Sangat Rendah,0
+10.65,Debit,Louisville,M081,Online,54,Doctor,161,1,13240.72,Sangat Rendah,0
+198.62,Credit,Tucson,M079,Branch,27,Student,84,1,1196.07,Sangat Rendah,0
+107.03,Debit,Miami,M038,Branch,27,Student,73,1,1408.07,Sangat Rendah,0
+139.57,Debit,Fort Worth,M030,ATM,19,Student,263,3,271.78,Rendah,1
+312.47,Debit,Milwaukee,M033,ATM,49,Engineer,148,4,9419.27,Sedang,1
+346.11,Debit,Dallas,M007,Branch,41,Engineer,213,1,9551.64,Sangat Rendah,0
+138.06,Debit,Charlotte,M099,Branch,44,Engineer,159,1,1070.47,Sangat Rendah,0
+158.02,Debit,New York,M026,ATM,49,Engineer,120,1,9374.24,Sangat Rendah,0
+830.01,Credit,Chicago,M071,Online,66,Retired,96,1,4253.18,Sangat Rendah,0
+435.5,Debit,Oklahoma City,M008,ATM,55,Retired,112,1,6981.03,Sangat Rendah,0
+110.49,Debit,Raleigh,M068,Online,57,Doctor,48,1,10483.93,Sangat Rendah,0
+329.4,Debit,Denver,M017,Online,34,Doctor,68,1,9588.07,Sangat Rendah,0
+635.4,Debit,Denver,M018,ATM,47,Doctor,106,1,1238.11,Sangat Rendah,0
+769.97,Debit,San Diego,M058,Branch,22,Student,23,1,1244.93,Sangat Rendah,0
+175.07,Debit,Colorado Springs,M091,Branch,26,Student,169,1,1040.25,Sangat Rendah,0
+7.31,Debit,Las Vegas,M028,Branch,78,Retired,282,1,5757.67,Sangat Rendah,0
+175.15,Debit,Detroit,M090,ATM,27,Student,32,1,1712.65,Sangat Rendah,0
+32.54,Debit,Oklahoma City,M022,Online,25,Student,183,4,1544.88,Sedang,1
+121.82,Debit,Dallas,M032,Online,60,Doctor,119,1,13293.83,Sangat Rendah,0
+56.12,Debit,El Paso,M049,ATM,30,Doctor,102,1,8839.67,Sangat Rendah,0
+424.7,Credit,Miami,M032,Online,56,Retired,178,1,6239.89,Sangat Rendah,0
+35.16,Debit,Chicago,M029,Branch,32,Engineer,130,1,8459.18,Sangat Rendah,0
+35.73,Debit,Miami,M028,Branch,65,Doctor,87,1,9073.17,Sangat Rendah,0
+3.44,Debit,Fort Worth,M004,ATM,78,Retired,108,1,7561.33,Sangat Rendah,0
+1342.25,Credit,Fort Worth,M032,Branch,21,Student,235,1,694.03,Sangat Rendah,0
+139.03,Credit,Los Angeles,M076,Online,50,Engineer,81,1,2276.57,Sangat Rendah,0
+254.92,Credit,San Antonio,M064,ATM,28,Engineer,169,1,2791.12,Sangat Rendah,0
+115.11,Debit,Albuquerque,M011,Online,28,Engineer,139,1,9808.97,Sangat Rendah,0
+171.11,Debit,San Francisco,M084,ATM,57,Retired,171,1,6324.09,Sangat Rendah,0
+168.54,Debit,Oklahoma City,M064,ATM,70,Doctor,142,2,13406.0,Rendah,0
+420.76,Debit,Miami,M054,Branch,51,Retired,76,1,6581.55,Sangat Rendah,0
+408.46,Debit,Raleigh,M058,Branch,64,Retired,28,1,3140.79,Sangat Rendah,0
+1162.42,Credit,Detroit,M009,Online,30,Doctor,45,1,10357.26,Sangat Rendah,0
+342.17,Credit,New York,M033,Branch,21,Student,247,1,461.83,Sangat Rendah,0
+580.71,Debit,Philadelphia,M046,ATM,53,Engineer,95,1,5670.0,Sangat Rendah,0
+821.54,Credit,Atlanta,M044,Branch,79,Retired,36,1,4040.32,Sangat Rendah,0
+253.47,Debit,Atlanta,M077,Branch,20,Student,238,1,220.51,Sangat Rendah,0
+22.81,Debit,New York,M083,Online,62,Retired,75,1,3634.76,Sangat Rendah,0
+266.57,Credit,Boston,M026,Online,39,Engineer,96,1,7180.48,Sangat Rendah,0
+374.61,Credit,Mesa,M079,Online,75,Retired,37,1,1389.71,Sangat Rendah,0
+339.35,Credit,Boston,M084,ATM,78,Retired,70,1,5002.7,Sangat Rendah,0
+810.36,Debit,Columbus,M081,ATM,20,Student,67,1,9239.12,Sangat Rendah,0
+9.83,Debit,Memphis,M004,ATM,24,Student,86,1,666.42,Sangat Rendah,0
+135.57,Credit,Boston,M073,Branch,51,Doctor,116,1,11351.64,Sangat Rendah,0
+340.05,Debit,Detroit,M038,ATM,43,Engineer,37,1,7234.15,Sangat Rendah,0
+283.45,Debit,Colorado Springs,M039,Branch,27,Engineer,127,1,2049.51,Sangat Rendah,0
+100.99,Debit,New York,M078,ATM,68,Doctor,114,1,8865.27,Sangat Rendah,0
+90.88,Debit,Albuquerque,M071,Branch,18,Student,176,1,3908.47,Sangat Rendah,0
+655.15,Debit,Seattle,M083,ATM,26,Engineer,264,1,5587.44,Sangat Rendah,0
+320.55,Debit,Milwaukee,M041,Online,50,Engineer,118,1,438.75,Sangat Rendah,0
+41.51,Debit,Phoenix,M084,Online,28,Student,48,1,609.6,Sangat Rendah,0
+71.53,Credit,Jacksonville,M030,Branch,68,Retired,39,1,2393.73,Sangat Rendah,0
+467.13,Credit,Kansas City,M096,Branch,54,Retired,45,1,3914.84,Sangat Rendah,0
+235.4,Debit,Detroit,M038,Branch,28,Student,70,1,818.36,Sangat Rendah,0
+159.32,Debit,Seattle,M033,Branch,18,Student,100,1,304.44,Sangat Rendah,0
+50.83,Credit,Philadelphia,M076,Online,30,Doctor,48,1,9553.42,Sangat Rendah,0
+56.89,Credit,Houston,M062,Branch,59,Engineer,56,1,3034.67,Sangat Rendah,0
+20.22,Debit,Jacksonville,M003,ATM,43,Engineer,138,1,5515.32,Sangat Rendah,0
+50.4,Debit,San Antonio,M079,Branch,36,Doctor,84,1,1677.01,Sangat Rendah,0
+73.88,Debit,Los Angeles,M009,Branch,53,Retired,131,1,4055.55,Sangat Rendah,0
+119.61,Debit,San Diego,M017,ATM,33,Doctor,53,1,9899.94,Sangat Rendah,0
+1241.05,Debit,Miami,M089,Branch,18,Student,129,1,756.74,Sangat Rendah,0
+116.58,Debit,Raleigh,M038,Branch,43,Engineer,247,1,2620.74,Sangat Rendah,0
+1919.11,Debit,Portland,M033,ATM,30,Doctor,161,1,11090.24,Sangat Rendah,0
+391.96,Debit,Nashville,M032,ATM,64,Retired,79,1,2174.16,Sangat Rendah,0
+156.26,Credit,Virginia Beach,M059,Branch,46,Engineer,160,1,7854.1,Sangat Rendah,0
+427.0,Credit,Oklahoma City,M065,Branch,49,Engineer,163,1,8253.65,Sangat Rendah,0
+443.68,Debit,Tucson,M012,ATM,18,Student,137,1,874.15,Sangat Rendah,0
+101.76,Debit,Philadelphia,M071,Branch,31,Doctor,26,1,6043.25,Sangat Rendah,0
+67.57,Debit,Charlotte,M093,Branch,37,Engineer,107,1,2766.12,Sangat Rendah,0
+326.29,Debit,Denver,M025,Online,56,Engineer,179,1,8171.26,Sangat Rendah,0
+158.56,Debit,Sacramento,M087,ATM,33,Doctor,100,1,5401.21,Sangat Rendah,0
+56.02,Debit,Memphis,M003,Online,27,Student,142,1,3548.02,Sangat Rendah,0
+288.28,Debit,Portland,M087,Online,27,Student,36,1,160.83,Sangat Rendah,0
+245.67,Credit,Portland,M088,Branch,24,Student,107,1,752.25,Sangat Rendah,0
+152.18,Credit,Los Angeles,M093,Online,39,Engineer,176,4,2459.84,Sedang,1
+114.35,Credit,El Paso,M025,Branch,41,Engineer,21,1,469.12,Sangat Rendah,0
+373.27,Credit,Miami,M053,Online,61,Doctor,79,1,8441.61,Sangat Rendah,0
+504.63,Debit,Portland,M068,Online,60,Engineer,168,1,3806.16,Sangat Rendah,0
+126.22,Debit,Atlanta,M081,ATM,46,Engineer,77,4,6133.41,Sedang,1
+820.15,Debit,Kansas City,M093,Branch,47,Doctor,181,1,8802.97,Sangat Rendah,0
+986.81,Credit,Houston,M039,Online,68,Doctor,127,1,14881.77,Sangat Rendah,0
+8.37,Debit,Colorado Springs,M011,ATM,63,Retired,135,1,1106.34,Sangat Rendah,0
+197.49,Credit,Fresno,M007,Online,53,Retired,30,1,5005.33,Sangat Rendah,0
+637.97,Debit,New York,M066,Branch,58,Retired,90,1,7949.03,Sangat Rendah,0
+13.52,Debit,Seattle,M001,ATM,26,Student,65,1,259.77,Sangat Rendah,0
+432.1,Debit,San Francisco,M048,ATM,49,Engineer,240,1,2114.3,Sangat Rendah,0
+375.17,Debit,Fort Worth,M053,ATM,51,Engineer,66,2,5495.3,Rendah,0
+642.68,Debit,Fresno,M034,Branch,50,Doctor,94,1,8461.46,Sangat Rendah,0
+78.44,Credit,San Jose,M033,Online,52,Retired,292,1,6870.84,Sangat Rendah,0
+139.72,Debit,Memphis,M033,Branch,49,Engineer,201,1,5058.83,Sangat Rendah,0
+499.99,Debit,San Jose,M046,Branch,31,Engineer,296,1,8885.0,Sangat Rendah,0
+10.07,Debit,Albuquerque,M029,Online,24,Student,49,1,530.81,Sangat Rendah,0
+120.62,Debit,Raleigh,M087,ATM,23,Student,85,1,9379.53,Sangat Rendah,0
+578.49,Debit,Nashville,M032,Branch,59,Retired,180,1,6475.13,Sangat Rendah,0
+119.3,Debit,Mesa,M058,Branch,34,Engineer,22,5,319.04,Sedang,1
+280.92,Debit,Phoenix,M048,Online,41,Doctor,168,1,5298.85,Sangat Rendah,0
+42.42,Debit,Sacramento,M042,Online,21,Student,102,1,490.57,Sangat Rendah,0
+77.03,Debit,Fresno,M030,ATM,67,Doctor,259,1,11310.27,Sangat Rendah,0
+22.59,Debit,Seattle,M060,ATM,62,Retired,45,1,3988.75,Sangat Rendah,0
+568.76,Debit,Baltimore,M097,ATM,51,Retired,155,1,7484.32,Sangat Rendah,0
+25.94,Credit,San Jose,M003,Online,58,Retired,211,5,4815.11,Sedang,1
+105.94,Debit,Oklahoma City,M074,Branch,51,Engineer,207,1,5963.1,Sangat Rendah,0
+733.29,Debit,Virginia Beach,M032,ATM,52,Doctor,94,5,10427.0,Sedang,1
+350.15,Credit,Fresno,M052,ATM,21,Student,195,1,296.47,Sangat Rendah,0
+1151.18,Debit,Kansas City,M055,ATM,65,Doctor,105,1,1100.06,Sangat Rendah,0
+183.67,Debit,San Diego,M085,Online,19,Student,238,1,910.26,Sangat Rendah,0
+278.27,Debit,Tucson,M027,Branch,29,Doctor,123,1,6684.34,Sangat Rendah,0
+470.3,Debit,Austin,M091,ATM,40,Doctor,88,1,8524.09,Sangat Rendah,0
+261.69,Debit,Philadelphia,M042,ATM,53,Retired,84,1,5126.65,Sangat Rendah,0
+365.04,Debit,Virginia Beach,M003,Branch,22,Student,94,1,873.89,Sangat Rendah,0
+211.1,Debit,Miami,M070,Branch,57,Retired,136,1,7059.77,Sangat Rendah,0
+21.49,Debit,Denver,M050,ATM,58,Doctor,240,1,11991.24,Sangat Rendah,0
+63.58,Debit,Columbus,M093,ATM,18,Student,199,1,8086.04,Sangat Rendah,0
+321.86,Debit,San Antonio,M005,ATM,63,Doctor,167,1,12626.49,Sangat Rendah,0
+12.11,Debit,Jacksonville,M038,Branch,75,Retired,127,1,1730.28,Sangat Rendah,0
+642.54,Debit,Milwaukee,M025,Branch,44,Engineer,28,1,3143.17,Sangat Rendah,0
+210.45,Debit,Las Vegas,M011,ATM,27,Student,146,1,1242.49,Sangat Rendah,0
+313.65,Credit,Chicago,M017,Branch,55,Retired,173,1,1886.36,Sangat Rendah,0
+99.76,Debit,Sacramento,M039,Branch,26,Student,131,1,416.89,Sangat Rendah,0
+115.32,Debit,Denver,M075,Branch,53,Retired,113,1,5929.08,Sangat Rendah,0
+33.61,Debit,Milwaukee,M014,Online,23,Student,72,1,479.08,Sangat Rendah,0
+498.59,Credit,Oklahoma City,M032,Online,33,Doctor,32,1,5862.99,Sangat Rendah,0
+98.81,Debit,San Francisco,M047,Branch,27,Student,91,1,797.1,Sangat Rendah,0
+1.87,Debit,Washington,M014,ATM,65,Retired,147,1,7287.94,Sangat Rendah,0
+78.92,Credit,Jacksonville,M075,Online,59,Engineer,95,1,5624.86,Sangat Rendah,0
+194.29,Credit,Seattle,M059,Branch,39,Engineer,10,1,2988.41,Sangat Rendah,0
+28.73,Debit,Kansas City,M016,ATM,53,Engineer,185,1,2712.96,Sangat Rendah,0
+105.53,Debit,Colorado Springs,M026,Online,24,Student,88,1,1433.66,Sangat Rendah,0
+737.34,Debit,Miami,M006,Online,30,Doctor,34,1,7336.56,Sangat Rendah,0
+237.86,Debit,Philadelphia,M044,ATM,18,Student,210,1,475.63,Sangat Rendah,0
+409.61,Debit,Kansas City,M024,Branch,65,Doctor,89,1,11698.15,Sangat Rendah,0
+75.53,Credit,Fresno,M009,Online,21,Student,157,1,1034.35,Sangat Rendah,0
+72.75,Debit,Phoenix,M067,ATM,64,Doctor,15,1,12042.79,Sangat Rendah,0
+39.11,Debit,Columbus,M052,Online,26,Student,143,1,518.54,Sangat Rendah,0
+1309.79,Debit,San Francisco,M004,ATM,23,Student,139,1,1258.93,Sangat Rendah,0
+729.38,Debit,Los Angeles,M093,ATM,68,Doctor,90,1,9127.65,Sangat Rendah,0
+137.49,Debit,Fort Worth,M040,ATM,34,Engineer,50,1,4471.05,Sangat Rendah,0
+504.71,Debit,Detroit,M060,Online,29,Engineer,61,1,6214.54,Sangat Rendah,0
+371.47,Credit,Milwaukee,M097,Branch,24,Student,58,1,1187.04,Sangat Rendah,0
+430.35,Debit,Charlotte,M007,Online,36,Doctor,205,1,354.9,Sangat Rendah,0
+230.32,Debit,Las Vegas,M015,Branch,35,Engineer,56,1,791.46,Sangat Rendah,0
+121.71,Debit,Chicago,M015,ATM,52,Retired,140,1,5878.89,Sangat Rendah,0
+98.87,Debit,Detroit,M060,Online,20,Student,179,1,533.2,Sangat Rendah,0
+117.55,Debit,Fresno,M046,ATM,24,Student,35,1,897.94,Sangat Rendah,0
+244.64,Debit,Tucson,M072,Branch,30,Doctor,103,1,9159.56,Sangat Rendah,0
+321.93,Debit,Nashville,M092,ATM,45,Engineer,12,1,4392.73,Sangat Rendah,0
+1092.73,Debit,Columbus,M064,Branch,58,Retired,11,1,1390.98,Sangat Rendah,0
+283.23,Debit,El Paso,M061,Online,40,Engineer,98,1,2008.77,Sangat Rendah,0
+346.65,Debit,Washington,M062,Online,30,Engineer,60,1,6356.96,Sangat Rendah,0
+381.62,Debit,Las Vegas,M097,Online,64,Retired,164,1,6009.12,Sangat Rendah,0
+388.65,Debit,Oklahoma City,M065,ATM,76,Retired,43,1,7896.85,Sangat Rendah,0
+29.22,Debit,San Antonio,M068,ATM,24,Student,151,1,1649.43,Sangat Rendah,0
+46.75,Debit,Colorado Springs,M078,Branch,67,Retired,150,1,2840.43,Sangat Rendah,0
+348.64,Debit,San Jose,M098,Online,57,Retired,128,1,3274.96,Sangat Rendah,0
+319.17,Debit,Tucson,M088,Online,73,Retired,81,1,6501.56,Sangat Rendah,0
+73.95,Debit,Kansas City,M012,ATM,26,Student,76,1,363.92,Sangat Rendah,0
+389.63,Debit,Mesa,M100,Online,27,Engineer,99,1,9748.48,Sangat Rendah,0
+217.61,Debit,Chicago,M025,ATM,19,Student,45,1,1404.53,Sangat Rendah,0
+199.84,Debit,Dallas,M082,ATM,21,Student,150,1,706.44,Sangat Rendah,0
+56.35,Debit,Charlotte,M033,ATM,44,Doctor,75,1,5095.73,Sangat Rendah,0
+248.95,Credit,San Francisco,M068,Branch,65,Retired,29,1,3059.79,Sangat Rendah,0
+142.58,Debit,San Antonio,M048,ATM,33,Engineer,145,1,7844.23,Sangat Rendah,0
+1020.73,Debit,Fort Worth,M087,ATM,28,Student,87,1,1119.61,Sangat Rendah,0
+84.34,Debit,Memphis,M039,Online,58,Retired,248,3,5313.97,Rendah,1
+1607.55,Debit,Phoenix,M031,ATM,31,Engineer,156,1,6227.99,Sangat Rendah,0
+333.78,Debit,San Diego,M057,ATM,60,Retired,98,1,6810.94,Sangat Rendah,0
+332.59,Debit,San Antonio,M060,Online,55,Retired,143,1,1457.07,Sangat Rendah,0
+236.81,Debit,Oklahoma City,M013,Branch,22,Student,15,1,813.68,Sangat Rendah,0
+417.8,Credit,Philadelphia,M066,Branch,27,Student,130,1,1518.82,Sangat Rendah,0
+319.27,Debit,San Antonio,M052,ATM,50,Doctor,150,1,10269.78,Sangat Rendah,0
+384.1,Debit,Detroit,M004,Branch,42,Engineer,172,1,672.79,Sangat Rendah,0
+820.62,Credit,Fresno,M084,Branch,61,Doctor,158,1,6024.8,Sangat Rendah,0
+474.77,Credit,Indianapolis,M073,Online,56,Engineer,50,1,2158.59,Sangat Rendah,0
+542.72,Credit,Indianapolis,M100,Branch,43,Doctor,92,1,6011.8,Sangat Rendah,0
+79.8,Debit,Fort Worth,M070,ATM,73,Retired,76,1,6372.58,Sangat Rendah,0
+46.24,Debit,San Diego,M043,Branch,57,Engineer,52,1,2569.56,Sangat Rendah,0
+327.8,Debit,San Francisco,M054,ATM,61,Doctor,54,1,10585.48,Sangat Rendah,0
+445.79,Debit,Las Vegas,M052,ATM,52,Doctor,161,1,717.99,Sangat Rendah,0
+55.89,Debit,Fresno,M026,Online,72,Retired,150,1,3689.65,Sangat Rendah,0
+158.41,Debit,Sacramento,M013,Branch,28,Student,16,1,1512.16,Sangat Rendah,0
+101.19,Credit,Denver,M033,Online,64,Doctor,75,1,14389.45,Sangat Rendah,0
+827.14,Debit,El Paso,M018,Branch,36,Engineer,265,4,9800.21,Sedang,1
+61.97,Debit,Phoenix,M056,ATM,74,Retired,95,1,7014.69,Sangat Rendah,0
+27.21,Debit,San Jose,M050,ATM,79,Retired,102,1,3520.61,Sangat Rendah,0
+173.74,Debit,Houston,M074,Online,80,Retired,64,1,4913.42,Sangat Rendah,0
+176.11,Debit,San Jose,M091,Branch,38,Engineer,105,1,9155.35,Sangat Rendah,0
+88.4,Debit,Fort Worth,M065,Online,46,Engineer,174,1,2567.53,Sangat Rendah,0
+567.92,Debit,Columbus,M042,Online,53,Retired,14,1,3779.47,Sangat Rendah,0
+138.11,Credit,Phoenix,M001,Online,68,Retired,104,1,4177.65,Sangat Rendah,0
+456.93,Credit,Virginia Beach,M006,Branch,28,Engineer,193,1,7284.76,Sangat Rendah,0
+101.42,Debit,Atlanta,M036,Online,66,Retired,146,1,6530.59,Sangat Rendah,0
+300.61,Debit,El Paso,M006,Online,44,Doctor,51,1,7895.54,Sangat Rendah,0
+265.94,Debit,Boston,M085,Online,54,Engineer,132,1,6781.3,Sangat Rendah,0
+345.54,Debit,San Diego,M050,Online,29,Engineer,50,1,2091.78,Sangat Rendah,0
+411.52,Debit,Los Angeles,M023,ATM,41,Doctor,88,1,11108.39,Sangat Rendah,0
+111.21,Debit,Portland,M076,Branch,35,Doctor,111,1,9088.36,Sangat Rendah,0
+316.37,Debit,Colorado Springs,M088,ATM,53,Engineer,86,1,4671.69,Sangat Rendah,0
+260.63,Debit,Fort Worth,M005,Branch,37,Engineer,142,1,7534.73,Sangat Rendah,0
+92.36,Debit,Dallas,M092,ATM,29,Engineer,144,1,6353.14,Sangat Rendah,0
+262.06,Debit,Oklahoma City,M029,Branch,63,Doctor,118,1,13587.52,Sangat Rendah,0
+64.5,Debit,Denver,M062,ATM,74,Retired,230,1,1351.24,Sangat Rendah,0
+253.55,Debit,Jacksonville,M007,ATM,28,Engineer,85,5,2797.26,Sedang,1
+408.28,Credit,Nashville,M028,Branch,21,Student,125,3,1222.77,Rendah,1
+175.94,Debit,Indianapolis,M044,ATM,57,Retired,89,1,3728.04,Sangat Rendah,0
+199.47,Debit,Detroit,M041,Online,57,Doctor,142,1,6067.44,Sangat Rendah,0
+51.07,Debit,Dallas,M017,Branch,63,Retired,133,1,4292.16,Sangat Rendah,0
+435.86,Debit,Jacksonville,M075,ATM,56,Retired,134,1,3801.82,Sangat Rendah,0
+74.73,Credit,Jacksonville,M009,Branch,64,Retired,162,1,6353.22,Sangat Rendah,0
+182.79,Credit,Louisville,M013,Online,23,Student,14,1,1251.85,Sangat Rendah,0
+628.36,Debit,Austin,M005,Online,44,Doctor,108,1,11869.71,Sangat Rendah,0
+268.39,Debit,San Antonio,M021,Online,29,Doctor,177,1,9409.43,Sangat Rendah,0
+362.27,Debit,Jacksonville,M051,ATM,80,Retired,47,1,6003.59,Sangat Rendah,0
+560.15,Credit,Memphis,M059,Online,50,Engineer,92,1,817.83,Sangat Rendah,0
+351.99,Debit,Chicago,M001,ATM,80,Retired,45,2,3663.64,Rendah,0
+132.36,Debit,Colorado Springs,M094,Branch,28,Student,160,1,319.65,Sangat Rendah,0
+24.77,Credit,Nashville,M002,Online,40,Engineer,17,1,478.23,Sangat Rendah,0
+668.67,Debit,Detroit,M019,Online,44,Doctor,143,4,13446.81,Sedang,1
+80.24,Credit,New York,M016,Branch,53,Doctor,58,1,8012.81,Sangat Rendah,0
+8.65,Debit,Mesa,M060,ATM,68,Retired,198,1,4201.22,Sangat Rendah,0
+178.91,Debit,Omaha,M035,ATM,18,Student,19,1,8870.89,Sangat Rendah,0
+115.22,Debit,San Francisco,M063,Branch,27,Engineer,108,1,906.2,Sangat Rendah,0
+161.63,Debit,San Jose,M077,Online,46,Doctor,276,1,9286.37,Sangat Rendah,0
+542.75,Credit,Nashville,M045,Branch,70,Retired,63,1,2224.08,Sangat Rendah,0
+317.47,Credit,Sacramento,M083,Online,67,Doctor,16,1,14639.28,Sangat Rendah,0
+280.99,Debit,Houston,M096,Branch,45,Engineer,29,1,9733.59,Sangat Rendah,0
+24.19,Debit,San Diego,M061,ATM,29,Engineer,28,1,2756.2,Sangat Rendah,0
+586.85,Debit,Mesa,M014,ATM,36,Doctor,86,1,6655.15,Sangat Rendah,0
+372.41,Debit,San Diego,M088,ATM,55,Retired,143,1,3233.87,Sangat Rendah,0
+63.17,Debit,Fresno,M039,ATM,20,Student,148,1,1676.57,Sangat Rendah,0
+383.69,Debit,Colorado Springs,M064,Online,54,Engineer,285,1,8371.11,Sangat Rendah,0
+247.17,Credit,Chicago,M096,Branch,65,Retired,149,1,2611.64,Sangat Rendah,0
+48.78,Credit,Kansas City,M006,Branch,18,Student,136,1,552.06,Sangat Rendah,0
+4.15,Credit,Omaha,M019,Branch,60,Retired,119,1,6017.36,Sangat Rendah,0
+60.99,Debit,Oklahoma City,M037,Branch,34,Engineer,58,1,7281.46,Sangat Rendah,0
+408.19,Debit,Mesa,M038,Branch,26,Engineer,241,1,6847.47,Sangat Rendah,0
+524.6,Debit,El Paso,M002,Branch,58,Doctor,76,1,13017.7,Sangat Rendah,0
+108.96,Debit,Milwaukee,M070,ATM,26,Student,247,1,7597.66,Sangat Rendah,0
+70.03,Debit,Nashville,M073,Branch,63,Retired,49,1,7330.31,Sangat Rendah,0
+124.84,Debit,Louisville,M051,Online,52,Retired,79,1,6711.78,Sangat Rendah,0
+324.04,Debit,Virginia Beach,M043,ATM,54,Retired,30,1,2248.06,Sangat Rendah,0
+39.69,Debit,Austin,M089,Online,70,Retired,163,1,3524.68,Sangat Rendah,0
+157.7,Credit,Omaha,M019,Branch,58,Engineer,46,1,8332.58,Sangat Rendah,0
+81.27,Credit,Seattle,M051,Online,22,Student,68,1,1814.48,Sangat Rendah,0
+193.82,Debit,Kansas City,M042,Branch,37,Engineer,176,1,3886.77,Sangat Rendah,0
+16.73,Debit,Omaha,M022,Online,79,Retired,165,1,7591.13,Sangat Rendah,0
+474.05,Debit,San Jose,M031,ATM,57,Retired,214,1,1484.31,Sangat Rendah,0
+39.21,Debit,Miami,M093,ATM,66,Doctor,245,4,9385.57,Sedang,1
+637.75,Debit,Dallas,M028,Branch,79,Retired,152,1,4202.92,Sangat Rendah,0
+153.59,Credit,Portland,M001,Branch,66,Retired,174,1,4813.12,Sangat Rendah,0
+186.6,Debit,Tucson,M086,Branch,18,Student,139,1,9716.68,Sangat Rendah,0
+644.08,Debit,Atlanta,M018,Online,24,Student,55,1,1980.62,Sangat Rendah,0
+226.66,Debit,Austin,M001,Branch,41,Doctor,168,1,10216.25,Sangat Rendah,0
+305.0,Debit,Phoenix,M003,ATM,22,Student,222,1,944.83,Sangat Rendah,0
+233.1,Credit,Nashville,M011,Branch,42,Doctor,37,1,7469.2,Sangat Rendah,0
+793.13,Debit,Memphis,M035,Online,68,Doctor,76,1,13389.16,Sangat Rendah,0
+224.19,Debit,Houston,M017,ATM,52,Doctor,93,1,8475.47,Sangat Rendah,0
+214.83,Credit,Tucson,M009,ATM,23,Student,63,1,991.69,Sangat Rendah,0
+163.46,Credit,Baltimore,M037,Branch,63,Retired,111,1,6953.8,Sangat Rendah,0
+194.99,Debit,Jacksonville,M097,Branch,34,Engineer,91,1,1370.03,Sangat Rendah,0
+23.4,Debit,El Paso,M027,ATM,46,Doctor,175,4,14851.28,Sedang,1
+227.5,Debit,Sacramento,M055,Online,34,Doctor,277,1,11505.35,Sangat Rendah,0
+259.9,Debit,Oklahoma City,M083,Online,26,Student,100,1,914.28,Sangat Rendah,0
+59.51,Credit,Dallas,M086,Online,36,Doctor,55,1,9955.88,Sangat Rendah,0
+50.63,Debit,Columbus,M045,Online,64,Retired,143,1,4732.81,Sangat Rendah,0
+1074.95,Debit,Jacksonville,M089,Branch,20,Student,91,1,530.86,Sangat Rendah,0
+112.94,Credit,San Antonio,M091,Online,73,Retired,31,1,3807.84,Sangat Rendah,0
+11.81,Debit,Phoenix,M072,ATM,21,Student,131,1,320.25,Sangat Rendah,0
+329.14,Debit,Sacramento,M018,Branch,55,Doctor,14,1,12033.92,Sangat Rendah,0
+154.24,Debit,Mesa,M049,ATM,61,Retired,82,1,6109.55,Sangat Rendah,0
+233.44,Debit,Chicago,M037,Online,20,Student,297,1,1691.88,Sangat Rendah,0
+141.8,Debit,Chicago,M088,ATM,18,Student,116,1,1697.67,Sangat Rendah,0
+209.03,Debit,Detroit,M012,Branch,55,Engineer,126,1,8359.5,Sangat Rendah,0
+1137.63,Debit,Baltimore,M074,ATM,26,Student,144,1,1629.12,Sangat Rendah,0
+261.14,Debit,San Antonio,M040,ATM,42,Engineer,162,1,6100.08,Sangat Rendah,0
+101.81,Debit,Fort Worth,M087,ATM,45,Doctor,105,1,13872.03,Sangat Rendah,0
+98.71,Debit,Fort Worth,M070,ATM,32,Doctor,117,1,10095.23,Sangat Rendah,0
+87.38,Debit,Atlanta,M054,Branch,21,Student,252,1,1504.99,Sangat Rendah,0
+83.39,Debit,Omaha,M042,Branch,32,Doctor,158,1,13182.11,Sangat Rendah,0
+267.55,Debit,Charlotte,M084,Online,46,Engineer,40,1,4330.04,Sangat Rendah,0
+870.05,Debit,El Paso,M077,ATM,29,Doctor,39,1,905.25,Sangat Rendah,0
+154.32,Credit,Tucson,M015,ATM,38,Engineer,269,1,6972.5,Sangat Rendah,0
+164.51,Debit,Louisville,M056,Branch,78,Retired,110,1,3553.69,Sangat Rendah,0
+758.12,Debit,San Francisco,M028,ATM,69,Retired,90,1,6164.65,Sangat Rendah,0
+103.76,Debit,Kansas City,M085,Online,28,Engineer,188,1,9626.14,Sangat Rendah,0
+583.92,Debit,Kansas City,M024,Online,55,Engineer,139,1,6364.14,Sangat Rendah,0
+204.06,Debit,Washington,M069,Online,77,Retired,159,1,4351.83,Sangat Rendah,0
+53.51,Debit,New York,M030,Online,56,Retired,165,1,5773.5,Sangat Rendah,0
+1108.46,Debit,Los Angeles,M046,Branch,30,Engineer,262,1,9257.04,Sangat Rendah,0
+52.95,Credit,Charlotte,M061,Online,68,Retired,14,1,6335.58,Sangat Rendah,0
+120.17,Debit,Portland,M023,ATM,49,Doctor,105,1,5403.79,Sangat Rendah,0
+220.8,Debit,Indianapolis,M021,Online,31,Engineer,28,1,8135.31,Sangat Rendah,0
+119.01,Debit,Philadelphia,M069,ATM,45,Doctor,87,1,9798.26,Sangat Rendah,0
+183.32,Debit,Raleigh,M041,ATM,21,Student,74,1,137.42,Sangat Rendah,0
+858.88,Debit,Jacksonville,M085,Online,60,Engineer,227,1,7015.46,Sangat Rendah,0
+11.46,Credit,San Francisco,M092,Online,41,Engineer,128,1,2356.71,Sangat Rendah,0
+61.37,Debit,Columbus,M001,Branch,75,Retired,164,1,4294.44,Sangat Rendah,0
+103.08,Credit,Milwaukee,M096,Branch,49,Engineer,150,1,9251.38,Sangat Rendah,0
+1.21,Debit,Atlanta,M039,Branch,55,Retired,196,1,7542.74,Sangat Rendah,0
+425.18,Credit,Colorado Springs,M051,Online,26,Engineer,172,1,9880.71,Sangat Rendah,0
+60.96,Debit,Colorado Springs,M065,ATM,52,Retired,238,1,6189.24,Sangat Rendah,0
+64.21,Debit,Omaha,M028,ATM,51,Doctor,37,1,12540.18,Sangat Rendah,0
+523.02,Debit,Jacksonville,M010,Online,53,Retired,83,1,4586.11,Sangat Rendah,0
+50.26,Debit,Las Vegas,M055,Branch,65,Retired,164,1,1519.38,Sangat Rendah,0
+110.08,Debit,Detroit,M059,Branch,19,Student,95,1,1447.26,Sangat Rendah,0
+54.47,Credit,Philadelphia,M100,Branch,23,Student,34,1,1131.42,Sangat Rendah,0
+79.76,Debit,Kansas City,M043,Online,68,Doctor,115,1,10278.75,Sangat Rendah,0
+16.79,Credit,Detroit,M023,Online,30,Doctor,146,1,535.15,Sangat Rendah,0
+1531.31,Debit,San Diego,M078,Online,18,Student,62,4,859.86,Sedang,1
+68.62,Debit,Omaha,M091,Branch,29,Doctor,157,1,13891.47,Sangat Rendah,0
+157.16,Debit,New York,M068,Branch,20,Student,280,1,1545.77,Sangat Rendah,0
+643.38,Credit,Detroit,M044,Online,18,Student,105,1,1046.74,Sangat Rendah,0
+328.34,Credit,San Diego,M014,Online,42,Engineer,31,1,2840.45,Sangat Rendah,0
+72.68,Debit,Seattle,M072,Online,69,Retired,44,1,6216.77,Sangat Rendah,0
+354.76,Debit,Detroit,M065,Branch,51,Doctor,279,1,10141.92,Sangat Rendah,0
+793.88,Credit,Los Angeles,M036,ATM,22,Student,252,1,1404.06,Sangat Rendah,0
+29.22,Debit,Detroit,M056,ATM,27,Engineer,69,1,7795.79,Sangat Rendah,0
+653.97,Debit,Miami,M067,Online,37,Engineer,100,1,3886.65,Sangat Rendah,0
+366.43,Credit,Portland,M080,Online,21,Student,92,1,1560.45,Sangat Rendah,0
+120.86,Debit,Colorado Springs,M081,Online,33,Doctor,162,4,13566.58,Sedang,1
+233.74,Debit,Boston,M056,Online,72,Retired,142,1,4749.54,Sangat Rendah,0
+471.84,Debit,Raleigh,M080,ATM,18,Student,138,1,1044.33,Sangat Rendah,0
+213.4,Credit,Fort Worth,M087,Branch,73,Retired,100,1,2012.24,Sangat Rendah,0
+254.21,Debit,Phoenix,M030,ATM,48,Engineer,46,1,2487.2,Sangat Rendah,0
+577.73,Debit,San Jose,M033,ATM,37,Doctor,63,1,14977.99,Sangat Rendah,0
+170.26,Debit,Chicago,M053,ATM,27,Student,265,1,1969.48,Sangat Rendah,0
+337.73,Debit,San Antonio,M065,Online,78,Retired,107,4,7001.2,Sedang,1
+330.61,Credit,Nashville,M099,Branch,64,Retired,113,1,2525.25,Sangat Rendah,0
+132.33,Credit,Phoenix,M004,ATM,35,Engineer,47,1,7457.94,Sangat Rendah,0
+672.74,Credit,Colorado Springs,M068,Branch,46,Engineer,118,1,5386.52,Sangat Rendah,0
+74.04,Debit,Memphis,M094,Online,18,Student,66,1,1690.23,Sangat Rendah,0
+197.18,Debit,Tucson,M011,Online,28,Engineer,135,1,3114.92,Sangat Rendah,0
+21.15,Debit,Columbus,M058,Branch,70,Retired,180,1,3466.74,Sangat Rendah,0
+218.37,Debit,Houston,M075,ATM,62,Doctor,105,1,9942.24,Sangat Rendah,0
+590.01,Debit,San Jose,M044,Online,29,Doctor,140,3,9791.74,Rendah,1
+697.82,Debit,New York,M092,Online,44,Engineer,153,1,6824.0,Sangat Rendah,0
+302.76,Debit,Sacramento,M043,ATM,38,Engineer,88,3,8583.39,Rendah,1
+148.0,Debit,Tucson,M065,Branch,20,Student,35,1,1488.65,Sangat Rendah,0
+22.26,Debit,San Antonio,M057,Branch,19,Student,56,1,5583.88,Sangat Rendah,0
+0.86,Debit,Colorado Springs,M050,ATM,25,Student,139,1,1357.22,Sangat Rendah,0
+757.1,Debit,Atlanta,M071,Branch,65,Doctor,203,1,10553.23,Sangat Rendah,0
+38.81,Credit,Virginia Beach,M001,Online,25,Student,145,1,1619.6,Sangat Rendah,0
+76.51,Credit,Mesa,M016,Online,49,Engineer,120,4,9475.4,Sedang,1
+32.46,Debit,Charlotte,M092,Online,31,Doctor,10,1,8656.18,Sangat Rendah,0
+1022.75,Credit,San Jose,M091,Branch,62,Doctor,158,1,207.74,Sangat Rendah,0
+20.64,Debit,Charlotte,M079,Branch,22,Student,59,1,949.38,Sangat Rendah,0
+662.11,Debit,Atlanta,M100,Branch,23,Student,219,1,1996.38,Sangat Rendah,0
+288.77,Debit,Los Angeles,M025,ATM,55,Engineer,110,1,8836.51,Sangat Rendah,0
+35.05,Debit,Boston,M047,Branch,30,Doctor,105,1,14330.47,Sangat Rendah,0
+214.73,Credit,Los Angeles,M061,ATM,46,Doctor,26,1,5368.42,Sangat Rendah,0
+25.38,Debit,Louisville,M024,Branch,57,Engineer,66,1,8616.05,Sangat Rendah,0
+617.66,Debit,Memphis,M036,ATM,41,Engineer,40,1,5906.58,Sangat Rendah,0
+446.39,Debit,Houston,M019,ATM,63,Retired,77,1,7863.6,Sangat Rendah,0
+377.92,Debit,Raleigh,M029,Branch,33,Engineer,204,1,2254.71,Sangat Rendah,0
+11.04,Debit,Phoenix,M036,Online,30,Engineer,43,1,6983.04,Sangat Rendah,0
+275.46,Debit,Fort Worth,M032,ATM,36,Doctor,67,1,9697.75,Sangat Rendah,0
+179.76,Debit,Philadelphia,M039,Online,78,Retired,81,1,5909.52,Sangat Rendah,0
+32.34,Debit,Kansas City,M080,Branch,44,Doctor,45,1,7847.62,Sangat Rendah,0
+273.92,Debit,Portland,M053,Branch,79,Retired,109,1,4543.56,Sangat Rendah,0
+375.45,Debit,Fort Worth,M015,Branch,19,Student,32,1,1307.23,Sangat Rendah,0
+388.98,Debit,Fresno,M005,ATM,23,Student,155,1,1819.91,Sangat Rendah,0
+492.84,Debit,Indianapolis,M081,ATM,25,Student,38,1,577.67,Sangat Rendah,0
+148.85,Debit,Mesa,M021,ATM,57,Doctor,25,1,7802.36,Sangat Rendah,0
+119.95,Credit,Philadelphia,M092,Branch,62,Retired,47,5,2596.61,Sedang,1
+391.66,Debit,Fresno,M062,Branch,50,Engineer,103,1,2406.31,Sangat Rendah,0
+185.99,Credit,Fresno,M026,Branch,41,Engineer,53,1,402.45,Sangat Rendah,0
+322.48,Debit,Jacksonville,M066,ATM,27,Student,57,1,1238.43,Sangat Rendah,0
+20.27,Debit,Miami,M065,Branch,18,Student,22,1,796.35,Sangat Rendah,0
+280.61,Debit,Mesa,M085,ATM,47,Engineer,129,3,7888.76,Rendah,1
+199.02,Debit,Houston,M005,ATM,61,Retired,269,1,4658.89,Sangat Rendah,0
+104.23,Credit,Louisville,M081,Online,63,Retired,108,1,5009.29,Sangat Rendah,0
+353.59,Credit,New York,M046,Branch,52,Retired,109,5,1822.34,Sedang,1
+55.86,Debit,Seattle,M007,Online,39,Engineer,68,1,5346.46,Sangat Rendah,0
+10.77,Debit,Indianapolis,M096,ATM,31,Doctor,178,1,10704.95,Sangat Rendah,0
+95.55,Debit,Louisville,M060,Branch,33,Engineer,51,1,2434.74,Sangat Rendah,0
+477.07,Debit,Columbus,M096,Online,27,Engineer,278,1,6568.07,Sangat Rendah,0
+9.1,Credit,San Francisco,M047,Online,52,Retired,63,1,2791.45,Sangat Rendah,0
+21.41,Debit,Louisville,M062,Online,57,Doctor,99,1,658.91,Sangat Rendah,0
+278.28,Debit,Jacksonville,M097,Branch,28,Student,26,1,1346.88,Sangat Rendah,0
+388.1,Credit,Los Angeles,M019,Online,73,Retired,40,1,3022.12,Sangat Rendah,0
+215.39,Debit,Detroit,M019,ATM,27,Student,216,1,1582.55,Sangat Rendah,0
+194.37,Debit,Milwaukee,M024,ATM,66,Doctor,161,1,14395.88,Sangat Rendah,0
+37.7,Debit,Miami,M038,ATM,20,Student,109,1,1741.1,Sangat Rendah,0
+19.59,Debit,Charlotte,M016,Branch,64,Retired,122,1,1061.69,Sangat Rendah,0
+81.35,Debit,Houston,M028,Online,41,Engineer,103,1,7192.45,Sangat Rendah,0
+314.54,Credit,Virginia Beach,M035,Branch,58,Engineer,228,1,9923.45,Sangat Rendah,0
+466.64,Debit,Las Vegas,M082,ATM,58,Doctor,11,1,10915.11,Sangat Rendah,0
+397.01,Debit,Los Angeles,M058,ATM,22,Student,100,1,719.52,Sangat Rendah,0
+472.48,Debit,New York,M099,Branch,55,Engineer,87,1,7128.82,Sangat Rendah,0
+67.15,Debit,Indianapolis,M001,Online,59,Doctor,14,1,9028.49,Sangat Rendah,0
+102.67,Debit,Albuquerque,M091,Branch,79,Retired,119,1,4656.94,Sangat Rendah,0
+460.09,Credit,Fresno,M081,Online,35,Doctor,146,3,6990.64,Rendah,1
+453.49,Debit,Seattle,M088,Branch,66,Doctor,147,1,6366.43,Sangat Rendah,0
+267.17,Debit,Seattle,M100,ATM,26,Student,170,1,1382.62,Sangat Rendah,0
+111.26,Debit,Boston,M096,ATM,66,Doctor,43,1,14350.11,Sangat Rendah,0
+121.17,Debit,Phoenix,M053,ATM,68,Doctor,158,1,12990.77,Sangat Rendah,0
+213.28,Debit,Mesa,M088,Branch,51,Retired,94,1,4835.91,Sangat Rendah,0
+187.88,Debit,Nashville,M017,ATM,60,Engineer,180,1,2154.58,Sangat Rendah,0
+471.88,Credit,San Jose,M054,Online,34,Doctor,141,1,14833.34,Sangat Rendah,0
+83.79,Debit,Nashville,M031,ATM,57,Engineer,47,1,5061.3,Sangat Rendah,0
+212.14,Debit,Austin,M047,Branch,72,Retired,105,1,7225.06,Sangat Rendah,0
+99.16,Debit,San Francisco,M045,Online,79,Retired,202,1,2607.58,Sangat Rendah,0
+839.33,Credit,Louisville,M071,Branch,60,Doctor,86,1,11538.97,Sangat Rendah,0
+29.91,Credit,Philadelphia,M034,Online,76,Retired,43,3,2834.84,Rendah,1
+4.24,Debit,San Diego,M086,Online,38,Engineer,38,1,7822.73,Sangat Rendah,0
+50.29,Credit,Raleigh,M028,Online,58,Doctor,64,1,7604.9,Sangat Rendah,0
+135.85,Debit,Fresno,M015,Online,57,Retired,269,1,1480.39,Sangat Rendah,0
+368.53,Debit,Raleigh,M099,Branch,68,Doctor,34,1,13696.31,Sangat Rendah,0
+17.95,Credit,Sacramento,M027,Branch,64,Doctor,135,1,12344.9,Sangat Rendah,0
+127.8,Credit,Virginia Beach,M026,Branch,31,Engineer,47,1,8630.99,Sangat Rendah,0
+16.73,Debit,Houston,M073,Online,45,Engineer,48,1,2202.62,Sangat Rendah,0
+317.12,Debit,Fort Worth,M018,Branch,44,Doctor,80,1,14409.74,Sangat Rendah,0
+476.63,Debit,Charlotte,M037,ATM,79,Retired,115,1,4894.25,Sangat Rendah,0
+156.58,Debit,Portland,M083,Branch,24,Student,160,1,8981.61,Sangat Rendah,0
+55.12,Credit,Houston,M021,Online,34,Engineer,261,1,3791.99,Sangat Rendah,0
+15.74,Debit,Denver,M051,Branch,27,Student,38,1,690.16,Sangat Rendah,0
+353.68,Debit,Las Vegas,M030,Online,70,Retired,145,1,6777.12,Sangat Rendah,0
+297.15,Debit,Phoenix,M034,Online,76,Retired,178,1,5449.37,Sangat Rendah,0
+647.85,Debit,Omaha,M034,Branch,36,Doctor,121,1,13779.97,Sangat Rendah,0
+75.04,Debit,El Paso,M056,ATM,49,Engineer,178,1,9648.6,Sangat Rendah,0
+273.92,Debit,Virginia Beach,M086,Online,28,Student,35,1,1029.15,Sangat Rendah,0
+215.8,Credit,Jacksonville,M073,Branch,51,Retired,66,1,3656.62,Sangat Rendah,0
+963.77,Debit,Louisville,M055,ATM,41,Engineer,248,1,6710.51,Sangat Rendah,0
+420.6,Debit,Louisville,M086,Branch,26,Student,55,1,1778.75,Sangat Rendah,0
+688.36,Credit,Memphis,M007,Branch,23,Student,22,1,5191.13,Sangat Rendah,0
+285.18,Credit,Sacramento,M084,Branch,55,Doctor,150,1,14847.97,Sangat Rendah,0
+213.55,Debit,Boston,M077,ATM,63,Doctor,15,1,5238.37,Sangat Rendah,0
+463.11,Credit,Las Vegas,M078,Branch,51,Doctor,159,1,10238.82,Sangat Rendah,0
+150.03,Debit,Columbus,M059,ATM,73,Retired,176,1,7491.42,Sangat Rendah,0
+428.61,Debit,Fresno,M049,Branch,51,Retired,131,1,2116.36,Sangat Rendah,0
+309.56,Debit,Charlotte,M094,Online,58,Doctor,147,1,972.04,Sangat Rendah,0
+377.08,Credit,Mesa,M090,Branch,26,Student,71,1,6430.86,Sangat Rendah,0
+77.25,Debit,Virginia Beach,M059,Branch,68,Doctor,157,1,14077.97,Sangat Rendah,0
+146.92,Debit,Portland,M003,ATM,64,Retired,272,1,3990.6,Sangat Rendah,0
+126.6,Debit,San Antonio,M031,Branch,22,Student,146,1,961.65,Sangat Rendah,0
+101.34,Debit,Boston,M068,ATM,24,Student,46,1,703.26,Sangat Rendah,0
+184.97,Debit,Denver,M012,Branch,58,Doctor,268,1,1156.67,Sangat Rendah,0
+451.15,Debit,Colorado Springs,M094,ATM,46,Engineer,175,1,1356.47,Sangat Rendah,0
+516.47,Credit,Charlotte,M026,ATM,25,Student,94,1,1305.06,Sangat Rendah,0
+880.04,Debit,Sacramento,M093,ATM,25,Student,29,1,261.97,Sangat Rendah,0
+353.69,Debit,San Jose,M068,Online,59,Engineer,163,1,9500.79,Sangat Rendah,0
+66.69,Credit,San Antonio,M043,Branch,25,Student,140,1,1210.33,Sangat Rendah,0
+95.75,Debit,Los Angeles,M064,Branch,31,Engineer,169,1,337.62,Sangat Rendah,0
+43.91,Debit,Albuquerque,M073,Online,27,Student,86,1,1806.68,Sangat Rendah,0
+98.03,Debit,El Paso,M095,Branch,54,Engineer,165,1,6323.45,Sangat Rendah,0
+617.66,Debit,Boston,M057,ATM,42,Engineer,128,1,7155.95,Sangat Rendah,0
+888.57,Debit,San Antonio,M092,Online,62,Retired,102,1,7896.14,Sangat Rendah,0
+107.48,Debit,Omaha,M080,Branch,22,Student,129,1,591.23,Sangat Rendah,0
+36.57,Debit,Omaha,M051,ATM,62,Retired,69,1,2583.07,Sangat Rendah,0
+575.62,Debit,Oklahoma City,M081,Online,43,Doctor,129,1,234.41,Sangat Rendah,0
+84.89,Debit,San Jose,M018,ATM,37,Engineer,70,1,4735.61,Sangat Rendah,0
+832.3,Credit,Austin,M061,Branch,69,Retired,86,1,6617.52,Sangat Rendah,0
+180.65,Debit,Charlotte,M012,Branch,22,Student,38,5,816.01,Sedang,1
+7.76,Credit,Las Vegas,M091,Online,52,Retired,84,1,7393.11,Sangat Rendah,0
+109.3,Debit,Fort Worth,M020,Branch,56,Doctor,27,1,13510.11,Sangat Rendah,0
+230.08,Debit,Austin,M006,Online,79,Retired,124,1,4466.1,Sangat Rendah,0
+361.92,Debit,Detroit,M018,ATM,54,Retired,111,1,7474.31,Sangat Rendah,0
+71.29,Debit,Chicago,M075,ATM,68,Retired,55,2,7225.63,Rendah,0
+122.45,Debit,New York,M065,Branch,46,Doctor,98,1,7255.49,Sangat Rendah,0
+642.53,Debit,Mesa,M048,ATM,65,Doctor,128,1,11417.91,Sangat Rendah,0
+62.86,Debit,Houston,M090,Branch,25,Student,31,1,1040.43,Sangat Rendah,0
+175.21,Credit,Mesa,M049,ATM,69,Doctor,69,1,6039.04,Sangat Rendah,0
+168.0,Credit,Tucson,M053,Branch,32,Engineer,11,1,3498.58,Sangat Rendah,0
+11.46,Debit,Chicago,M056,Online,67,Retired,73,1,6628.75,Sangat Rendah,0
+382.07,Credit,Omaha,M091,Branch,62,Doctor,147,1,10156.09,Sangat Rendah,0
+13.48,Debit,Las Vegas,M094,Online,18,Student,20,3,521.88,Rendah,1
+65.32,Debit,Mesa,M094,ATM,28,Student,54,1,9165.02,Sangat Rendah,0
+83.07,Debit,Miami,M026,Branch,27,Engineer,291,4,6704.76,Sedang,1
+730.1,Credit,Chicago,M053,Branch,77,Retired,93,1,6384.05,Sangat Rendah,0
+85.31,Debit,Kansas City,M019,ATM,62,Retired,27,1,6095.65,Sangat Rendah,0
+726.61,Debit,Phoenix,M081,ATM,18,Student,277,1,1008.76,Sangat Rendah,0
+130.4,Debit,Raleigh,M024,Branch,45,Engineer,63,1,4381.24,Sangat Rendah,0
+68.1,Debit,Milwaukee,M089,ATM,20,Student,47,1,1382.8,Sangat Rendah,0
+65.26,Debit,Sacramento,M026,Branch,26,Student,72,1,7380.63,Sangat Rendah,0
+191.62,Debit,Jacksonville,M016,Branch,63,Doctor,51,1,1981.67,Sangat Rendah,0
+212.88,Debit,Fresno,M062,Online,39,Doctor,122,1,7036.72,Sangat Rendah,0
+88.38,Debit,Virginia Beach,M026,ATM,30,Engineer,138,1,3707.82,Sangat Rendah,0
+48.77,Credit,Austin,M013,Online,42,Engineer,51,1,2040.16,Sangat Rendah,0
+289.1,Debit,Baltimore,M064,ATM,27,Student,206,1,267.53,Sangat Rendah,0
+390.09,Debit,El Paso,M057,Online,26,Engineer,49,1,2617.23,Sangat Rendah,0
+48.29,Debit,San Diego,M060,Online,37,Engineer,242,1,8883.4,Sangat Rendah,0
+333.83,Debit,Fresno,M097,ATM,63,Retired,135,1,1660.66,Sangat Rendah,0
+1074.29,Debit,Portland,M081,Branch,67,Retired,79,1,2011.6,Sangat Rendah,0
+100.27,Debit,Miami,M045,Online,79,Retired,51,1,4309.9,Sangat Rendah,0
+44.54,Debit,San Antonio,M048,ATM,31,Engineer,164,1,362.4,Sangat Rendah,0
+1156.18,Credit,Phoenix,M054,Online,52,Doctor,40,1,836.69,Sangat Rendah,0
+82.17,Debit,Fort Worth,M096,Branch,28,Student,21,1,1913.06,Sangat Rendah,0
+1045.45,Debit,Baltimore,M036,Online,19,Student,150,1,563.46,Sangat Rendah,0
+447.42,Debit,Charlotte,M056,Online,32,Engineer,65,1,6133.22,Sangat Rendah,0
+590.26,Credit,Austin,M089,Branch,25,Student,48,1,1068.28,Sangat Rendah,0
+192.73,Debit,Milwaukee,M027,Branch,71,Retired,157,1,2037.75,Sangat Rendah,0
+146.01,Debit,San Francisco,M017,Online,26,Student,269,1,221.79,Sangat Rendah,0
+136.05,Debit,Atlanta,M068,Online,24,Student,63,3,1127.54,Rendah,1
+11.57,Credit,New York,M037,Branch,56,Retired,64,1,2061.61,Sangat Rendah,0
+102.34,Debit,San Antonio,M076,Online,51,Doctor,78,1,9326.28,Sangat Rendah,0
+7.82,Debit,Boston,M090,ATM,36,Engineer,273,1,2240.49,Sangat Rendah,0
+79.43,Debit,Dallas,M009,ATM,74,Retired,72,1,6579.37,Sangat Rendah,0
+386.97,Debit,Raleigh,M098,Branch,58,Retired,137,1,1876.35,Sangat Rendah,0
+51.22,Debit,Fresno,M040,Branch,23,Student,82,1,1664.59,Sangat Rendah,0
+256.05,Debit,Nashville,M009,ATM,54,Retired,35,1,6910.18,Sangat Rendah,0
+7.79,Debit,Los Angeles,M097,Branch,34,Doctor,298,1,1319.85,Sangat Rendah,0
+233.71,Debit,Louisville,M073,Branch,63,Doctor,11,1,6095.5,Sangat Rendah,0
+176.37,Debit,Boston,M057,Branch,55,Retired,126,1,2420.86,Sangat Rendah,0
+122.63,Debit,Milwaukee,M029,Branch,21,Student,153,1,359.06,Sangat Rendah,0
+86.41,Debit,Fresno,M099,ATM,75,Retired,125,1,3128.71,Sangat Rendah,0
+21.57,Debit,San Francisco,M071,ATM,54,Retired,71,1,7587.48,Sangat Rendah,0
+82.67,Debit,Milwaukee,M014,Branch,26,Student,46,1,290.59,Sangat Rendah,0
+451.35,Credit,Baltimore,M028,Branch,47,Engineer,223,1,7707.96,Sangat Rendah,0
+299.42,Credit,San Jose,M005,Branch,63,Retired,53,1,4735.41,Sangat Rendah,0
+543.47,Debit,Los Angeles,M092,ATM,18,Student,122,1,6165.03,Sangat Rendah,0
+346.76,Credit,San Jose,M055,Branch,21,Student,116,1,1637.75,Sangat Rendah,0
+47.48,Debit,El Paso,M027,Branch,24,Student,66,1,585.52,Sangat Rendah,0
+64.92,Debit,Atlanta,M082,Branch,58,Engineer,236,1,5481.76,Sangat Rendah,0
+350.72,Credit,Fresno,M035,ATM,28,Student,48,1,1982.9,Sangat Rendah,0
+3.8,Debit,Charlotte,M057,Online,65,Doctor,174,1,5766.96,Sangat Rendah,0
+22.54,Debit,El Paso,M044,Online,26,Engineer,42,1,7139.11,Sangat Rendah,0
+767.14,Credit,Mesa,M039,Branch,62,Retired,38,1,4732.57,Sangat Rendah,0
+167.47,Debit,Sacramento,M024,ATM,35,Engineer,103,1,2293.13,Sangat Rendah,0
+43.65,Credit,Charlotte,M066,Branch,30,Engineer,212,1,2870.67,Sangat Rendah,0
+391.08,Debit,Fresno,M029,Online,56,Retired,105,1,6885.16,Sangat Rendah,0
+390.77,Debit,Portland,M045,Online,44,Doctor,34,1,5500.56,Sangat Rendah,0
+508.16,Debit,Mesa,M038,ATM,39,Engineer,131,1,5609.44,Sangat Rendah,0
+36.76,Credit,Philadelphia,M053,Online,65,Retired,108,1,1228.93,Sangat Rendah,0
+332.33,Debit,Kansas City,M039,ATM,27,Student,101,1,192.63,Sangat Rendah,0
+362.09,Debit,New York,M093,Branch,32,Engineer,31,1,6590.28,Sangat Rendah,0
+42.58,Debit,San Jose,M057,Online,30,Doctor,80,1,13485.0,Sangat Rendah,0
+122.35,Credit,Atlanta,M008,Branch,53,Retired,188,1,6472.5,Sangat Rendah,0
+248.66,Debit,Chicago,M058,Online,28,Engineer,113,1,2571.39,Sangat Rendah,0
+461.25,Credit,Sacramento,M044,Online,54,Doctor,171,1,676.1,Sangat Rendah,0
+61.77,Debit,Charlotte,M082,Branch,56,Doctor,49,1,12352.2,Sangat Rendah,0
+268.92,Debit,Chicago,M022,Branch,29,Engineer,148,1,8765.38,Sangat Rendah,0
+303.97,Debit,Fort Worth,M056,Online,24,Student,77,5,1590.88,Sedang,1
+219.02,Credit,San Diego,M093,Online,54,Engineer,68,1,7375.73,Sangat Rendah,0
+125.14,Debit,Baltimore,M080,Branch,20,Student,31,1,1845.18,Sangat Rendah,0
+47.6,Debit,Austin,M026,Online,53,Engineer,115,1,1382.51,Sangat Rendah,0
+592.82,Debit,Memphis,M076,Online,74,Retired,248,1,7508.98,Sangat Rendah,0
+372.5,Debit,Nashville,M073,ATM,22,Student,211,1,3901.82,Sangat Rendah,0
+4.72,Debit,Fort Worth,M051,Branch,32,Engineer,20,1,4792.01,Sangat Rendah,0
+144.93,Debit,Fresno,M093,Branch,42,Engineer,74,1,6887.52,Sangat Rendah,0
+316.56,Debit,Denver,M052,Online,28,Engineer,261,1,8643.51,Sangat Rendah,0
+9.18,Debit,San Francisco,M096,Online,22,Student,140,1,887.32,Sangat Rendah,0
+421.25,Debit,Fort Worth,M007,Online,25,Student,66,1,7174.69,Sangat Rendah,0
+185.71,Debit,Virginia Beach,M084,Branch,48,Engineer,194,1,2679.91,Sangat Rendah,0
+1432.02,Debit,Louisville,M081,Branch,60,Retired,138,1,4315.07,Sangat Rendah,0
+26.27,Credit,Portland,M027,Online,45,Engineer,177,1,8853.93,Sangat Rendah,0
+297.03,Debit,Austin,M041,Online,61,Retired,151,1,1088.62,Sangat Rendah,0
+341.67,Debit,Omaha,M037,Branch,53,Retired,96,5,1442.29,Sedang,1
+99.52,Debit,San Diego,M083,ATM,52,Engineer,127,1,3798.09,Sangat Rendah,0
+881.1,Debit,Phoenix,M093,Branch,28,Student,16,1,9951.68,Sangat Rendah,0
+139.69,Debit,Indianapolis,M025,Online,52,Engineer,180,1,9567.94,Sangat Rendah,0
+42.72,Debit,Nashville,M001,ATM,37,Engineer,143,1,2669.66,Sangat Rendah,0
+112.72,Debit,Washington,M028,Branch,31,Doctor,17,1,9630.0,Sangat Rendah,0
+568.88,Debit,Nashville,M076,Branch,19,Student,105,1,1307.86,Sangat Rendah,0
+189.03,Debit,Oklahoma City,M046,ATM,28,Student,50,1,1916.46,Sangat Rendah,0
+199.8,Debit,Detroit,M038,ATM,20,Student,163,1,167.28,Sangat Rendah,0
+189.08,Debit,Miami,M011,Branch,68,Doctor,238,1,10790.8,Sangat Rendah,0
+958.9,Debit,Memphis,M097,Branch,31,Engineer,135,1,9977.49,Sangat Rendah,0
+409.59,Debit,Albuquerque,M042,Online,35,Doctor,50,1,14563.02,Sangat Rendah,0
+349.34,Credit,Indianapolis,M047,ATM,28,Student,245,1,614.14,Sangat Rendah,0
+283.15,Debit,Baltimore,M089,Online,24,Student,180,1,603.79,Sangat Rendah,0
+151.82,Debit,Chicago,M013,ATM,51,Retired,105,1,2197.12,Sangat Rendah,0
+438.59,Debit,San Jose,M035,Online,37,Engineer,103,1,8994.39,Sangat Rendah,0
+590.57,Debit,Milwaukee,M050,ATM,79,Retired,93,1,3224.6,Sangat Rendah,0
+63.74,Debit,Chicago,M092,Online,63,Retired,31,1,4336.4,Sangat Rendah,0
+77.02,Credit,Miami,M053,Online,59,Doctor,132,1,800.83,Sangat Rendah,0
+501.15,Debit,Phoenix,M088,Branch,47,Engineer,208,1,8821.84,Sangat Rendah,0
+917.81,Debit,Kansas City,M047,ATM,64,Retired,75,2,3173.17,Rendah,0
+8.95,Debit,Oklahoma City,M008,Online,76,Retired,102,1,3299.84,Sangat Rendah,0
+173.6,Debit,Austin,M043,Online,21,Student,160,1,421.44,Sangat Rendah,0
+149.4,Debit,Chicago,M039,ATM,53,Retired,123,1,1035.22,Sangat Rendah,0
+388.21,Credit,Columbus,M013,Branch,53,Doctor,237,1,9724.49,Sangat Rendah,0
+484.3,Credit,Boston,M026,Online,61,Retired,230,3,7910.3,Rendah,1
+126.04,Credit,Charlotte,M019,Branch,65,Retired,167,1,6041.69,Sangat Rendah,0
+52.04,Credit,Colorado Springs,M070,Branch,50,Doctor,31,1,8436.12,Sangat Rendah,0
+389.7,Credit,Austin,M030,Branch,62,Doctor,216,1,7125.15,Sangat Rendah,0
+161.1,Credit,Miami,M002,ATM,19,Student,104,1,239.12,Sangat Rendah,0
+309.77,Credit,San Antonio,M010,Online,67,Retired,137,1,4378.14,Sangat Rendah,0
+838.57,Debit,Phoenix,M040,ATM,41,Doctor,273,1,14576.47,Sangat Rendah,0
+202.55,Debit,Dallas,M029,ATM,21,Student,34,2,701.73,Rendah,0
+724.18,Debit,Fort Worth,M002,Branch,41,Doctor,134,1,10922.78,Sangat Rendah,0
+124.98,Debit,Washington,M062,ATM,24,Student,78,1,642.0,Sangat Rendah,0
+487.32,Debit,Kansas City,M005,Branch,52,Doctor,164,1,7707.96,Sangat Rendah,0
+635.91,Credit,Jacksonville,M074,Branch,46,Doctor,78,1,13267.09,Sangat Rendah,0
+205.65,Debit,Houston,M080,Branch,62,Retired,144,1,3582.16,Sangat Rendah,0
+39.41,Debit,Louisville,M030,Branch,25,Student,132,1,921.91,Sangat Rendah,0
+254.0,Debit,Nashville,M098,Branch,35,Doctor,63,1,5788.53,Sangat Rendah,0
+436.8,Debit,Houston,M098,Branch,36,Engineer,213,1,4515.43,Sangat Rendah,0
+224.73,Debit,Miami,M002,Branch,76,Retired,63,1,7551.89,Sangat Rendah,0
+752.69,Credit,Dallas,M056,ATM,65,Doctor,115,1,14489.69,Sangat Rendah,0
+78.5,Credit,San Jose,M007,Branch,31,Doctor,41,1,13991.5,Sangat Rendah,0
+50.0,Credit,Jacksonville,M018,ATM,53,Doctor,87,1,185.87,Sangat Rendah,0
+132.42,Debit,Denver,M069,ATM,18,Student,164,1,726.39,Sangat Rendah,0
+11.67,Debit,Fort Worth,M078,Branch,76,Retired,105,1,7458.63,Sangat Rendah,0
+83.16,Debit,Los Angeles,M091,ATM,61,Retired,177,1,3065.87,Sangat Rendah,0
+149.02,Credit,Fort Worth,M019,Branch,46,Engineer,176,1,9379.72,Sangat Rendah,0
+74.27,Credit,Memphis,M090,Online,59,Doctor,148,1,13696.61,Sangat Rendah,0
+876.57,Credit,Portland,M056,ATM,62,Retired,118,1,3743.63,Sangat Rendah,0
+615.58,Debit,Jacksonville,M059,ATM,42,Doctor,133,1,14343.0,Sangat Rendah,0
+643.03,Credit,Jacksonville,M002,Online,36,Engineer,52,1,2882.16,Sangat Rendah,0
+7.95,Debit,Phoenix,M087,ATM,79,Retired,65,1,5631.2,Sangat Rendah,0
+270.92,Credit,Louisville,M066,Branch,77,Retired,143,1,4574.43,Sangat Rendah,0
+499.48,Debit,Charlotte,M012,ATM,24,Student,133,1,1242.62,Sangat Rendah,0
+841.5,Credit,Atlanta,M020,Branch,25,Student,287,1,352.31,Sangat Rendah,0
+138.82,Debit,Fort Worth,M030,Online,77,Retired,53,1,3100.22,Sangat Rendah,0
+231.46,Credit,Miami,M047,Branch,60,Engineer,83,1,4707.24,Sangat Rendah,0
+292.08,Debit,Columbus,M067,ATM,72,Retired,32,1,7950.48,Sangat Rendah,0
+63.98,Debit,Baltimore,M026,Online,54,Doctor,258,1,7954.12,Sangat Rendah,0
+235.21,Debit,Boston,M007,Branch,67,Doctor,74,1,5946.61,Sangat Rendah,0
+201.73,Debit,Baltimore,M096,Online,57,Engineer,78,1,6650.71,Sangat Rendah,0
+161.31,Debit,Nashville,M051,ATM,28,Student,13,1,1268.67,Sangat Rendah,0
+18.41,Debit,Atlanta,M072,Branch,53,Doctor,168,1,8287.54,Sangat Rendah,0
+471.75,Credit,San Jose,M048,Branch,34,Doctor,41,1,12948.5,Sangat Rendah,0
+290.02,Debit,Milwaukee,M005,Branch,55,Engineer,246,1,4746.71,Sangat Rendah,0
+48.05,Debit,New York,M060,Branch,27,Engineer,38,1,5334.97,Sangat Rendah,0
+359.42,Debit,Baltimore,M089,Branch,55,Doctor,30,1,1765.45,Sangat Rendah,0
+32.91,Debit,Fort Worth,M036,Online,19,Student,255,1,427.3,Sangat Rendah,0
+3.8,Debit,Denver,M074,Branch,67,Retired,140,1,6285.39,Sangat Rendah,0
+31.81,Debit,Fort Worth,M033,Online,51,Retired,149,1,1406.6,Sangat Rendah,0
+220.2,Debit,Boston,M047,Online,28,Student,102,1,1075.15,Sangat Rendah,0
+476.03,Credit,Houston,M003,Branch,77,Retired,99,1,5958.34,Sangat Rendah,0
+141.91,Debit,Miami,M051,Branch,23,Student,49,1,791.97,Sangat Rendah,0
+95.83,Debit,Washington,M070,Online,27,Student,91,1,1726.4,Sangat Rendah,0
+51.15,Credit,Los Angeles,M019,Branch,46,Engineer,199,1,8992.25,Sangat Rendah,0
+1192.2,Credit,Jacksonville,M093,Branch,60,Retired,103,5,7816.41,Sedang,1
+50.75,Debit,Boston,M018,ATM,62,Doctor,185,1,8271.47,Sangat Rendah,0
+185.07,Debit,Colorado Springs,M062,Branch,22,Student,159,1,636.42,Sangat Rendah,0
+293.54,Debit,Sacramento,M026,Online,40,Engineer,45,1,2290.1,Sangat Rendah,0
+23.38,Debit,Memphis,M062,Branch,32,Engineer,89,1,9968.49,Sangat Rendah,0
+285.26,Debit,Atlanta,M062,ATM,28,Student,93,1,167.72,Sangat Rendah,0
+129.48,Debit,Seattle,M001,ATM,31,Engineer,179,1,7581.7,Sangat Rendah,0
+743.03,Debit,New York,M050,ATM,50,Engineer,174,1,4111.38,Sangat Rendah,0
+297.86,Credit,Milwaukee,M070,ATM,28,Student,96,1,1680.14,Sangat Rendah,0
+231.92,Debit,Indianapolis,M049,ATM,66,Doctor,12,1,5715.08,Sangat Rendah,0
+295.82,Credit,Chicago,M041,Branch,47,Engineer,46,1,5897.73,Sangat Rendah,0
+302.86,Debit,Los Angeles,M081,Online,55,Doctor,275,1,5239.24,Sangat Rendah,0
+81.08,Debit,Omaha,M089,ATM,58,Engineer,56,1,7788.91,Sangat Rendah,0
+775.6,Credit,Mesa,M070,Branch,79,Retired,158,1,3898.64,Sangat Rendah,0
+178.43,Debit,Baltimore,M041,Branch,26,Student,136,1,1214.93,Sangat Rendah,0
+211.91,Debit,Indianapolis,M075,Online,20,Student,181,1,927.47,Sangat Rendah,0
+17.21,Debit,Omaha,M004,Online,23,Student,219,1,914.16,Sangat Rendah,0
+124.22,Debit,Charlotte,M013,ATM,23,Student,172,1,9695.04,Sangat Rendah,0
+38.37,Debit,San Antonio,M003,ATM,63,Doctor,135,1,8647.04,Sangat Rendah,0
+269.79,Debit,San Jose,M013,ATM,52,Engineer,17,1,1292.1,Sangat Rendah,0
+605.42,Debit,Mesa,M085,ATM,21,Student,33,1,392.34,Sangat Rendah,0
+11.19,Debit,Austin,M090,ATM,60,Engineer,40,1,9877.17,Sangat Rendah,0
+29.19,Credit,Nashville,M004,Branch,58,Doctor,41,1,12059.85,Sangat Rendah,0
+701.7,Credit,Seattle,M055,Online,61,Retired,64,1,6643.24,Sangat Rendah,0
+862.34,Debit,Kansas City,M070,Branch,57,Doctor,72,1,9903.48,Sangat Rendah,0
+410.97,Debit,Los Angeles,M026,ATM,22,Student,45,1,151.42,Sangat Rendah,0
+36.97,Debit,Virginia Beach,M087,Branch,41,Engineer,79,1,2850.92,Sangat Rendah,0
+137.59,Debit,Nashville,M065,ATM,30,Doctor,95,1,10679.67,Sangat Rendah,0
+168.11,Credit,New York,M015,Online,51,Doctor,12,1,10652.13,Sangat Rendah,0
+430.98,Debit,Baltimore,M058,Branch,24,Student,93,1,569.25,Sangat Rendah,0
+13.87,Debit,Phoenix,M077,Branch,24,Student,20,1,954.83,Sangat Rendah,0
+642.68,Debit,Jacksonville,M060,ATM,76,Retired,66,1,1831.2,Sangat Rendah,0
+175.07,Debit,Las Vegas,M100,Online,28,Engineer,169,2,9274.64,Rendah,0
+302.82,Debit,Jacksonville,M020,ATM,36,Engineer,175,1,9384.54,Sangat Rendah,0
+1647.74,Debit,Louisville,M049,ATM,67,Retired,52,1,1483.84,Sangat Rendah,0
+406.81,Debit,New York,M016,Online,66,Retired,84,1,1968.36,Sangat Rendah,0
+256.3,Debit,New York,M066,Online,53,Retired,172,1,4203.05,Sangat Rendah,0
+80.96,Credit,Jacksonville,M078,Online,19,Student,97,1,959.94,Sangat Rendah,0
+95.78,Debit,Atlanta,M061,Online,22,Student,27,1,271.64,Sangat Rendah,0
+379.54,Credit,Indianapolis,M040,Branch,41,Doctor,118,1,12571.76,Sangat Rendah,0
+903.19,Debit,El Paso,M028,Online,22,Student,65,1,8627.08,Sangat Rendah,0
+142.19,Debit,Houston,M005,Branch,18,Student,27,4,524.46,Sedang,1
+847.45,Debit,Jacksonville,M042,Branch,28,Student,175,1,422.32,Sangat Rendah,0
+295.18,Credit,Dallas,M100,Branch,66,Doctor,31,1,12961.53,Sangat Rendah,0
+18.46,Debit,Charlotte,M032,Branch,68,Retired,213,1,6381.6,Sangat Rendah,0
+603.23,Debit,Detroit,M017,Branch,28,Student,48,1,117.98,Sangat Rendah,0
+54.5,Credit,Philadelphia,M082,Branch,57,Retired,147,1,1715.22,Sangat Rendah,0
+414.77,Debit,San Francisco,M014,Online,29,Doctor,274,1,5599.81,Sangat Rendah,0
+886.19,Debit,Colorado Springs,M081,Branch,61,Retired,69,1,7904.24,Sangat Rendah,0
+440.03,Debit,San Jose,M099,Online,49,Engineer,88,1,1490.44,Sangat Rendah,0
+35.46,Debit,Nashville,M005,ATM,56,Retired,285,1,1532.72,Sangat Rendah,0
+76.39,Debit,Denver,M019,Branch,18,Student,219,1,5976.0,Sangat Rendah,0
+595.91,Credit,San Antonio,M085,ATM,19,Student,162,1,1673.76,Sangat Rendah,0
+6.03,Debit,Chicago,M035,Branch,76,Retired,70,1,3290.72,Sangat Rendah,0
+249.34,Debit,Charlotte,M088,ATM,26,Engineer,197,1,3030.97,Sangat Rendah,0
+421.52,Debit,San Jose,M064,Branch,20,Student,67,1,369.86,Sangat Rendah,0
+189.77,Debit,Raleigh,M011,Branch,58,Engineer,24,1,6570.36,Sangat Rendah,0
+73.19,Debit,Atlanta,M025,Branch,76,Retired,213,1,2264.98,Sangat Rendah,0
+188.13,Credit,Jacksonville,M091,Online,75,Retired,198,1,5029.87,Sangat Rendah,0
+30.52,Debit,Jacksonville,M005,Branch,62,Doctor,122,1,12327.74,Sangat Rendah,0
+1235.69,Credit,San Jose,M048,Branch,20,Student,118,1,420.25,Sangat Rendah,0
+1159.39,Debit,Oklahoma City,M091,Online,41,Doctor,150,1,6499.53,Sangat Rendah,0
+170.24,Debit,San Francisco,M050,Branch,62,Retired,133,1,5172.99,Sangat Rendah,0
+56.62,Debit,Austin,M069,Branch,54,Doctor,121,1,8981.1,Sangat Rendah,0
+53.14,Debit,Las Vegas,M062,ATM,34,Doctor,70,1,7915.0,Sangat Rendah,0
+587.23,Debit,Omaha,M007,Online,27,Student,144,1,500.84,Sangat Rendah,0
+146.15,Debit,Phoenix,M098,Branch,43,Doctor,75,1,13784.4,Sangat Rendah,0
+21.27,Credit,Indianapolis,M070,Online,62,Retired,114,1,7392.79,Sangat Rendah,0
+1397.59,Credit,Austin,M020,ATM,26,Student,144,1,1134.79,Sangat Rendah,0
+76.02,Credit,Albuquerque,M087,Online,34,Doctor,189,1,14765.41,Sangat Rendah,0
+170.19,Credit,Los Angeles,M077,Branch,27,Student,156,5,745.87,Sedang,1
+155.51,Debit,Raleigh,M081,ATM,68,Doctor,15,1,5360.19,Sangat Rendah,0
+135.15,Debit,Colorado Springs,M100,Online,72,Retired,50,1,5878.14,Sangat Rendah,0
+39.48,Debit,Omaha,M017,ATM,56,Retired,38,1,5889.51,Sangat Rendah,0
+451.68,Debit,Houston,M072,Online,33,Engineer,15,1,4381.54,Sangat Rendah,0
+19.11,Credit,Colorado Springs,M007,Online,49,Engineer,160,1,8478.46,Sangat Rendah,0
+355.0,Credit,Fort Worth,M053,Online,26,Student,33,1,185.47,Sangat Rendah,0
+427.69,Debit,Raleigh,M088,ATM,43,Engineer,236,1,2443.54,Sangat Rendah,0
+254.86,Debit,Boston,M013,Branch,23,Student,102,1,699.9,Sangat Rendah,0
+19.48,Debit,Dallas,M002,ATM,27,Engineer,114,1,4739.59,Sangat Rendah,0
+190.17,Debit,Baltimore,M043,ATM,49,Doctor,265,1,12893.85,Sangat Rendah,0
+91.38,Debit,Jacksonville,M013,ATM,65,Retired,179,1,2402.58,Sangat Rendah,0
+206.63,Credit,Oklahoma City,M023,Online,59,Retired,128,1,7626.53,Sangat Rendah,0
+93.22,Debit,Charlotte,M030,Online,52,Retired,52,1,1014.63,Sangat Rendah,0
+547.98,Debit,Oklahoma City,M070,ATM,28,Student,171,1,1358.54,Sangat Rendah,0
+641.06,Debit,Colorado Springs,M099,ATM,23,Student,25,1,1602.13,Sangat Rendah,0
+314.55,Credit,Dallas,M001,Branch,27,Student,19,2,1105.89,Rendah,0
+836.45,Debit,Virginia Beach,M043,Online,61,Retired,63,1,1731.89,Sangat Rendah,0
+1095.09,Debit,San Francisco,M076,ATM,29,Engineer,52,1,8692.47,Sangat Rendah,0
+189.45,Credit,Boston,M008,Branch,53,Doctor,62,1,12578.75,Sangat Rendah,0
+91.84,Credit,Mesa,M023,Branch,67,Retired,80,1,1712.41,Sangat Rendah,0
+609.52,Debit,Washington,M076,ATM,78,Retired,169,1,3485.03,Sangat Rendah,0
+859.3,Credit,Colorado Springs,M066,Branch,78,Retired,68,1,1146.78,Sangat Rendah,0
+100.01,Debit,Philadelphia,M061,ATM,50,Doctor,63,1,6393.12,Sangat Rendah,0
+28.78,Credit,Tucson,M096,Online,40,Doctor,51,1,680.55,Sangat Rendah,0
+111.08,Debit,Chicago,M064,Online,70,Doctor,83,1,7037.34,Sangat Rendah,0
+470.96,Credit,Indianapolis,M036,Online,69,Doctor,124,2,12991.03,Rendah,0
+52.23,Credit,San Francisco,M016,Branch,28,Student,96,1,105.01,Sangat Rendah,0
+78.62,Debit,Oklahoma City,M084,Branch,32,Doctor,52,1,1360.85,Sangat Rendah,0
+47.79,Debit,Denver,M034,Branch,25,Student,37,1,1649.92,Sangat Rendah,0
+333.97,Debit,Fresno,M011,Branch,52,Doctor,45,1,5237.36,Sangat Rendah,0
+30.87,Debit,Fresno,M025,ATM,33,Doctor,295,1,14348.65,Sangat Rendah,0
+710.43,Debit,San Diego,M007,Online,67,Retired,115,1,5625.55,Sangat Rendah,0
+220.23,Debit,Milwaukee,M059,ATM,41,Engineer,48,1,3438.02,Sangat Rendah,0
+27.28,Debit,Atlanta,M070,ATM,29,Doctor,96,1,10668.24,Sangat Rendah,0
+101.52,Debit,Tucson,M086,ATM,49,Engineer,98,1,2018.9,Sangat Rendah,0
+162.65,Debit,New York,M088,ATM,59,Engineer,147,1,9500.95,Sangat Rendah,0
+10.52,Debit,Kansas City,M019,ATM,55,Retired,30,1,2472.99,Sangat Rendah,0
+270.72,Debit,Los Angeles,M027,Branch,38,Doctor,37,1,6522.47,Sangat Rendah,0
+202.34,Debit,New York,M049,Online,20,Student,134,1,1223.45,Sangat Rendah,0
+247.58,Debit,San Antonio,M068,ATM,39,Engineer,152,1,778.74,Sangat Rendah,0
+686.17,Debit,Denver,M030,ATM,61,Retired,96,1,2246.15,Sangat Rendah,0
+359.65,Credit,Jacksonville,M085,Online,25,Student,289,1,219.53,Sangat Rendah,0
+109.91,Debit,Seattle,M074,Branch,38,Doctor,90,1,12896.06,Sangat Rendah,0
+215.72,Credit,Columbus,M032,Branch,30,Engineer,137,1,8697.11,Sangat Rendah,0
+490.76,Debit,Columbus,M048,Online,66,Retired,156,1,6414.11,Sangat Rendah,0
+224.28,Debit,Chicago,M068,Online,64,Retired,68,1,5767.51,Sangat Rendah,0
+614.03,Debit,Dallas,M086,ATM,68,Retired,51,1,2815.86,Sangat Rendah,0
+608.79,Debit,Fort Worth,M015,Online,55,Engineer,157,1,2991.17,Sangat Rendah,0
+186.55,Debit,Philadelphia,M003,Branch,48,Engineer,288,1,224.65,Sangat Rendah,0
+840.16,Credit,Colorado Springs,M014,Branch,20,Student,68,1,1236.76,Sangat Rendah,0
+203.34,Debit,Phoenix,M061,ATM,60,Doctor,66,1,13586.99,Sangat Rendah,0
+90.88,Debit,Colorado Springs,M071,ATM,26,Engineer,284,1,7117.35,Sangat Rendah,0
+60.11,Credit,Albuquerque,M067,Branch,61,Retired,122,1,7235.87,Sangat Rendah,0
+393.92,Debit,Memphis,M061,Branch,72,Retired,47,1,7318.64,Sangat Rendah,0
+19.39,Debit,Colorado Springs,M062,ATM,43,Doctor,45,1,9847.6,Sangat Rendah,0
+557.41,Credit,Washington,M087,Online,80,Retired,49,1,2968.75,Sangat Rendah,0
+57.07,Credit,Boston,M027,Online,31,Doctor,99,1,9323.71,Sangat Rendah,0
+395.27,Credit,Miami,M085,Online,18,Student,167,1,1764.08,Sangat Rendah,0
+289.05,Debit,New York,M088,ATM,75,Retired,116,1,5683.49,Sangat Rendah,0
+46.11,Debit,San Francisco,M048,Online,33,Doctor,233,1,5225.73,Sangat Rendah,0
+335.5,Debit,Sacramento,M003,ATM,63,Retired,47,1,6445.4,Sangat Rendah,0
+388.07,Debit,Seattle,M067,Online,24,Student,68,1,289.71,Sangat Rendah,0
+520.86,Credit,Sacramento,M017,Online,51,Engineer,66,1,9200.74,Sangat Rendah,0
+787.41,Debit,Memphis,M081,Online,25,Student,39,1,300.87,Sangat Rendah,0
+31.7,Credit,Raleigh,M074,ATM,48,Doctor,121,1,743.9,Sangat Rendah,0
+22.3,Debit,Philadelphia,M030,ATM,21,Student,90,1,1200.35,Sangat Rendah,0
+203.12,Debit,San Jose,M078,ATM,56,Retired,181,1,1562.39,Sangat Rendah,0
+315.94,Credit,Raleigh,M024,Branch,49,Doctor,172,1,7719.71,Sangat Rendah,0
+192.23,Debit,Albuquerque,M058,Online,54,Engineer,39,3,2610.67,Rendah,1
+1510.71,Debit,Oklahoma City,M060,Online,66,Retired,51,1,2060.02,Sangat Rendah,0
+0.26,Debit,Oklahoma City,M090,Online,20,Student,173,1,1833.67,Sangat Rendah,0
+210.77,Debit,Mesa,M094,ATM,71,Retired,161,1,5396.65,Sangat Rendah,0
+406.65,Debit,Mesa,M062,ATM,57,Doctor,107,1,12995.7,Sangat Rendah,0
+422.9,Debit,Tucson,M027,ATM,40,Engineer,111,1,7616.43,Sangat Rendah,0
+20.62,Credit,Philadelphia,M014,ATM,35,Doctor,225,1,12500.8,Sangat Rendah,0
+174.39,Debit,San Francisco,M015,ATM,19,Student,36,1,1127.08,Sangat Rendah,0
+7.86,Credit,Sacramento,M053,Branch,76,Retired,91,1,3621.98,Sangat Rendah,0
+61.98,Debit,Denver,M038,Online,49,Engineer,44,1,5212.28,Sangat Rendah,0
+54.85,Credit,San Francisco,M071,Branch,58,Retired,40,1,2727.45,Sangat Rendah,0
+204.7,Debit,Oklahoma City,M032,Branch,49,Doctor,95,5,5117.03,Sedang,1
+16.55,Debit,Tucson,M009,Branch,26,Engineer,159,1,6089.79,Sangat Rendah,0
+91.32,Debit,Milwaukee,M056,Branch,58,Engineer,77,1,2618.1,Sangat Rendah,0
+195.49,Debit,Memphis,M016,ATM,31,Doctor,212,1,11988.12,Sangat Rendah,0
+49.62,Debit,Portland,M055,ATM,55,Engineer,111,1,3841.42,Sangat Rendah,0
+487.16,Credit,Los Angeles,M077,Branch,28,Student,84,1,321.21,Sangat Rendah,0
+405.6,Debit,Tucson,M031,Online,37,Engineer,44,1,9754.73,Sangat Rendah,0
+512.95,Debit,Columbus,M066,Branch,57,Engineer,143,1,9584.52,Sangat Rendah,0
+345.94,Debit,Portland,M100,ATM,31,Doctor,163,1,7624.56,Sangat Rendah,0
+356.56,Debit,New York,M100,Online,47,Engineer,52,1,2485.73,Sangat Rendah,0
+10.31,Debit,Louisville,M054,Online,36,Engineer,280,1,2137.9,Sangat Rendah,0
+211.69,Debit,Atlanta,M066,Branch,30,Doctor,111,1,6412.85,Sangat Rendah,0
+221.49,Credit,Oklahoma City,M052,Branch,23,Student,196,1,707.25,Sangat Rendah,0
+278.23,Debit,Fresno,M019,Online,48,Engineer,83,1,8300.54,Sangat Rendah,0
+116.88,Debit,Memphis,M026,ATM,45,Doctor,263,1,7717.34,Sangat Rendah,0
+328.77,Credit,San Diego,M033,Online,39,Doctor,247,1,6967.03,Sangat Rendah,0
+77.53,Debit,Louisville,M052,Branch,54,Retired,55,1,5158.6,Sangat Rendah,0
+421.74,Debit,San Jose,M014,Online,67,Doctor,103,1,12031.14,Sangat Rendah,0
+313.69,Debit,Oklahoma City,M034,Branch,73,Retired,152,1,7093.68,Sangat Rendah,0
+411.72,Debit,Washington,M014,Branch,29,Doctor,153,1,8539.86,Sangat Rendah,0
+508.73,Debit,Chicago,M071,Branch,59,Retired,89,1,7640.57,Sangat Rendah,0
+153.08,Debit,Omaha,M057,ATM,24,Student,201,1,1292.21,Sangat Rendah,0
+23.01,Debit,Las Vegas,M090,Branch,63,Retired,166,1,5958.75,Sangat Rendah,0
+69.28,Debit,Los Angeles,M070,Online,25,Student,129,1,708.74,Sangat Rendah,0
+51.25,Credit,Austin,M044,Branch,28,Student,66,1,1744.4,Sangat Rendah,0
+407.65,Debit,Denver,M095,ATM,25,Student,263,1,273.78,Sangat Rendah,0
+459.25,Debit,Tucson,M043,Branch,25,Student,59,1,130.76,Sangat Rendah,0
+301.56,Debit,Seattle,M011,Branch,49,Doctor,118,1,10389.6,Sangat Rendah,0
+17.67,Debit,San Diego,M061,Online,63,Doctor,91,1,1048.18,Sangat Rendah,0
+5.29,Credit,San Francisco,M008,Online,32,Doctor,132,1,12896.68,Sangat Rendah,0
+401.37,Debit,Los Angeles,M031,Branch,43,Engineer,251,1,8208.54,Sangat Rendah,0
+145.4,Debit,Tucson,M044,Online,38,Engineer,24,1,5244.49,Sangat Rendah,0
+556.34,Debit,Seattle,M031,Online,37,Doctor,46,1,11935.14,Sangat Rendah,0
+34.31,Debit,Philadelphia,M094,ATM,24,Student,251,1,1484.76,Sangat Rendah,0
+780.59,Credit,Tucson,M058,Online,23,Student,145,1,6513.34,Sangat Rendah,0
+282.65,Debit,Fort Worth,M012,ATM,35,Doctor,161,1,13801.15,Sangat Rendah,0
+305.27,Debit,Las Vegas,M059,Online,68,Doctor,147,1,12958.65,Sangat Rendah,0
+185.81,Debit,Austin,M033,Online,32,Doctor,116,1,9588.71,Sangat Rendah,0
+66.01,Debit,Milwaukee,M042,Online,49,Engineer,179,1,3475.99,Sangat Rendah,0
+447.95,Debit,Tucson,M002,Branch,29,Engineer,75,1,7544.4,Sangat Rendah,0
+279.3,Debit,Oklahoma City,M079,ATM,19,Student,48,1,1193.61,Sangat Rendah,0
+26.75,Debit,Indianapolis,M096,Online,33,Doctor,27,1,12063.77,Sangat Rendah,0
+611.15,Debit,Detroit,M009,ATM,27,Student,121,1,892.83,Sangat Rendah,0
+275.2,Debit,New York,M058,Online,54,Engineer,81,1,1230.12,Sangat Rendah,0
+427.79,Debit,San Jose,M016,Branch,18,Student,189,1,1479.67,Sangat Rendah,0
+469.13,Credit,San Antonio,M009,ATM,54,Doctor,139,1,1265.28,Sangat Rendah,0
+102.81,Debit,Seattle,M074,Branch,76,Retired,47,1,3228.87,Sangat Rendah,0
+22.61,Debit,Seattle,M099,Online,19,Student,145,1,1111.67,Sangat Rendah,0
+68.28,Debit,Boston,M100,Online,56,Engineer,293,1,3213.16,Sangat Rendah,0
+33.65,Credit,New York,M067,Online,63,Doctor,146,1,12719.93,Sangat Rendah,0
+362.68,Credit,Miami,M014,ATM,63,Retired,137,1,2040.77,Sangat Rendah,0
+73.23,Debit,San Francisco,M090,Branch,20,Student,172,1,1309.85,Sangat Rendah,0
+654.49,Credit,Austin,M060,Online,25,Student,104,1,164.61,Sangat Rendah,0
+18.56,Credit,Memphis,M094,Branch,49,Engineer,161,1,4230.37,Sangat Rendah,0
+389.05,Debit,Dallas,M075,ATM,27,Student,41,1,761.0,Sangat Rendah,0
+7.38,Debit,Houston,M076,Online,67,Retired,105,1,2923.83,Sangat Rendah,0
+109.48,Debit,Baltimore,M008,Online,61,Retired,93,1,7372.47,Sangat Rendah,0
+66.91,Debit,Seattle,M047,ATM,39,Doctor,85,1,871.1,Sangat Rendah,0
+335.48,Debit,Oklahoma City,M040,Branch,45,Engineer,155,1,3023.16,Sangat Rendah,0
+38.14,Debit,Albuquerque,M026,Online,19,Student,174,1,1119.21,Sangat Rendah,0
+1076.98,Debit,Detroit,M090,Branch,60,Doctor,173,1,11833.73,Sangat Rendah,0
+360.02,Debit,Dallas,M004,Online,68,Retired,68,1,6400.59,Sangat Rendah,0
+567.71,Debit,Memphis,M086,Online,63,Doctor,80,1,13884.24,Sangat Rendah,0
+218.19,Debit,Austin,M078,ATM,19,Student,185,1,620.83,Sangat Rendah,0
+209.99,Debit,Denver,M014,ATM,19,Student,40,1,1938.01,Sangat Rendah,0
+11.02,Debit,Tucson,M008,Branch,19,Student,280,1,964.79,Sangat Rendah,0
+83.43,Debit,New York,M012,Online,56,Retired,109,1,1870.16,Sangat Rendah,0
+344.97,Debit,Austin,M050,Online,34,Doctor,106,1,5577.94,Sangat Rendah,0
+172.29,Debit,El Paso,M034,ATM,36,Engineer,283,1,8700.8,Sangat Rendah,0
+195.54,Debit,Omaha,M039,Online,60,Retired,255,1,2794.66,Sangat Rendah,0
+101.23,Debit,Colorado Springs,M015,Online,45,Engineer,87,1,6169.71,Sangat Rendah,0
+180.46,Debit,Fresno,M001,ATM,25,Student,34,1,831.75,Sangat Rendah,0
+692.55,Debit,Charlotte,M058,Branch,53,Retired,109,1,2451.56,Sangat Rendah,0
+147.31,Credit,Mesa,M005,Online,34,Doctor,92,1,13625.52,Sangat Rendah,0
+107.48,Debit,Los Angeles,M058,Branch,20,Student,103,1,1379.39,Sangat Rendah,0
+1831.02,Credit,Columbus,M012,Online,62,Doctor,83,1,11498.01,Sangat Rendah,0
+81.51,Debit,Washington,M059,Branch,25,Student,97,1,865.49,Sangat Rendah,0
+365.48,Credit,Seattle,M082,Online,76,Retired,216,1,7147.4,Sangat Rendah,0
+491.1,Credit,Houston,M067,Online,35,Engineer,125,1,7833.85,Sangat Rendah,0
+452.8,Debit,Los Angeles,M034,Branch,80,Retired,151,1,4840.67,Sangat Rendah,0
+645.04,Debit,Memphis,M014,Branch,70,Retired,78,1,7361.47,Sangat Rendah,0
+169.28,Debit,Philadelphia,M057,Branch,45,Doctor,114,1,5128.44,Sangat Rendah,0
+88.42,Debit,El Paso,M096,ATM,62,Doctor,91,1,12381.45,Sangat Rendah,0
+155.53,Debit,Baltimore,M041,ATM,29,Engineer,66,1,4008.05,Sangat Rendah,0
+991.82,Debit,Milwaukee,M042,Online,43,Engineer,300,1,3493.13,Sangat Rendah,0
+39.24,Debit,Dallas,M095,ATM,77,Retired,106,1,6462.41,Sangat Rendah,0
+152.01,Debit,Fort Worth,M095,ATM,42,Engineer,111,3,4625.12,Rendah,1
+78.77,Credit,Las Vegas,M085,ATM,48,Engineer,50,1,6470.57,Sangat Rendah,0
+26.5,Debit,Indianapolis,M063,Online,48,Engineer,179,1,4854.83,Sangat Rendah,0
+83.62,Debit,Raleigh,M069,ATM,48,Doctor,146,1,12652.22,Sangat Rendah,0
+142.78,Debit,San Diego,M021,Branch,68,Doctor,150,1,11705.88,Sangat Rendah,0
+55.99,Debit,El Paso,M037,ATM,35,Doctor,95,1,932.61,Sangat Rendah,0
+774.48,Debit,Louisville,M013,Branch,61,Doctor,31,1,11613.58,Sangat Rendah,0
+105.37,Debit,Sacramento,M043,ATM,25,Student,160,1,1068.55,Sangat Rendah,0
+118.83,Debit,Virginia Beach,M039,Online,28,Student,295,1,1616.3,Sangat Rendah,0
+46.22,Debit,San Jose,M049,Branch,23,Student,217,1,471.28,Sangat Rendah,0
+659.71,Credit,San Jose,M052,Branch,21,Student,148,1,106.86,Sangat Rendah,0
+377.97,Debit,Miami,M028,Online,72,Retired,160,1,2457.1,Sangat Rendah,0
+114.1,Debit,Boston,M024,Branch,69,Retired,148,1,5882.12,Sangat Rendah,0
+11.3,Credit,Louisville,M044,Online,55,Retired,41,1,1938.99,Sangat Rendah,0
+95.5,Debit,Omaha,M031,Online,57,Retired,17,1,4079.09,Sangat Rendah,0
+130.93,Credit,Houston,M061,Branch,28,Engineer,149,1,860.12,Sangat Rendah,0
+272.97,Debit,Boston,M033,Online,68,Retired,174,1,7811.31,Sangat Rendah,0
+73.35,Debit,San Francisco,M093,Branch,24,Student,47,1,1181.84,Sangat Rendah,0
+29.94,Debit,San Francisco,M063,ATM,58,Doctor,243,1,10915.54,Sangat Rendah,0
+307.24,Debit,San Jose,M096,ATM,19,Student,136,2,1670.72,Rendah,0
+50.52,Debit,Boston,M029,Online,20,Student,140,1,1121.19,Sangat Rendah,0
+820.46,Credit,Fort Worth,M041,Online,53,Engineer,243,1,5621.86,Sangat Rendah,0
+153.07,Debit,Detroit,M034,ATM,56,Engineer,116,1,8873.43,Sangat Rendah,0
+52.94,Debit,Tucson,M052,Branch,41,Doctor,146,1,6990.92,Sangat Rendah,0
+384.41,Debit,Jacksonville,M093,ATM,60,Engineer,65,1,7831.56,Sangat Rendah,0
+235.42,Debit,Phoenix,M060,Branch,51,Retired,175,1,6173.23,Sangat Rendah,0
+114.23,Debit,Dallas,M089,ATM,56,Doctor,64,1,9523.72,Sangat Rendah,0
+12.62,Debit,El Paso,M068,Branch,33,Doctor,61,1,6420.47,Sangat Rendah,0
+997.37,Debit,Fort Worth,M053,ATM,23,Student,145,1,1146.09,Sangat Rendah,0
+373.52,Debit,Colorado Springs,M026,ATM,35,Engineer,235,1,6430.41,Sangat Rendah,0
+336.05,Debit,San Antonio,M019,Branch,28,Student,164,1,1635.05,Sangat Rendah,0
+366.93,Debit,Houston,M078,Online,66,Retired,33,1,6697.79,Sangat Rendah,0
+112.27,Debit,Seattle,M007,Branch,58,Doctor,102,1,7369.89,Sangat Rendah,0
+494.96,Debit,Sacramento,M067,ATM,40,Engineer,132,1,6903.68,Sangat Rendah,0
+561.58,Debit,Sacramento,M022,Online,65,Doctor,23,1,11748.86,Sangat Rendah,0
+440.94,Debit,San Antonio,M008,Online,42,Doctor,148,1,7303.23,Sangat Rendah,0
+71.9,Debit,Los Angeles,M013,Branch,29,Doctor,51,1,10619.35,Sangat Rendah,0
+256.66,Credit,Raleigh,M045,Online,54,Retired,137,1,1794.5,Sangat Rendah,0
+166.55,Credit,Houston,M065,Branch,59,Doctor,99,1,12970.21,Sangat Rendah,0
+276.26,Debit,Louisville,M024,Branch,56,Doctor,143,1,120.89,Sangat Rendah,0
+35.46,Debit,Indianapolis,M073,ATM,67,Doctor,164,1,5692.31,Sangat Rendah,0
+38.14,Debit,Portland,M072,Branch,50,Engineer,165,1,9879.87,Sangat Rendah,0
+506.26,Credit,Baltimore,M014,ATM,64,Retired,86,1,6266.65,Sangat Rendah,0
+736.32,Debit,Indianapolis,M054,Online,31,Doctor,28,1,14268.95,Sangat Rendah,0
+389.43,Credit,Austin,M005,ATM,52,Engineer,151,1,6449.83,Sangat Rendah,0
+25.58,Debit,Omaha,M048,ATM,60,Engineer,166,1,6741.41,Sangat Rendah,0
+446.1,Debit,Seattle,M068,ATM,25,Student,243,1,1008.44,Sangat Rendah,0
+147.74,Debit,Raleigh,M034,Branch,23,Student,15,1,1711.78,Sangat Rendah,0
+1228.81,Debit,San Francisco,M034,ATM,26,Student,254,1,1821.0,Sangat Rendah,0
+46.23,Debit,Fresno,M015,Online,77,Retired,282,1,5107.75,Sangat Rendah,0
+265.37,Debit,Washington,M013,Branch,33,Engineer,77,1,5229.95,Sangat Rendah,0
+342.57,Debit,Boston,M100,Online,20,Student,91,1,339.16,Sangat Rendah,0
+417.26,Credit,New York,M049,Online,32,Doctor,45,1,10442.48,Sangat Rendah,0
+33.63,Debit,Columbus,M024,Online,63,Retired,76,1,4324.4,Sangat Rendah,0
+64.58,Debit,El Paso,M056,Branch,55,Retired,173,1,6292.29,Sangat Rendah,0
+23.23,Credit,Miami,M064,Branch,21,Student,122,1,269.01,Sangat Rendah,0
+160.52,Credit,Jacksonville,M034,ATM,78,Retired,112,1,5379.25,Sangat Rendah,0
+278.88,Debit,Kansas City,M001,Branch,64,Doctor,179,2,1334.09,Rendah,0
+285.49,Credit,Charlotte,M071,Branch,53,Doctor,109,1,6366.84,Sangat Rendah,0
+71.87,Debit,Nashville,M057,ATM,22,Student,258,1,1839.1,Sangat Rendah,0
+308.8,Debit,Baltimore,M018,ATM,53,Retired,41,1,3966.54,Sangat Rendah,0
+135.35,Debit,Houston,M098,Branch,33,Engineer,82,1,9983.36,Sangat Rendah,0
+288.43,Debit,Phoenix,M075,Branch,66,Retired,72,1,4577.09,Sangat Rendah,0
+147.46,Credit,Albuquerque,M071,Online,65,Doctor,205,1,7458.03,Sangat Rendah,0
+214.15,Debit,Detroit,M064,Branch,32,Engineer,217,1,6397.29,Sangat Rendah,0
+71.34,Debit,Miami,M021,Online,49,Engineer,144,3,6345.03,Rendah,1
+170.36,Debit,Indianapolis,M091,ATM,30,Doctor,118,1,6034.73,Sangat Rendah,0
+965.66,Debit,Raleigh,M009,ATM,53,Engineer,32,1,765.81,Sangat Rendah,0
+736.53,Debit,Philadelphia,M065,ATM,55,Engineer,120,1,9826.26,Sangat Rendah,0
+213.42,Debit,Columbus,M052,ATM,45,Engineer,17,1,3736.38,Sangat Rendah,0
+94.09,Debit,Miami,M042,Branch,27,Student,203,1,646.85,Sangat Rendah,0
+91.23,Debit,Boston,M003,ATM,72,Retired,86,1,6385.12,Sangat Rendah,0
+263.92,Credit,San Diego,M074,Branch,57,Retired,233,1,4161.71,Sangat Rendah,0
+77.5,Credit,Fort Worth,M061,Online,51,Doctor,201,1,11079.77,Sangat Rendah,0
+3.65,Debit,Miami,M098,Online,69,Doctor,146,1,10017.11,Sangat Rendah,0
+43.88,Credit,Seattle,M038,Online,26,Student,251,1,1644.09,Sangat Rendah,0
+591.98,Debit,El Paso,M069,ATM,28,Student,132,1,387.65,Sangat Rendah,0
+224.79,Debit,Boston,M063,Online,18,Student,129,1,528.38,Sangat Rendah,0
+64.3,Debit,Louisville,M015,ATM,55,Retired,67,1,7530.3,Sangat Rendah,0
+111.79,Debit,Jacksonville,M056,Online,62,Doctor,49,1,10887.59,Sangat Rendah,0
+927.16,Debit,San Francisco,M013,ATM,59,Retired,153,1,7104.61,Sangat Rendah,0
+613.7,Credit,Fort Worth,M055,Branch,61,Retired,37,1,7307.11,Sangat Rendah,0
+26.07,Debit,Baltimore,M061,Branch,20,Student,19,3,349.98,Rendah,1
+170.45,Debit,San Francisco,M026,Branch,60,Engineer,199,1,2284.41,Sangat Rendah,0
+344.27,Debit,San Antonio,M031,Branch,22,Student,123,1,1918.36,Sangat Rendah,0
+872.72,Debit,Washington,M033,Online,22,Student,288,1,503.01,Sangat Rendah,0
+292.95,Debit,Memphis,M055,Branch,37,Engineer,56,1,1216.91,Sangat Rendah,0
+28.44,Debit,Fresno,M047,ATM,18,Student,243,1,1071.04,Sangat Rendah,0
+209.02,Debit,El Paso,M008,ATM,21,Student,74,1,187.9,Sangat Rendah,0
+20.05,Debit,Chicago,M018,ATM,72,Retired,171,1,7145.67,Sangat Rendah,0
+175.02,Debit,Phoenix,M092,Online,28,Student,71,1,1493.88,Sangat Rendah,0
+89.5,Credit,Louisville,M020,Branch,41,Engineer,134,1,8658.95,Sangat Rendah,0
+69.96,Debit,Baltimore,M060,Branch,28,Student,31,1,164.12,Sangat Rendah,0
+146.51,Debit,Albuquerque,M097,ATM,53,Engineer,68,1,7089.9,Sangat Rendah,0
+376.78,Credit,Nashville,M061,Online,21,Student,88,1,841.65,Sangat Rendah,0
+148.54,Credit,Columbus,M048,Branch,71,Retired,107,1,5677.05,Sangat Rendah,0
+388.77,Credit,Jacksonville,M065,Online,26,Student,30,1,1658.49,Sangat Rendah,0
+100.38,Debit,Seattle,M060,Branch,63,Doctor,49,1,10171.68,Sangat Rendah,0
+137.23,Debit,Fresno,M084,Branch,64,Doctor,63,1,13847.99,Sangat Rendah,0
+870.3,Debit,San Jose,M003,ATM,51,Retired,229,1,3688.98,Sangat Rendah,0
+458.94,Debit,Detroit,M076,Branch,52,Engineer,180,1,5619.95,Sangat Rendah,0
+327.35,Credit,Memphis,M059,Branch,20,Student,175,1,342.08,Sangat Rendah,0
+757.15,Debit,Raleigh,M085,Online,53,Engineer,38,1,4702.86,Sangat Rendah,0
+5.64,Debit,Boston,M064,Online,59,Doctor,47,1,12703.24,Sangat Rendah,0
+47.23,Credit,Memphis,M034,Online,73,Retired,160,1,6659.81,Sangat Rendah,0
+239.41,Credit,Baltimore,M064,Online,42,Doctor,248,1,7860.65,Sangat Rendah,0
+7.48,Debit,San Antonio,M025,ATM,55,Engineer,29,1,1275.2,Sangat Rendah,0
+170.97,Debit,Nashville,M044,Branch,26,Student,292,1,1265.27,Sangat Rendah,0
+262.43,Credit,San Diego,M046,Online,37,Doctor,274,5,12841.01,Sedang,1
+659.15,Debit,Boston,M014,ATM,22,Student,204,1,1241.59,Sangat Rendah,0
+31.53,Debit,Kansas City,M095,Online,25,Student,283,1,874.93,Sangat Rendah,0
+111.66,Credit,Washington,M068,Online,48,Engineer,140,1,5716.72,Sangat Rendah,0
+250.01,Debit,Kansas City,M057,ATM,62,Retired,88,1,1541.48,Sangat Rendah,0
+554.15,Debit,Raleigh,M066,ATM,49,Doctor,108,1,14817.22,Sangat Rendah,0
+598.66,Credit,Charlotte,M032,Branch,32,Engineer,222,1,2587.11,Sangat Rendah,0
+28.38,Debit,Sacramento,M083,Branch,55,Doctor,98,1,173.7,Sangat Rendah,0
+16.8,Debit,San Diego,M021,ATM,49,Doctor,94,1,11847.07,Sangat Rendah,0
+896.79,Debit,Dallas,M087,Online,33,Doctor,168,1,11146.74,Sangat Rendah,0
+159.0,Debit,Las Vegas,M059,ATM,49,Engineer,38,1,369.79,Sangat Rendah,0
+56.31,Credit,Houston,M042,Online,75,Retired,195,1,6396.08,Sangat Rendah,0
+203.99,Debit,Philadelphia,M073,Online,52,Retired,215,1,4840.31,Sangat Rendah,0
+50.99,Debit,Detroit,M003,Branch,29,Doctor,76,1,1334.6,Sangat Rendah,0
+101.28,Credit,Chicago,M023,Online,32,Engineer,75,1,2774.35,Sangat Rendah,0
+299.92,Debit,Denver,M007,ATM,27,Student,122,1,1368.0,Sangat Rendah,0
+77.54,Debit,Phoenix,M095,Online,67,Retired,73,1,4536.38,Sangat Rendah,0
+18.35,Debit,Nashville,M035,Branch,21,Student,78,1,1293.39,Sangat Rendah,0
+732.53,Credit,San Jose,M066,ATM,26,Student,116,1,441.54,Sangat Rendah,0
+65.11,Debit,Nashville,M026,ATM,34,Engineer,150,1,8485.14,Sangat Rendah,0
+67.07,Credit,Los Angeles,M048,ATM,24,Student,56,1,999.62,Sangat Rendah,0
+137.48,Debit,Seattle,M058,Branch,55,Doctor,47,1,14273.42,Sangat Rendah,0
+398.36,Debit,Columbus,M006,ATM,22,Student,56,1,1863.7,Sangat Rendah,0
+469.46,Debit,New York,M068,ATM,20,Student,149,1,8640.56,Sangat Rendah,0
+37.58,Debit,Indianapolis,M051,ATM,57,Doctor,182,1,259.44,Sangat Rendah,0
+160.24,Debit,Washington,M019,ATM,31,Engineer,15,1,5526.97,Sangat Rendah,0
+315.39,Credit,New York,M008,Branch,23,Student,93,1,929.6,Sangat Rendah,0
+434.17,Debit,Atlanta,M010,ATM,21,Student,148,5,5335.44,Sedang,1
+165.91,Debit,Jacksonville,M084,ATM,26,Student,84,1,587.12,Sangat Rendah,0
+211.36,Debit,San Francisco,M020,Branch,47,Engineer,194,1,4760.34,Sangat Rendah,0
+241.45,Debit,Portland,M026,Online,26,Student,158,1,1594.04,Sangat Rendah,0
+23.24,Debit,Indianapolis,M054,Branch,68,Doctor,129,1,13777.79,Sangat Rendah,0
+70.88,Credit,Omaha,M087,Branch,74,Retired,176,1,1794.65,Sangat Rendah,0
+1143.67,Debit,Atlanta,M048,Online,66,Retired,111,1,7677.76,Sangat Rendah,0
+314.52,Debit,Memphis,M057,ATM,80,Retired,229,1,7071.32,Sangat Rendah,0
+181.81,Credit,Austin,M026,Online,78,Retired,122,1,7525.73,Sangat Rendah,0
+854.64,Debit,Fort Worth,M038,Branch,56,Retired,118,1,2989.25,Sangat Rendah,0
+261.19,Debit,Oklahoma City,M078,ATM,64,Retired,52,1,7620.6,Sangat Rendah,0
+220.68,Credit,Raleigh,M050,Online,71,Retired,217,1,5549.2,Sangat Rendah,0
+11.86,Debit,Sacramento,M054,Branch,31,Engineer,129,1,6782.61,Sangat Rendah,0
+122.65,Debit,Columbus,M039,Online,28,Student,41,1,1968.51,Sangat Rendah,0
+395.16,Debit,Milwaukee,M059,Online,56,Retired,17,1,5340.73,Sangat Rendah,0
+704.69,Debit,Las Vegas,M089,Online,51,Retired,150,1,3267.84,Sangat Rendah,0
+369.89,Debit,San Antonio,M083,ATM,69,Retired,69,1,6941.47,Sangat Rendah,0
+10.92,Debit,Jacksonville,M090,ATM,67,Retired,268,1,7567.2,Sangat Rendah,0
+199.14,Debit,Seattle,M005,Branch,31,Engineer,36,1,7001.25,Sangat Rendah,0
+109.43,Debit,Denver,M054,ATM,70,Retired,140,1,1983.65,Sangat Rendah,0
+304.15,Debit,Atlanta,M010,Branch,20,Student,40,1,686.91,Sangat Rendah,0
+620.54,Credit,Omaha,M009,Branch,28,Student,98,1,213.36,Sangat Rendah,0
+757.79,Debit,Charlotte,M034,Online,22,Student,117,1,1443.02,Sangat Rendah,0
+122.81,Debit,San Jose,M010,Branch,52,Doctor,12,1,8450.84,Sangat Rendah,0
+96.25,Debit,Houston,M040,Online,61,Retired,171,1,7996.7,Sangat Rendah,0
+1431.33,Debit,Charlotte,M075,ATM,30,Doctor,49,1,5567.98,Sangat Rendah,0
+142.55,Debit,Kansas City,M071,Online,67,Doctor,97,1,1262.68,Sangat Rendah,0
+35.94,Credit,Fresno,M050,Branch,23,Student,141,1,1697.28,Sangat Rendah,0
+24.86,Debit,Jacksonville,M007,Branch,58,Engineer,292,1,2591.65,Sangat Rendah,0
+103.08,Debit,San Francisco,M009,Online,60,Doctor,109,1,12002.16,Sangat Rendah,0
+116.27,Debit,Portland,M011,Online,57,Engineer,94,1,8726.92,Sangat Rendah,0
+363.84,Debit,Columbus,M048,Online,73,Retired,118,3,5415.64,Rendah,1
+34.74,Credit,Portland,M075,Online,59,Retired,72,1,3736.57,Sangat Rendah,0
+64.01,Credit,Philadelphia,M061,Branch,19,Student,240,1,1225.69,Sangat Rendah,0
+108.75,Debit,Houston,M097,ATM,50,Doctor,23,4,14829.85,Sedang,1
+50.9,Credit,Jacksonville,M089,Online,28,Student,150,1,1277.7,Sangat Rendah,0
+206.84,Debit,Philadelphia,M010,Branch,20,Student,154,1,454.66,Sangat Rendah,0
+37.4,Debit,Raleigh,M012,ATM,20,Student,84,1,1519.51,Sangat Rendah,0
+154.21,Debit,Miami,M083,Online,46,Engineer,75,1,8045.77,Sangat Rendah,0
+199.37,Debit,Chicago,M083,Online,24,Student,79,1,1331.3,Sangat Rendah,0
+410.49,Credit,Atlanta,M071,Branch,25,Student,134,1,1843.57,Sangat Rendah,0
+1360.01,Credit,Phoenix,M096,Branch,67,Retired,218,1,6601.5,Sangat Rendah,0
+18.23,Debit,Nashville,M064,ATM,56,Engineer,28,1,8422.2,Sangat Rendah,0
+398.7,Debit,Albuquerque,M006,ATM,47,Doctor,276,1,7987.74,Sangat Rendah,0
+122.14,Debit,Omaha,M071,Online,22,Student,155,1,327.68,Sangat Rendah,0
+378.2,Debit,Mesa,M008,Branch,40,Engineer,167,1,7372.81,Sangat Rendah,0
+124.74,Debit,Los Angeles,M038,ATM,49,Engineer,33,1,2987.97,Sangat Rendah,0
+17.1,Debit,Albuquerque,M019,ATM,53,Retired,101,1,1619.54,Sangat Rendah,0
+287.05,Debit,Milwaukee,M058,ATM,22,Student,212,1,1204.65,Sangat Rendah,0
+874.72,Debit,San Francisco,M085,Online,28,Engineer,173,1,4630.58,Sangat Rendah,0
+1762.28,Debit,Memphis,M066,ATM,24,Student,150,1,1380.34,Sangat Rendah,0
+40.12,Credit,Dallas,M016,ATM,36,Doctor,269,1,14304.38,Sangat Rendah,0
+125.0,Credit,Indianapolis,M046,Online,49,Engineer,177,1,3215.76,Sangat Rendah,0
+348.44,Debit,Baltimore,M034,Online,24,Student,147,1,1022.94,Sangat Rendah,0
+128.4,Debit,Tucson,M065,ATM,69,Retired,31,1,2610.64,Sangat Rendah,0
+320.93,Debit,Atlanta,M026,Online,55,Engineer,178,1,9451.66,Sangat Rendah,0
+1.41,Debit,Sacramento,M084,ATM,53,Retired,278,1,1244.17,Sangat Rendah,0
+50.52,Debit,Los Angeles,M065,Branch,54,Doctor,293,1,12815.24,Sangat Rendah,0
+383.95,Credit,San Diego,M068,Online,31,Engineer,143,1,9933.56,Sangat Rendah,0
+12.94,Debit,Fresno,M098,Branch,23,Student,158,1,921.23,Sangat Rendah,0
+329.75,Debit,Sacramento,M064,Online,56,Retired,211,1,6009.43,Sangat Rendah,0
+981.76,Debit,Milwaukee,M040,Online,45,Doctor,234,1,602.36,Sangat Rendah,0
+40.79,Debit,Milwaukee,M061,ATM,18,Student,80,1,1769.33,Sangat Rendah,0
+99.25,Credit,Phoenix,M048,Online,63,Retired,93,1,2570.34,Sangat Rendah,0
+150.6,Debit,Miami,M080,ATM,69,Retired,59,1,3240.14,Sangat Rendah,0
+29.5,Debit,San Antonio,M008,Online,73,Retired,129,1,1229.32,Sangat Rendah,0
+54.34,Debit,Albuquerque,M035,ATM,65,Doctor,46,1,8019.89,Sangat Rendah,0
+18.25,Debit,Kansas City,M076,ATM,53,Doctor,18,1,14328.29,Sangat Rendah,0
+633.87,Debit,Kansas City,M067,Online,27,Student,175,1,330.16,Sangat Rendah,0
+81.15,Debit,Miami,M059,ATM,19,Student,114,1,1595.26,Sangat Rendah,0
+83.95,Debit,New York,M015,Online,75,Retired,170,1,7413.18,Sangat Rendah,0
+410.4,Credit,Virginia Beach,M021,ATM,61,Retired,78,1,2563.91,Sangat Rendah,0
+172.68,Debit,Baltimore,M031,ATM,33,Doctor,17,1,10724.95,Sangat Rendah,0
+139.88,Debit,Colorado Springs,M024,ATM,34,Engineer,162,1,2969.71,Sangat Rendah,0
+165.55,Debit,Dallas,M061,Branch,28,Student,115,1,761.78,Sangat Rendah,0
+53.79,Credit,Philadelphia,M072,ATM,54,Engineer,137,3,6229.36,Rendah,1
+285.69,Debit,Miami,M064,ATM,63,Retired,35,1,2552.54,Sangat Rendah,0
+532.4,Debit,Jacksonville,M027,ATM,22,Student,149,1,1033.73,Sangat Rendah,0
+293.85,Debit,Charlotte,M011,Online,25,Student,144,1,1919.97,Sangat Rendah,0
+27.94,Debit,Atlanta,M093,Branch,79,Retired,120,1,1893.44,Sangat Rendah,0
+270.36,Debit,Oklahoma City,M044,ATM,25,Student,37,1,1783.04,Sangat Rendah,0
+112.66,Debit,Philadelphia,M049,Online,29,Engineer,176,3,852.98,Rendah,1
+506.03,Debit,Detroit,M100,Branch,21,Student,21,1,1123.89,Sangat Rendah,0
+206.95,Debit,Seattle,M084,Branch,22,Student,31,1,1817.65,Sangat Rendah,0
+350.96,Debit,Tucson,M046,ATM,63,Retired,167,1,5463.94,Sangat Rendah,0
+261.63,Debit,Chicago,M018,Branch,20,Student,150,1,477.03,Sangat Rendah,0
+46.12,Debit,Fresno,M088,Branch,59,Doctor,30,1,8874.01,Sangat Rendah,0
+27.25,Credit,Kansas City,M082,Branch,63,Retired,92,1,5365.2,Sangat Rendah,0
+1353.93,Debit,El Paso,M073,Branch,26,Engineer,171,1,7858.41,Sangat Rendah,0
+331.66,Debit,Las Vegas,M040,ATM,76,Retired,145,1,7216.3,Sangat Rendah,0
+667.95,Credit,Oklahoma City,M027,ATM,62,Doctor,253,1,13558.56,Sangat Rendah,0
+49.84,Debit,Chicago,M095,ATM,49,Doctor,146,1,7872.04,Sangat Rendah,0
+556.04,Debit,Denver,M022,ATM,72,Retired,27,1,5200.04,Sangat Rendah,0
+88.06,Credit,Raleigh,M016,Online,18,Student,288,1,1779.85,Sangat Rendah,0
+745.95,Debit,Memphis,M028,ATM,58,Doctor,127,1,13264.14,Sangat Rendah,0
+67.25,Debit,Miami,M013,Online,19,Student,157,1,467.4,Sangat Rendah,0
+93.63,Debit,New York,M096,ATM,29,Engineer,141,1,9873.62,Sangat Rendah,0
+74.11,Debit,San Jose,M011,Branch,22,Student,49,1,1257.9,Sangat Rendah,0
+41.13,Credit,Philadelphia,M030,Branch,77,Retired,58,1,6067.54,Sangat Rendah,0
+192.02,Credit,Indianapolis,M025,Online,79,Retired,154,1,5169.07,Sangat Rendah,0
+291.27,Debit,Detroit,M097,Branch,77,Retired,121,1,6878.86,Sangat Rendah,0
+296.46,Debit,Dallas,M046,Branch,23,Student,136,1,558.99,Sangat Rendah,0
+341.84,Credit,El Paso,M026,Branch,27,Student,89,1,1400.04,Sangat Rendah,0
+98.41,Debit,Sacramento,M052,Online,27,Student,48,1,912.71,Sangat Rendah,0
+109.28,Debit,San Diego,M082,Online,36,Engineer,112,4,6338.35,Sedang,1
+27.51,Credit,Columbus,M057,Online,40,Doctor,103,1,13645.63,Sangat Rendah,0
+12.18,Debit,New York,M088,Branch,76,Retired,77,1,4909.24,Sangat Rendah,0
+207.71,Credit,Kansas City,M066,Online,25,Student,63,1,570.1,Sangat Rendah,0
+25.77,Credit,San Diego,M078,Online,45,Doctor,277,1,11749.77,Sangat Rendah,0
+127.57,Debit,Nashville,M049,ATM,52,Retired,75,1,6118.2,Sangat Rendah,0
+392.05,Debit,Denver,M099,ATM,60,Engineer,172,1,4383.69,Sangat Rendah,0
+521.01,Credit,Seattle,M041,Branch,41,Engineer,73,1,4004.55,Sangat Rendah,0
+849.76,Debit,Seattle,M023,ATM,25,Student,269,1,373.88,Sangat Rendah,0
+172.5,Debit,Columbus,M065,Online,68,Doctor,31,1,6851.16,Sangat Rendah,0
+265.44,Debit,San Antonio,M090,ATM,30,Engineer,169,1,9700.77,Sangat Rendah,0
+152.34,Debit,Omaha,M044,Branch,55,Doctor,115,1,6853.51,Sangat Rendah,0
+21.13,Debit,Dallas,M090,Branch,28,Student,153,1,948.7,Sangat Rendah,0
+111.55,Debit,Denver,M039,ATM,46,Doctor,101,1,12221.17,Sangat Rendah,0
+321.82,Credit,Raleigh,M049,Branch,32,Engineer,43,1,6500.5,Sangat Rendah,0
+1294.81,Credit,Washington,M026,Branch,45,Engineer,279,1,9927.75,Sangat Rendah,0
+148.77,Debit,San Jose,M083,Branch,67,Retired,175,1,2138.42,Sangat Rendah,0
+14.08,Debit,Dallas,M059,Branch,57,Retired,154,1,3908.65,Sangat Rendah,0
+1283.97,Debit,Colorado Springs,M030,ATM,42,Doctor,121,1,11041.9,Sangat Rendah,0
+566.33,Credit,Charlotte,M065,ATM,24,Student,66,1,379.82,Sangat Rendah,0
+206.51,Debit,Indianapolis,M046,ATM,51,Retired,275,1,3921.74,Sangat Rendah,0
+180.94,Debit,Raleigh,M028,Branch,75,Retired,57,1,7659.99,Sangat Rendah,0
+77.9,Debit,Washington,M071,Branch,21,Student,128,1,664.72,Sangat Rendah,0
+318.92,Credit,Washington,M037,Branch,21,Student,60,1,1167.25,Sangat Rendah,0
+583.3,Credit,Nashville,M094,Online,59,Engineer,142,1,5896.01,Sangat Rendah,0
+100.68,Debit,Memphis,M022,Online,63,Retired,139,1,1123.75,Sangat Rendah,0
+589.64,Debit,Charlotte,M050,Online,62,Retired,210,1,2039.4,Sangat Rendah,0
+225.93,Credit,Omaha,M097,Branch,25,Student,199,1,1864.27,Sangat Rendah,0
+651.55,Debit,Phoenix,M043,Online,72,Retired,82,1,2325.78,Sangat Rendah,0
+80.97,Debit,Seattle,M026,Online,38,Doctor,157,1,5926.31,Sangat Rendah,0
+191.89,Debit,San Antonio,M041,Branch,25,Student,14,1,399.57,Sangat Rendah,0
+304.75,Credit,Austin,M096,Branch,78,Retired,125,1,1916.34,Sangat Rendah,0
+201.53,Debit,Tucson,M007,Online,68,Retired,287,1,2732.86,Sangat Rendah,0
+8.45,Debit,Philadelphia,M022,ATM,22,Student,141,1,1115.3,Sangat Rendah,0
+435.98,Debit,Mesa,M099,Branch,30,Engineer,105,1,7334.08,Sangat Rendah,0
+743.24,Credit,Indianapolis,M084,Online,19,Student,109,1,1024.19,Sangat Rendah,0
+16.27,Debit,Atlanta,M038,ATM,57,Doctor,44,1,10971.32,Sangat Rendah,0
+290.86,Debit,Louisville,M068,Online,45,Doctor,36,1,14631.88,Sangat Rendah,0
+85.73,Debit,Virginia Beach,M100,ATM,41,Doctor,266,1,14928.35,Sangat Rendah,0
+555.71,Credit,Boston,M018,Branch,22,Student,73,1,830.37,Sangat Rendah,0
+40.03,Debit,Omaha,M086,Branch,23,Student,200,1,6408.8,Sangat Rendah,0
+73.01,Credit,Milwaukee,M028,Online,25,Student,62,1,1997.33,Sangat Rendah,0
+346.12,Debit,San Francisco,M067,Branch,44,Doctor,12,1,13084.27,Sangat Rendah,0
+1.93,Debit,Chicago,M030,Branch,47,Doctor,175,5,5684.09,Sedang,1
+252.93,Debit,Portland,M001,ATM,75,Retired,222,1,2760.37,Sangat Rendah,0
+238.54,Debit,Indianapolis,M006,ATM,19,Student,12,4,868.91,Sedang,1
+1011.22,Debit,Tucson,M074,Branch,61,Retired,129,1,5838.91,Sangat Rendah,0
+58.7,Debit,New York,M041,Branch,67,Doctor,141,1,8937.35,Sangat Rendah,0
+7.56,Debit,Milwaukee,M070,ATM,40,Doctor,145,1,8528.72,Sangat Rendah,0
+540.4,Debit,Houston,M061,Branch,45,Doctor,272,1,425.77,Sangat Rendah,0
+264.14,Debit,Baltimore,M066,ATM,64,Doctor,125,1,8459.26,Sangat Rendah,0
+248.15,Debit,Milwaukee,M018,ATM,75,Retired,202,1,2649.23,Sangat Rendah,0
+24.34,Debit,Raleigh,M051,Branch,54,Engineer,110,1,6659.12,Sangat Rendah,0
+428.61,Debit,Fort Worth,M052,ATM,66,Doctor,62,1,11937.04,Sangat Rendah,0
+117.66,Credit,Memphis,M014,Branch,39,Doctor,126,1,6794.17,Sangat Rendah,0
+165.8,Debit,Nashville,M063,Online,60,Engineer,287,1,2064.76,Sangat Rendah,0
+289.18,Debit,Baltimore,M067,ATM,65,Retired,64,1,3139.75,Sangat Rendah,0
+125.39,Debit,Los Angeles,M036,ATM,21,Student,140,1,202.69,Sangat Rendah,0
+305.18,Debit,Chicago,M065,Online,58,Retired,216,1,4474.2,Sangat Rendah,0
+506.9,Credit,Houston,M038,Branch,64,Doctor,56,1,11471.87,Sangat Rendah,0
+504.12,Credit,Baltimore,M008,Branch,25,Student,101,1,1107.28,Sangat Rendah,0
+42.09,Debit,Denver,M046,Branch,29,Engineer,118,1,5526.28,Sangat Rendah,0
+607.28,Debit,Baltimore,M098,ATM,32,Doctor,84,1,9679.68,Sangat Rendah,0
+91.9,Debit,Chicago,M036,Online,77,Retired,125,1,1033.94,Sangat Rendah,0
+303.43,Debit,Virginia Beach,M029,Branch,22,Student,30,1,1833.24,Sangat Rendah,0
+668.78,Debit,Mesa,M094,ATM,20,Student,141,1,983.68,Sangat Rendah,0
+270.54,Credit,Sacramento,M077,ATM,20,Student,139,1,269.78,Sangat Rendah,0
+247.93,Debit,Indianapolis,M100,Branch,37,Engineer,79,1,9801.48,Sangat Rendah,0
+34.67,Debit,Chicago,M077,Online,19,Student,71,1,888.6,Sangat Rendah,0
+326.03,Credit,New York,M038,Online,18,Student,137,1,290.24,Sangat Rendah,0
+148.26,Debit,Omaha,M021,ATM,25,Student,57,1,958.7,Sangat Rendah,0
+1086.6,Debit,San Diego,M016,Online,19,Student,38,1,1605.67,Sangat Rendah,0
+373.99,Debit,Sacramento,M097,ATM,60,Doctor,140,1,8590.5,Sangat Rendah,0
+254.34,Debit,El Paso,M084,Online,49,Engineer,79,1,5461.08,Sangat Rendah,0
+819.48,Debit,Virginia Beach,M038,ATM,25,Student,26,1,1804.5,Sangat Rendah,0
+14.0,Debit,San Antonio,M063,ATM,49,Engineer,173,1,7975.18,Sangat Rendah,0
+57.16,Debit,Columbus,M022,ATM,40,Engineer,74,1,222.22,Sangat Rendah,0
+282.26,Debit,Memphis,M028,Online,37,Engineer,278,1,6857.2,Sangat Rendah,0
+46.96,Debit,Las Vegas,M070,Online,46,Engineer,12,1,2028.92,Sangat Rendah,0
+473.2,Debit,Houston,M054,Online,34,Doctor,173,1,248.52,Sangat Rendah,0
+192.97,Debit,Sacramento,M098,ATM,59,Retired,140,1,3019.04,Sangat Rendah,0
+168.99,Debit,Baltimore,M078,ATM,18,Student,203,1,1523.57,Sangat Rendah,0
+1.82,Debit,San Francisco,M009,Online,80,Retired,60,1,5571.39,Sangat Rendah,0
+40.9,Debit,Charlotte,M024,ATM,55,Doctor,37,1,1514.34,Sangat Rendah,0
+78.91,Debit,Sacramento,M063,Online,61,Doctor,157,1,1817.43,Sangat Rendah,0
+169.97,Credit,San Diego,M060,ATM,22,Student,12,1,6269.12,Sangat Rendah,0
+17.79,Debit,Jacksonville,M091,Branch,61,Retired,162,5,2281.9,Sedang,1
+486.61,Credit,Sacramento,M047,ATM,48,Engineer,130,1,2006.69,Sangat Rendah,0
+148.13,Debit,Phoenix,M025,Branch,58,Retired,56,1,2189.38,Sangat Rendah,0
+164.52,Debit,Dallas,M099,ATM,61,Doctor,162,1,11036.74,Sangat Rendah,0
+720.89,Debit,Indianapolis,M008,ATM,27,Student,120,1,447.06,Sangat Rendah,0
+268.7,Debit,Milwaukee,M013,ATM,53,Retired,63,1,2104.74,Sangat Rendah,0
+637.34,Debit,Indianapolis,M018,ATM,51,Retired,278,1,5183.5,Sangat Rendah,0
+216.76,Credit,Omaha,M033,Online,47,Engineer,138,1,643.64,Sangat Rendah,0
+418.02,Debit,Los Angeles,M017,ATM,46,Doctor,110,1,11011.86,Sangat Rendah,0
+292.03,Credit,Memphis,M050,ATM,46,Engineer,154,1,951.33,Sangat Rendah,0
+251.4,Debit,Tucson,M023,ATM,57,Retired,178,1,2561.67,Sangat Rendah,0
+184.56,Debit,Virginia Beach,M058,Online,21,Student,93,1,1549.27,Sangat Rendah,0
+33.76,Debit,Seattle,M024,Online,26,Engineer,227,1,3253.51,Sangat Rendah,0
+253.46,Debit,Memphis,M046,ATM,45,Engineer,60,1,1338.95,Sangat Rendah,0
+1612.37,Debit,Los Angeles,M078,ATM,65,Retired,173,1,3910.59,Sangat Rendah,0
+138.68,Credit,Colorado Springs,M002,Branch,22,Student,44,1,206.2,Sangat Rendah,0
+42.56,Debit,Fresno,M001,Online,18,Student,146,1,4361.44,Sangat Rendah,0
+680.76,Debit,Kansas City,M011,Branch,21,Student,165,1,572.97,Sangat Rendah,0
+53.83,Debit,Baltimore,M062,Branch,70,Retired,131,1,4580.59,Sangat Rendah,0
+11.09,Debit,Charlotte,M094,Branch,51,Engineer,95,1,2990.05,Sangat Rendah,0
+37.81,Debit,Colorado Springs,M074,Branch,63,Retired,195,1,5208.98,Sangat Rendah,0
+449.18,Debit,Denver,M006,Online,67,Retired,50,1,1025.99,Sangat Rendah,0
+1135.8,Debit,San Diego,M004,ATM,30,Doctor,250,1,13534.3,Sangat Rendah,0
+297.6,Debit,Milwaukee,M099,Online,39,Doctor,162,1,1461.17,Sangat Rendah,0
+683.75,Debit,Las Vegas,M073,Branch,32,Doctor,106,1,6333.72,Sangat Rendah,0
+21.4,Credit,Kansas City,M009,Online,48,Engineer,129,1,8551.6,Sangat Rendah,0
+315.94,Debit,Omaha,M092,ATM,78,Retired,93,1,4273.99,Sangat Rendah,0
+331.32,Debit,Sacramento,M078,Branch,61,Doctor,137,5,13054.54,Sedang,1
+223.76,Credit,Boston,M013,Branch,74,Retired,110,1,4102.23,Sangat Rendah,0
+216.03,Debit,Boston,M042,ATM,42,Doctor,300,1,10462.77,Sangat Rendah,0
+17.42,Debit,Dallas,M006,ATM,74,Retired,150,1,6851.31,Sangat Rendah,0
+491.91,Debit,Milwaukee,M036,Online,78,Retired,155,1,2421.94,Sangat Rendah,0
+350.11,Credit,Raleigh,M050,Online,74,Retired,178,1,4639.04,Sangat Rendah,0
+218.07,Debit,Austin,M067,Branch,23,Student,243,1,443.62,Sangat Rendah,0
+291.09,Debit,El Paso,M019,Branch,48,Engineer,73,1,6312.79,Sangat Rendah,0
+422.14,Credit,Albuquerque,M027,Branch,26,Student,109,1,1436.32,Sangat Rendah,0
+613.21,Debit,Tucson,M098,ATM,61,Retired,157,1,3279.12,Sangat Rendah,0
+73.83,Debit,Las Vegas,M097,Online,69,Doctor,69,1,6020.29,Sangat Rendah,0
+67.33,Debit,Detroit,M073,Online,59,Engineer,36,1,5925.98,Sangat Rendah,0
+26.92,Debit,Indianapolis,M053,ATM,62,Retired,43,1,1674.94,Sangat Rendah,0
+18.3,Debit,Mesa,M011,Online,48,Engineer,155,1,3733.52,Sangat Rendah,0
+317.94,Debit,Los Angeles,M091,ATM,54,Engineer,124,1,2996.51,Sangat Rendah,0
+179.38,Debit,Mesa,M028,Online,40,Doctor,173,1,11666.18,Sangat Rendah,0
+918.95,Debit,Seattle,M026,Online,68,Doctor,139,1,7006.46,Sangat Rendah,0
+13.92,Debit,Los Angeles,M024,ATM,37,Engineer,209,1,2735.84,Sangat Rendah,0
+365.43,Debit,Portland,M014,ATM,25,Student,176,1,1073.51,Sangat Rendah,0
+263.59,Debit,Dallas,M052,Branch,71,Retired,16,1,6996.35,Sangat Rendah,0
+54.8,Debit,Albuquerque,M093,Branch,34,Engineer,140,1,4943.49,Sangat Rendah,0
+141.49,Debit,Baltimore,M007,Online,24,Student,75,1,1665.58,Sangat Rendah,0
+31.39,Debit,Tucson,M068,ATM,20,Student,15,1,998.49,Sangat Rendah,0
+93.82,Debit,San Diego,M006,Online,39,Engineer,176,1,8422.06,Sangat Rendah,0
+5.71,Debit,Tucson,M071,Branch,21,Student,106,1,1285.42,Sangat Rendah,0
+178.39,Debit,Tucson,M080,Online,34,Engineer,98,1,8469.43,Sangat Rendah,0
+126.91,Debit,Kansas City,M050,ATM,22,Student,42,1,692.69,Sangat Rendah,0
+36.09,Debit,Columbus,M095,Branch,53,Doctor,167,1,12319.26,Sangat Rendah,0
+91.77,Debit,Omaha,M042,Branch,51,Doctor,174,1,9240.73,Sangat Rendah,0
+198.92,Debit,Milwaukee,M020,Online,36,Engineer,100,1,2854.66,Sangat Rendah,0
+137.81,Debit,Detroit,M067,Branch,58,Engineer,44,1,2631.47,Sangat Rendah,0
+136.88,Credit,Memphis,M029,Branch,24,Student,71,1,7465.95,Sangat Rendah,0
+133.07,Debit,Sacramento,M001,Branch,21,Student,155,1,1670.99,Sangat Rendah,0
+1.14,Debit,Indianapolis,M071,Branch,43,Doctor,137,1,13913.92,Sangat Rendah,0
+256.34,Debit,Kansas City,M057,Branch,69,Retired,99,1,7471.63,Sangat Rendah,0
+56.11,Debit,Boston,M025,Branch,36,Doctor,109,1,11123.65,Sangat Rendah,0
+118.1,Debit,Fort Worth,M058,ATM,50,Engineer,50,1,7976.6,Sangat Rendah,0
+137.86,Credit,Sacramento,M096,Online,66,Doctor,120,1,8046.94,Sangat Rendah,0
+813.78,Credit,Atlanta,M012,ATM,54,Doctor,55,1,14935.5,Sangat Rendah,0
+237.97,Debit,Columbus,M089,ATM,69,Doctor,69,1,13486.15,Sangat Rendah,0
+684.96,Debit,Mesa,M070,ATM,21,Student,31,1,526.67,Sangat Rendah,0
+878.63,Debit,Columbus,M080,ATM,60,Engineer,139,1,4954.37,Sangat Rendah,0
+276.56,Debit,Austin,M002,Branch,68,Doctor,15,1,8942.58,Sangat Rendah,0
+8.75,Debit,Louisville,M043,ATM,79,Retired,199,1,4044.62,Sangat Rendah,0
+637.48,Debit,Colorado Springs,M016,Online,65,Retired,207,1,4148.85,Sangat Rendah,0
+103.15,Debit,San Diego,M010,Branch,51,Doctor,179,1,11388.15,Sangat Rendah,0
+505.6,Debit,Denver,M021,Branch,52,Retired,183,1,5347.57,Sangat Rendah,0
+371.86,Debit,Miami,M073,ATM,46,Doctor,91,1,1329.45,Sangat Rendah,0
+14.26,Debit,Virginia Beach,M094,Branch,50,Engineer,37,1,2475.65,Sangat Rendah,0
+13.16,Debit,Mesa,M084,Branch,43,Engineer,98,1,1019.46,Sangat Rendah,0
+167.92,Debit,Memphis,M050,ATM,40,Doctor,136,2,14321.73,Rendah,0
+73.01,Debit,Houston,M070,ATM,56,Retired,101,1,2833.12,Sangat Rendah,0
+201.5,Credit,Dallas,M066,Online,61,Doctor,196,1,12148.32,Sangat Rendah,0
+150.3,Debit,Las Vegas,M077,Online,41,Doctor,204,1,14371.08,Sangat Rendah,0
+23.7,Debit,San Francisco,M071,ATM,46,Doctor,32,1,7947.44,Sangat Rendah,0
+49.59,Debit,Boston,M089,Branch,48,Engineer,147,1,6037.03,Sangat Rendah,0
+720.13,Credit,Omaha,M024,ATM,22,Student,96,1,387.02,Sangat Rendah,0
+134.92,Debit,Los Angeles,M021,Online,19,Student,101,1,1081.97,Sangat Rendah,0
+116.97,Debit,Oklahoma City,M041,ATM,18,Student,299,1,729.7,Sangat Rendah,0
+11.06,Debit,Colorado Springs,M037,ATM,34,Engineer,13,3,2782.21,Rendah,1
+88.29,Credit,Houston,M039,Online,50,Engineer,287,1,5245.93,Sangat Rendah,0
+5.81,Debit,Houston,M064,ATM,25,Student,222,1,1290.95,Sangat Rendah,0
+103.48,Debit,Baltimore,M095,ATM,32,Engineer,33,1,6494.25,Sangat Rendah,0
+156.74,Debit,Oklahoma City,M010,ATM,70,Retired,136,1,4004.35,Sangat Rendah,0
+505.14,Debit,Portland,M058,ATM,68,Retired,179,1,2525.47,Sangat Rendah,0
+31.06,Debit,Kansas City,M072,ATM,46,Doctor,61,1,11014.25,Sangat Rendah,0
+7.61,Debit,Atlanta,M022,ATM,50,Doctor,163,1,6275.0,Sangat Rendah,0
+276.16,Credit,Portland,M019,ATM,53,Retired,71,1,1733.34,Sangat Rendah,0
+145.77,Debit,Memphis,M040,ATM,68,Retired,237,1,5294.98,Sangat Rendah,0
+369.44,Debit,Detroit,M094,Online,34,Engineer,19,1,5018.67,Sangat Rendah,0
+558.86,Debit,Austin,M040,ATM,60,Doctor,95,1,9844.32,Sangat Rendah,0
+429.15,Debit,Las Vegas,M054,Branch,26,Student,218,1,712.13,Sangat Rendah,0
+36.74,Debit,Tucson,M094,Branch,33,Doctor,133,1,6217.58,Sangat Rendah,0
+79.14,Credit,Portland,M061,Online,57,Retired,22,1,2229.56,Sangat Rendah,0
+132.48,Debit,Charlotte,M062,Branch,36,Engineer,101,1,9313.05,Sangat Rendah,0
+136.48,Debit,Charlotte,M079,Online,52,Engineer,138,4,4618.53,Sedang,1
+203.76,Debit,Colorado Springs,M012,Branch,55,Retired,37,1,6747.16,Sangat Rendah,0
+750.95,Debit,Chicago,M100,Branch,78,Retired,27,1,5134.37,Sangat Rendah,0
+0.84,Debit,Austin,M036,ATM,52,Engineer,31,1,2207.54,Sangat Rendah,0
+257.18,Debit,Los Angeles,M010,Online,67,Doctor,28,1,13336.15,Sangat Rendah,0
+767.66,Debit,San Jose,M085,ATM,63,Doctor,155,1,1801.69,Sangat Rendah,0
+182.29,Debit,San Diego,M032,Online,54,Doctor,123,1,522.39,Sangat Rendah,0
+184.51,Credit,Portland,M021,Online,54,Doctor,118,1,9381.64,Sangat Rendah,0
+451.31,Debit,Fort Worth,M046,ATM,62,Retired,166,5,2963.29,Sedang,1
+144.1,Debit,Chicago,M065,Branch,57,Doctor,30,1,11523.64,Sangat Rendah,0
+72.5,Debit,Fort Worth,M053,ATM,40,Doctor,30,1,12723.62,Sangat Rendah,0
+74.11,Credit,Virginia Beach,M065,Online,69,Retired,71,4,3920.11,Sedang,1
+22.15,Debit,Denver,M065,Branch,44,Doctor,73,1,7451.83,Sangat Rendah,0
+777.92,Debit,Austin,M045,Branch,62,Doctor,97,1,7061.58,Sangat Rendah,0
+790.07,Debit,Miami,M096,Online,28,Student,197,1,985.77,Sangat Rendah,0
+406.33,Credit,Miami,M066,Branch,59,Engineer,103,1,4298.34,Sangat Rendah,0
+767.41,Debit,Fort Worth,M021,ATM,56,Doctor,27,1,12799.34,Sangat Rendah,0
+4.58,Credit,Atlanta,M099,Online,21,Student,135,1,811.24,Sangat Rendah,0
+447.83,Credit,Atlanta,M030,Branch,53,Doctor,88,1,13273.08,Sangat Rendah,0
+49.67,Debit,Atlanta,M030,Online,21,Student,146,1,842.94,Sangat Rendah,0
+77.83,Credit,Kansas City,M067,Branch,49,Engineer,146,1,2471.53,Sangat Rendah,0
+702.87,Debit,Washington,M033,ATM,19,Student,184,1,1237.5,Sangat Rendah,0
+133.56,Debit,Atlanta,M071,Online,25,Student,177,1,783.83,Sangat Rendah,0
+868.05,Credit,San Diego,M024,Online,49,Engineer,119,1,3931.03,Sangat Rendah,0
+52.87,Debit,Indianapolis,M055,Branch,24,Student,70,1,960.96,Sangat Rendah,0
+179.0,Debit,Houston,M053,ATM,78,Retired,121,1,7310.88,Sangat Rendah,0
+1168.26,Credit,Philadelphia,M005,Online,73,Retired,37,1,1385.74,Sangat Rendah,0
+384.11,Debit,Fort Worth,M032,ATM,58,Retired,12,1,7902.52,Sangat Rendah,0
+227.61,Debit,Houston,M025,Online,71,Retired,61,1,4405.28,Sangat Rendah,0
+40.83,Debit,Indianapolis,M040,ATM,48,Engineer,24,1,3944.12,Sangat Rendah,0
+19.76,Debit,Nashville,M037,ATM,20,Student,240,1,1523.04,Sangat Rendah,0
+484.24,Debit,Raleigh,M019,Branch,67,Doctor,77,1,8042.3,Sangat Rendah,0
+494.66,Debit,Houston,M009,Online,33,Doctor,110,1,5531.93,Sangat Rendah,0
+301.47,Debit,Colorado Springs,M040,Branch,21,Student,291,1,560.73,Sangat Rendah,0
+199.09,Debit,Detroit,M078,Online,70,Doctor,89,1,1658.52,Sangat Rendah,0
+38.95,Debit,Los Angeles,M100,Online,27,Engineer,50,1,731.52,Sangat Rendah,0
+515.94,Debit,San Francisco,M049,ATM,29,Engineer,37,1,1389.89,Sangat Rendah,0
+41.93,Debit,Fresno,M055,ATM,48,Engineer,136,1,5081.26,Sangat Rendah,0
+137.84,Debit,Omaha,M069,ATM,27,Student,83,1,1000.35,Sangat Rendah,0
+95.35,Debit,Chicago,M032,Online,21,Student,131,1,1639.9,Sangat Rendah,0
+93.14,Debit,Memphis,M092,Online,67,Retired,151,1,5473.82,Sangat Rendah,0
+1427.71,Debit,New York,M086,Branch,64,Doctor,159,1,1729.26,Sangat Rendah,0
+79.33,Credit,Las Vegas,M026,Online,51,Doctor,109,1,14798.1,Sangat Rendah,0
+76.89,Debit,Chicago,M011,ATM,55,Doctor,132,1,7374.26,Sangat Rendah,0
+233.71,Debit,Jacksonville,M040,Online,19,Student,297,1,1231.98,Sangat Rendah,0
+14.92,Debit,Las Vegas,M044,Branch,26,Engineer,120,1,6611.26,Sangat Rendah,0
+242.17,Debit,Jacksonville,M032,ATM,60,Doctor,147,1,883.72,Sangat Rendah,0
+122.98,Debit,Jacksonville,M020,Online,79,Retired,228,1,5055.99,Sangat Rendah,0
+129.35,Debit,Las Vegas,M040,ATM,52,Engineer,130,1,7166.88,Sangat Rendah,0
+138.33,Debit,Dallas,M011,Online,21,Student,69,1,232.56,Sangat Rendah,0
+39.31,Debit,Portland,M053,Online,25,Student,178,1,1236.38,Sangat Rendah,0
+91.85,Debit,Seattle,M040,Online,21,Student,148,1,802.09,Sangat Rendah,0
+277.7,Debit,Nashville,M011,Branch,58,Engineer,107,1,1423.2,Sangat Rendah,0
+114.03,Debit,Portland,M081,ATM,51,Doctor,172,1,13388.56,Sangat Rendah,0
+302.63,Credit,San Jose,M052,Branch,27,Engineer,10,1,2801.28,Sangat Rendah,0
+31.19,Debit,Charlotte,M023,ATM,52,Engineer,74,1,5545.96,Sangat Rendah,0
+112.91,Credit,Tucson,M031,Online,27,Engineer,135,1,4764.48,Sangat Rendah,0
+742.26,Debit,San Diego,M056,Online,27,Engineer,36,1,7868.19,Sangat Rendah,0
+256.8,Debit,Charlotte,M014,ATM,26,Student,80,1,1128.38,Sangat Rendah,0
+378.68,Debit,Fort Worth,M095,ATM,60,Doctor,239,1,7627.04,Sangat Rendah,0
+571.93,Debit,Washington,M048,Online,52,Retired,119,1,4026.03,Sangat Rendah,0
+26.31,Credit,Austin,M028,Online,77,Retired,163,1,7095.76,Sangat Rendah,0
+205.58,Debit,Portland,M005,Online,20,Student,159,1,1501.95,Sangat Rendah,0
+533.61,Debit,Mesa,M043,Online,48,Engineer,115,1,3656.93,Sangat Rendah,0
+428.62,Debit,Raleigh,M028,Branch,55,Retired,72,1,3473.24,Sangat Rendah,0
+361.22,Debit,Raleigh,M028,ATM,64,Retired,167,1,7061.73,Sangat Rendah,0
+837.29,Debit,Phoenix,M002,Branch,25,Student,216,1,6012.67,Sangat Rendah,0
+117.25,Credit,Atlanta,M091,Online,31,Doctor,73,1,13694.68,Sangat Rendah,0
+135.27,Debit,Atlanta,M050,ATM,48,Doctor,131,1,9410.51,Sangat Rendah,0
+185.1,Debit,Albuquerque,M005,Branch,53,Retired,23,1,6115.63,Sangat Rendah,0
+113.54,Debit,Columbus,M036,Online,38,Engineer,273,1,5581.21,Sangat Rendah,0
+354.96,Debit,Fort Worth,M014,Online,69,Doctor,96,1,6712.94,Sangat Rendah,0
+224.22,Debit,Fresno,M086,Branch,53,Doctor,37,1,8400.87,Sangat Rendah,0
+737.1,Debit,Washington,M032,ATM,60,Retired,92,1,4644.19,Sangat Rendah,0
+223.22,Debit,Fort Worth,M018,ATM,27,Student,96,1,1734.22,Sangat Rendah,0
+557.26,Debit,San Jose,M076,ATM,69,Doctor,53,1,5237.12,Sangat Rendah,0
+1496.57,Debit,Memphis,M092,Online,33,Engineer,95,1,969.06,Sangat Rendah,0
+27.44,Debit,Boston,M057,ATM,62,Retired,164,1,5950.48,Sangat Rendah,0
+310.09,Debit,Detroit,M068,Branch,36,Doctor,166,1,9962.5,Sangat Rendah,0
+80.38,Debit,Kansas City,M064,Online,52,Doctor,116,1,9662.88,Sangat Rendah,0
+26.1,Credit,Detroit,M032,Branch,66,Doctor,115,1,5243.0,Sangat Rendah,0
+845.14,Credit,Oklahoma City,M026,Branch,73,Retired,183,1,1702.65,Sangat Rendah,0
+59.73,Debit,Fresno,M019,ATM,27,Student,56,1,800.93,Sangat Rendah,0
+758.77,Debit,San Antonio,M009,ATM,60,Engineer,114,1,7231.47,Sangat Rendah,0
+301.51,Debit,Charlotte,M089,ATM,22,Student,284,1,1052.31,Sangat Rendah,0
+418.03,Debit,Austin,M051,Online,58,Doctor,161,1,10721.29,Sangat Rendah,0
+118.06,Credit,Las Vegas,M082,Branch,32,Doctor,31,1,13560.63,Sangat Rendah,0
+483.92,Debit,New York,M092,ATM,70,Retired,115,1,3138.0,Sangat Rendah,0
+78.93,Debit,Mesa,M099,ATM,38,Doctor,145,1,9916.24,Sangat Rendah,0
+36.63,Debit,Miami,M094,ATM,75,Retired,261,1,7941.73,Sangat Rendah,0
+87.85,Debit,Colorado Springs,M062,Branch,49,Engineer,63,1,3753.24,Sangat Rendah,0
+1001.83,Debit,Philadelphia,M051,Online,31,Doctor,55,1,9733.83,Sangat Rendah,0
+705.34,Debit,Washington,M026,Online,59,Doctor,124,1,5003.22,Sangat Rendah,0
+146.55,Debit,Virginia Beach,M002,Online,54,Retired,124,5,4087.44,Sedang,1
+116.89,Debit,Columbus,M064,Online,71,Retired,226,1,4880.31,Sangat Rendah,0
+106.41,Debit,Los Angeles,M063,Branch,57,Retired,87,1,1310.38,Sangat Rendah,0
+1087.9,Debit,Boston,M053,ATM,78,Retired,103,1,2513.51,Sangat Rendah,0
+584.41,Debit,Las Vegas,M051,ATM,23,Student,41,1,4475.22,Sangat Rendah,0
+584.98,Credit,Chicago,M093,Branch,55,Retired,121,1,6521.05,Sangat Rendah,0
+79.21,Debit,Colorado Springs,M055,Branch,56,Retired,140,1,1615.04,Sangat Rendah,0
+173.13,Credit,Atlanta,M044,Online,20,Student,288,1,1490.34,Sangat Rendah,0
+335.7,Debit,El Paso,M012,ATM,80,Retired,57,1,6601.44,Sangat Rendah,0
+1225.5,Credit,Las Vegas,M066,Online,50,Doctor,109,1,8611.17,Sangat Rendah,0
+422.81,Debit,Los Angeles,M036,Branch,28,Student,193,1,1929.28,Sangat Rendah,0
+135.43,Debit,San Jose,M031,ATM,57,Retired,92,1,5315.83,Sangat Rendah,0
+584.88,Debit,Philadelphia,M042,ATM,26,Student,121,1,548.45,Sangat Rendah,0
+308.94,Debit,Los Angeles,M092,Online,25,Student,167,1,1931.66,Sangat Rendah,0
+295.93,Debit,Boston,M021,Branch,36,Doctor,117,1,1050.63,Sangat Rendah,0
+1512.99,Debit,Philadelphia,M071,Online,19,Student,50,1,9963.39,Sangat Rendah,0
+77.44,Debit,Washington,M011,Branch,58,Retired,268,1,1950.63,Sangat Rendah,0
+92.5,Credit,Seattle,M080,Online,40,Engineer,70,1,6295.45,Sangat Rendah,0
+97.74,Credit,Los Angeles,M046,Online,41,Engineer,137,1,4113.63,Sangat Rendah,0
+291.68,Debit,Columbus,M058,ATM,21,Student,90,1,1451.02,Sangat Rendah,0
+56.96,Debit,Albuquerque,M011,ATM,22,Student,135,1,1597.85,Sangat Rendah,0
+436.8,Debit,Seattle,M082,Online,27,Student,92,1,1256.33,Sangat Rendah,0
+259.49,Debit,Austin,M045,Online,72,Retired,292,1,7320.61,Sangat Rendah,0
+726.26,Debit,Omaha,M035,Online,57,Retired,147,1,2150.38,Sangat Rendah,0
+568.68,Debit,Houston,M075,ATM,72,Retired,101,1,2940.04,Sangat Rendah,0
+77.57,Debit,Atlanta,M091,Online,49,Doctor,225,1,12801.93,Sangat Rendah,0
+999.28,Debit,Boston,M050,Online,29,Engineer,40,1,4272.41,Sangat Rendah,0
+14.16,Credit,Oklahoma City,M076,Branch,74,Retired,290,1,5399.76,Sangat Rendah,0
+1142.83,Credit,Omaha,M028,Branch,61,Retired,48,1,2467.39,Sangat Rendah,0
+61.33,Debit,Raleigh,M018,ATM,27,Engineer,129,1,7537.4,Sangat Rendah,0
+27.64,Debit,New York,M065,Online,54,Engineer,23,1,7498.51,Sangat Rendah,0
+3.85,Debit,San Jose,M025,ATM,29,Doctor,32,1,10506.41,Sangat Rendah,0
+431.22,Credit,Austin,M051,Branch,73,Retired,129,1,6505.98,Sangat Rendah,0
+178.55,Debit,Houston,M076,Branch,55,Engineer,67,1,7568.4,Sangat Rendah,0
+248.76,Debit,Denver,M091,ATM,18,Student,56,1,546.46,Sangat Rendah,0
+76.16,Debit,San Francisco,M060,ATM,23,Student,99,1,1072.25,Sangat Rendah,0
+347.25,Debit,Indianapolis,M062,ATM,69,Doctor,250,1,7273.55,Sangat Rendah,0
+28.04,Debit,Los Angeles,M008,ATM,57,Doctor,146,5,11197.54,Sedang,1
+325.98,Debit,Washington,M086,ATM,19,Student,277,1,782.35,Sangat Rendah,0
+249.56,Debit,New York,M083,Branch,76,Retired,246,1,4444.95,Sangat Rendah,0
+17.43,Debit,Albuquerque,M042,ATM,56,Doctor,33,1,10658.88,Sangat Rendah,0
+198.01,Credit,Austin,M005,Branch,26,Student,40,1,250.93,Sangat Rendah,0
+585.58,Debit,Raleigh,M091,Branch,23,Student,55,1,1729.02,Sangat Rendah,0
+434.67,Credit,Virginia Beach,M024,Online,27,Student,124,1,1298.13,Sangat Rendah,0
+510.7,Credit,Nashville,M040,Online,27,Student,294,1,5828.48,Sangat Rendah,0
+331.98,Debit,Denver,M047,ATM,74,Retired,12,1,7600.99,Sangat Rendah,0
+199.54,Debit,Portland,M070,Online,56,Engineer,268,1,9603.73,Sangat Rendah,0
+212.97,Debit,Atlanta,M003,Online,59,Engineer,178,1,4180.4,Sangat Rendah,0
+270.56,Debit,Philadelphia,M038,Online,23,Student,139,1,1268.44,Sangat Rendah,0
+306.37,Debit,Colorado Springs,M015,ATM,26,Engineer,120,1,9609.67,Sangat Rendah,0
+643.02,Credit,Detroit,M065,ATM,38,Doctor,85,1,11989.39,Sangat Rendah,0
+98.48,Debit,Miami,M090,Branch,47,Engineer,12,1,9538.92,Sangat Rendah,0
+889.01,Debit,Virginia Beach,M030,Online,36,Engineer,169,1,4826.88,Sangat Rendah,0
+537.86,Debit,Kansas City,M001,Online,27,Student,134,1,293.06,Sangat Rendah,0
+241.18,Debit,Mesa,M025,ATM,25,Student,162,1,1445.53,Sangat Rendah,0
+130.54,Debit,Atlanta,M074,ATM,64,Doctor,94,1,11204.62,Sangat Rendah,0
+800.29,Credit,San Diego,M033,Branch,20,Student,84,1,693.4,Sangat Rendah,0
+8.81,Debit,Dallas,M046,Online,57,Doctor,165,1,13523.65,Sangat Rendah,0
+28.52,Debit,Detroit,M021,ATM,20,Student,163,1,662.51,Sangat Rendah,0
+431.31,Credit,Atlanta,M021,Online,23,Student,99,1,342.73,Sangat Rendah,0
+885.33,Credit,Raleigh,M025,ATM,47,Engineer,59,1,7764.16,Sangat Rendah,0
+199.23,Debit,Tucson,M052,ATM,29,Engineer,54,1,9834.0,Sangat Rendah,0
+42.26,Debit,Raleigh,M080,ATM,44,Doctor,171,1,268.77,Sangat Rendah,0
+166.06,Debit,Indianapolis,M020,ATM,30,Engineer,172,1,5397.68,Sangat Rendah,0
+357.72,Debit,Miami,M082,ATM,53,Retired,25,1,7659.5,Sangat Rendah,0
+588.37,Debit,Dallas,M100,Online,28,Student,284,1,1926.08,Sangat Rendah,0
+72.82,Debit,Houston,M063,Online,68,Doctor,127,1,6911.62,Sangat Rendah,0
+162.36,Debit,Tucson,M069,Online,36,Engineer,147,1,7527.04,Sangat Rendah,0
+584.82,Credit,Nashville,M057,Online,43,Doctor,109,1,12071.1,Sangat Rendah,0
+38.15,Credit,Oklahoma City,M065,Online,72,Retired,129,1,1425.47,Sangat Rendah,0
+477.54,Credit,San Francisco,M063,ATM,23,Student,52,1,1598.63,Sangat Rendah,0
+639.57,Debit,Philadelphia,M013,Branch,60,Doctor,43,1,11726.47,Sangat Rendah,0
+58.23,Debit,Phoenix,M068,Online,28,Student,34,1,9189.76,Sangat Rendah,0
+776.21,Credit,Raleigh,M036,Online,78,Retired,99,1,4895.87,Sangat Rendah,0
+248.76,Debit,Portland,M070,Branch,21,Student,117,1,6178.77,Sangat Rendah,0
+188.61,Debit,Boston,M083,Online,67,Retired,26,1,7167.57,Sangat Rendah,0
+675.37,Credit,Jacksonville,M001,Online,56,Retired,31,1,4704.91,Sangat Rendah,0
+94.82,Credit,Columbus,M011,Branch,67,Retired,56,1,1267.72,Sangat Rendah,0
+425.18,Credit,Fresno,M057,Online,59,Engineer,135,1,5790.55,Sangat Rendah,0
+50.28,Debit,Oklahoma City,M057,Branch,60,Engineer,65,1,5729.1,Sangat Rendah,0
+864.72,Credit,Detroit,M018,Branch,34,Engineer,58,1,7379.38,Sangat Rendah,0
+70.68,Debit,El Paso,M016,Online,25,Student,105,1,1478.41,Sangat Rendah,0
+261.77,Debit,Chicago,M004,Online,28,Student,46,1,824.71,Sangat Rendah,0
+183.22,Debit,Milwaukee,M099,ATM,27,Student,63,1,1024.42,Sangat Rendah,0
+58.32,Credit,Louisville,M011,Branch,29,Engineer,275,4,6027.49,Sedang,1
+156.86,Debit,Charlotte,M099,ATM,51,Doctor,102,1,14453.35,Sangat Rendah,0
+120.67,Debit,Colorado Springs,M040,ATM,42,Doctor,233,1,5374.54,Sangat Rendah,0
+308.62,Credit,Sacramento,M047,Branch,59,Engineer,101,1,9148.08,Sangat Rendah,0
+506.81,Debit,Milwaukee,M091,ATM,59,Engineer,41,1,2757.23,Sangat Rendah,0
+328.39,Debit,New York,M013,ATM,41,Engineer,108,1,2523.83,Sangat Rendah,0
+796.3,Debit,Austin,M062,Branch,67,Retired,64,1,1498.79,Sangat Rendah,0
+72.47,Debit,Boston,M083,Online,29,Doctor,72,1,1305.56,Sangat Rendah,0
+279.6,Debit,Fort Worth,M097,ATM,25,Student,131,1,1910.9,Sangat Rendah,0
+304.2,Debit,Indianapolis,M083,Online,25,Student,102,1,423.64,Sangat Rendah,0
+351.38,Debit,New York,M026,Branch,64,Retired,21,1,7606.63,Sangat Rendah,0
+86.07,Debit,Dallas,M078,Branch,31,Doctor,23,1,842.56,Sangat Rendah,0
+604.5,Debit,Portland,M073,ATM,28,Student,80,1,709.42,Sangat Rendah,0
+258.7,Debit,Charlotte,M035,ATM,27,Student,123,1,1358.37,Sangat Rendah,0
+994.63,Debit,Austin,M030,Online,61,Doctor,158,1,13538.14,Sangat Rendah,0
+11.46,Credit,Austin,M027,Branch,75,Retired,64,1,7258.33,Sangat Rendah,0
+63.76,Debit,San Antonio,M002,ATM,69,Retired,100,1,4980.26,Sangat Rendah,0
+446.83,Credit,Miami,M051,Branch,55,Retired,143,1,1623.5,Sangat Rendah,0
+63.54,Debit,Dallas,M045,ATM,26,Engineer,136,1,4401.78,Sangat Rendah,0
+81.11,Debit,Charlotte,M044,Online,48,Engineer,110,1,2051.37,Sangat Rendah,0
+441.26,Credit,Tucson,M074,Branch,58,Doctor,87,5,13704.92,Sedang,1
+170.96,Debit,Washington,M083,Branch,64,Doctor,69,1,13374.89,Sangat Rendah,0
+48.51,Debit,Austin,M009,Branch,22,Student,69,1,3363.23,Sangat Rendah,0
+325.03,Debit,Jacksonville,M098,Branch,60,Doctor,106,1,13521.76,Sangat Rendah,0
+125.83,Debit,Los Angeles,M001,ATM,57,Retired,138,1,6109.86,Sangat Rendah,0
+506.83,Debit,Indianapolis,M064,Branch,37,Engineer,45,1,9975.79,Sangat Rendah,0
+738.94,Debit,Philadelphia,M085,Branch,41,Doctor,173,1,13856.18,Sangat Rendah,0
+180.36,Credit,Oklahoma City,M021,Online,33,Engineer,55,1,9905.23,Sangat Rendah,0
+225.1,Debit,Boston,M082,ATM,28,Student,35,1,1547.71,Sangat Rendah,0
+359.51,Debit,Charlotte,M010,Online,79,Retired,157,1,7153.72,Sangat Rendah,0
+720.46,Debit,Tucson,M068,Branch,54,Retired,44,1,3101.54,Sangat Rendah,0
+1116.57,Debit,Tucson,M005,ATM,56,Retired,104,1,1393.14,Sangat Rendah,0
+291.46,Debit,Miami,M046,ATM,57,Retired,135,1,7142.53,Sangat Rendah,0
+1192.95,Debit,Las Vegas,M068,Branch,23,Student,73,1,325.15,Sangat Rendah,0
+98.24,Debit,Mesa,M031,Online,28,Student,148,1,580.66,Sangat Rendah,0
+100.48,Credit,Milwaukee,M100,Branch,18,Student,104,1,6149.81,Sangat Rendah,0
+45.9,Debit,Columbus,M002,Branch,56,Engineer,264,1,5698.25,Sangat Rendah,0
+258.21,Debit,San Antonio,M014,Online,39,Doctor,225,1,9562.41,Sangat Rendah,0
+1079.11,Debit,Las Vegas,M042,Online,53,Engineer,211,1,2038.31,Sangat Rendah,0
+287.51,Debit,El Paso,M016,Online,22,Student,255,1,187.65,Sangat Rendah,0
+501.3,Credit,San Antonio,M020,Online,26,Engineer,146,1,8520.08,Sangat Rendah,0
+26.1,Debit,Mesa,M001,ATM,27,Student,32,1,1435.72,Sangat Rendah,0
+436.77,Debit,Jacksonville,M075,ATM,20,Student,176,1,825.69,Sangat Rendah,0
+292.38,Debit,Baltimore,M001,ATM,68,Doctor,224,1,5803.89,Sangat Rendah,0
+1026.46,Debit,Philadelphia,M009,Branch,53,Retired,165,1,3134.47,Sangat Rendah,0
+25.29,Debit,Miami,M005,Online,50,Engineer,125,1,5374.69,Sangat Rendah,0
+123.35,Credit,Baltimore,M070,Online,31,Doctor,10,1,6852.16,Sangat Rendah,0
+139.52,Debit,Portland,M025,Branch,23,Student,31,1,1570.22,Sangat Rendah,0
+51.2,Debit,Tucson,M066,Online,18,Student,83,1,730.6,Sangat Rendah,0
+122.85,Credit,Seattle,M069,Online,47,Doctor,127,3,13185.39,Rendah,1
+161.38,Credit,Colorado Springs,M019,Online,24,Student,101,1,3900.34,Sangat Rendah,0
+2.51,Debit,Baltimore,M099,Online,63,Retired,32,1,4891.56,Sangat Rendah,0
+22.62,Debit,Virginia Beach,M075,ATM,64,Doctor,102,1,7682.0,Sangat Rendah,0
+126.83,Debit,Austin,M007,Branch,57,Retired,39,1,6100.98,Sangat Rendah,0
+46.6,Debit,Detroit,M060,Online,55,Doctor,68,1,1562.9,Sangat Rendah,0
+243.8,Debit,San Francisco,M016,Branch,57,Doctor,48,1,13732.81,Sangat Rendah,0
+231.51,Credit,Oklahoma City,M008,Branch,60,Retired,96,1,5790.7,Sangat Rendah,0
+175.05,Debit,San Francisco,M068,Online,39,Engineer,34,1,1447.35,Sangat Rendah,0
+762.74,Debit,Los Angeles,M053,ATM,64,Doctor,244,1,207.1,Sangat Rendah,0
+34.03,Debit,Los Angeles,M016,Branch,57,Engineer,38,1,3077.2,Sangat Rendah,0
+15.95,Debit,Raleigh,M048,Branch,25,Student,52,1,1983.0,Sangat Rendah,0
+926.53,Debit,Milwaukee,M064,ATM,57,Engineer,107,1,3120.1,Sangat Rendah,0
+101.51,Credit,Tucson,M042,Online,46,Engineer,199,1,3052.47,Sangat Rendah,0
+309.42,Debit,Fresno,M089,Branch,27,Engineer,42,1,8564.46,Sangat Rendah,0
+257.6,Credit,Fort Worth,M004,Online,59,Retired,293,1,7950.74,Sangat Rendah,0
+746.78,Credit,Mesa,M001,Branch,21,Student,64,1,1699.81,Sangat Rendah,0
+82.01,Credit,Sacramento,M097,Branch,23,Student,156,1,287.46,Sangat Rendah,0
+476.99,Debit,San Diego,M022,Online,23,Student,187,1,1154.48,Sangat Rendah,0
+320.11,Debit,El Paso,M025,Branch,23,Student,130,1,4076.48,Sangat Rendah,0
+333.39,Debit,Philadelphia,M015,ATM,68,Doctor,35,1,10628.59,Sangat Rendah,0
+10.3,Debit,Fresno,M022,ATM,47,Engineer,197,1,7801.32,Sangat Rendah,0
+737.46,Credit,Albuquerque,M037,Branch,53,Doctor,75,4,634.16,Sedang,1
+416.55,Debit,Oklahoma City,M038,Online,33,Engineer,73,1,922.96,Sangat Rendah,0
+84.91,Debit,Raleigh,M034,Online,18,Student,68,1,1671.86,Sangat Rendah,0
+98.95,Debit,Mesa,M084,Branch,75,Retired,73,1,5670.82,Sangat Rendah,0
+18.14,Credit,Milwaukee,M097,ATM,58,Retired,48,1,6020.85,Sangat Rendah,0
+1154.79,Debit,Columbus,M006,ATM,51,Doctor,108,1,6180.3,Sangat Rendah,0
+215.13,Debit,Charlotte,M016,Online,46,Engineer,114,1,3956.69,Sangat Rendah,0
+218.57,Credit,Memphis,M004,Branch,62,Doctor,102,1,13869.86,Sangat Rendah,0
+341.88,Debit,Austin,M053,ATM,43,Engineer,89,1,4159.52,Sangat Rendah,0
+691.92,Debit,Boston,M010,Online,19,Student,61,1,1084.65,Sangat Rendah,0
+50.43,Debit,San Jose,M057,Branch,32,Doctor,51,1,9794.26,Sangat Rendah,0
+440.43,Debit,Colorado Springs,M015,Branch,78,Retired,23,1,5123.24,Sangat Rendah,0
+299.03,Debit,Columbus,M018,Branch,39,Engineer,52,1,1381.28,Sangat Rendah,0
+1.98,Debit,Seattle,M074,ATM,66,Doctor,170,1,11619.1,Sangat Rendah,0
+173.45,Debit,Philadelphia,M066,ATM,31,Engineer,161,1,9077.62,Sangat Rendah,0
+438.76,Debit,San Antonio,M072,Branch,22,Student,73,1,1824.19,Sangat Rendah,0
+519.62,Credit,Washington,M026,Online,71,Retired,40,1,4159.33,Sangat Rendah,0
+738.68,Debit,Chicago,M096,Online,50,Doctor,124,1,14352.33,Sangat Rendah,0
+151.14,Debit,Memphis,M004,Online,64,Retired,38,1,2156.54,Sangat Rendah,0
+75.77,Debit,Charlotte,M090,Branch,51,Engineer,148,1,8361.7,Sangat Rendah,0
+444.52,Debit,Louisville,M026,Online,27,Engineer,17,1,5424.6,Sangat Rendah,0
+5.29,Debit,Indianapolis,M062,Online,52,Doctor,276,1,11263.89,Sangat Rendah,0
+97.63,Credit,Milwaukee,M023,Online,48,Doctor,127,1,12467.31,Sangat Rendah,0
+256.95,Debit,San Diego,M047,Branch,26,Engineer,71,1,2531.24,Sangat Rendah,0
+734.86,Credit,Boston,M075,Branch,48,Engineer,290,1,6242.03,Sangat Rendah,0
+1250.94,Debit,Columbus,M054,ATM,36,Doctor,107,2,11565.97,Rendah,0
+84.28,Debit,Memphis,M087,Branch,39,Doctor,142,1,13586.06,Sangat Rendah,0
+927.45,Debit,Austin,M027,ATM,24,Student,95,1,1161.84,Sangat Rendah,0
+202.49,Credit,Virginia Beach,M050,ATM,48,Engineer,69,1,7447.1,Sangat Rendah,0
+154.99,Debit,Mesa,M025,Branch,25,Student,53,1,1419.31,Sangat Rendah,0
+481.53,Debit,Atlanta,M087,Branch,58,Retired,277,1,6142.54,Sangat Rendah,0
+172.92,Debit,Miami,M052,Online,20,Student,212,1,416.37,Sangat Rendah,0
+275.59,Credit,Philadelphia,M063,Branch,53,Retired,238,1,6313.22,Sangat Rendah,0
+207.2,Debit,Columbus,M028,Online,60,Engineer,133,1,8092.94,Sangat Rendah,0
+136.82,Debit,Chicago,M091,Branch,31,Engineer,14,1,6229.13,Sangat Rendah,0
+624.0,Debit,Houston,M097,Branch,26,Engineer,132,5,4976.18,Sedang,1
+179.38,Debit,Chicago,M074,Online,30,Engineer,28,1,8741.51,Sangat Rendah,0
+10.15,Debit,Austin,M004,ATM,59,Doctor,58,5,7155.04,Sedang,1
+26.3,Debit,Virginia Beach,M029,ATM,32,Doctor,33,1,7473.73,Sangat Rendah,0
+319.5,Credit,Virginia Beach,M081,Branch,29,Engineer,69,1,2366.3,Sangat Rendah,0
+182.42,Debit,Kansas City,M080,Branch,51,Retired,137,1,3051.29,Sangat Rendah,0
+716.62,Debit,Atlanta,M084,ATM,44,Doctor,241,1,6987.4,Sangat Rendah,0
+222.96,Credit,Fresno,M073,ATM,65,Doctor,150,1,7370.41,Sangat Rendah,0
+79.77,Debit,San Francisco,M066,ATM,68,Retired,167,1,5010.31,Sangat Rendah,0
+431.08,Debit,Albuquerque,M013,Branch,59,Retired,25,1,6760.22,Sangat Rendah,0
+592.24,Debit,Tucson,M034,ATM,52,Doctor,140,1,9817.05,Sangat Rendah,0
+200.19,Credit,San Antonio,M030,Branch,52,Retired,108,1,4389.96,Sangat Rendah,0
+297.5,Credit,Kansas City,M071,Branch,73,Retired,80,1,6768.14,Sangat Rendah,0
+345.86,Debit,Omaha,M069,ATM,51,Retired,145,1,1504.64,Sangat Rendah,0
+343.88,Debit,Nashville,M068,Online,63,Retired,97,1,6486.18,Sangat Rendah,0
+16.52,Credit,Boston,M093,Online,25,Student,135,1,835.53,Sangat Rendah,0
+162.1,Debit,Milwaukee,M078,Branch,41,Engineer,151,1,8576.65,Sangat Rendah,0
+36.12,Debit,Houston,M085,Online,22,Student,234,1,1593.03,Sangat Rendah,0
+354.91,Debit,Boston,M086,ATM,74,Retired,191,1,3872.55,Sangat Rendah,0
+38.41,Debit,Denver,M068,ATM,40,Doctor,117,1,9129.68,Sangat Rendah,0
+53.52,Debit,San Diego,M066,Branch,49,Engineer,55,1,2227.49,Sangat Rendah,0
+498.59,Debit,Philadelphia,M060,Online,57,Retired,138,1,2619.46,Sangat Rendah,0
+13.3,Debit,San Antonio,M009,ATM,23,Student,63,1,213.0,Sangat Rendah,0
+189.65,Debit,Charlotte,M100,ATM,21,Student,60,1,8457.09,Sangat Rendah,0
+255.32,Debit,Baltimore,M018,ATM,80,Retired,27,1,6290.62,Sangat Rendah,0
+230.51,Credit,Memphis,M062,Branch,51,Engineer,56,1,9522.37,Sangat Rendah,0
+237.74,Debit,Tucson,M022,ATM,61,Doctor,152,1,11795.12,Sangat Rendah,0
+512.76,Debit,Fresno,M080,ATM,52,Doctor,26,1,5121.36,Sangat Rendah,0
+151.37,Debit,Baltimore,M044,ATM,54,Engineer,53,1,8356.08,Sangat Rendah,0
+85.01,Credit,Portland,M014,ATM,25,Student,157,1,1299.4,Sangat Rendah,0
+444.47,Debit,San Jose,M005,Online,57,Retired,61,1,6062.94,Sangat Rendah,0
+184.19,Debit,Indianapolis,M035,ATM,67,Retired,58,1,7588.67,Sangat Rendah,0
+879.25,Credit,Memphis,M086,Online,24,Student,137,1,125.85,Sangat Rendah,0
+55.98,Credit,Kansas City,M013,Branch,24,Student,87,1,7047.04,Sangat Rendah,0
+54.91,Credit,Columbus,M010,ATM,41,Engineer,275,1,7927.27,Sangat Rendah,0
+1047.69,Debit,Austin,M037,Online,20,Student,139,1,1889.78,Sangat Rendah,0
+393.74,Debit,Charlotte,M099,Online,26,Student,90,1,1769.06,Sangat Rendah,0
+58.94,Debit,Miami,M046,Online,30,Engineer,26,1,4575.98,Sangat Rendah,0
+515.57,Debit,Columbus,M027,ATM,27,Engineer,56,1,9269.67,Sangat Rendah,0
+332.15,Debit,Dallas,M030,ATM,59,Doctor,105,1,9749.46,Sangat Rendah,0
+177.94,Debit,Milwaukee,M088,Online,19,Student,173,1,123.24,Sangat Rendah,0
+68.68,Debit,Sacramento,M094,Online,49,Engineer,141,1,4718.51,Sangat Rendah,0
+1431.54,Debit,Portland,M075,Online,20,Student,84,1,1171.98,Sangat Rendah,0
+240.03,Debit,Atlanta,M079,Online,33,Engineer,31,1,7807.73,Sangat Rendah,0
+168.34,Debit,Phoenix,M068,ATM,64,Retired,240,1,7483.01,Sangat Rendah,0
+474.77,Debit,Boston,M038,Online,46,Engineer,284,1,8494.53,Sangat Rendah,0
+451.7,Debit,Chicago,M017,Online,29,Engineer,103,1,8994.67,Sangat Rendah,0
+243.85,Debit,Omaha,M082,Branch,39,Engineer,43,1,4576.78,Sangat Rendah,0
+5.76,Debit,Houston,M070,Branch,38,Engineer,164,1,5859.79,Sangat Rendah,0
+435.08,Debit,San Francisco,M038,Online,55,Engineer,78,1,2103.41,Sangat Rendah,0
+127.78,Debit,Miami,M050,ATM,20,Student,170,1,1046.66,Sangat Rendah,0
+23.14,Credit,Mesa,M064,Online,47,Doctor,93,1,10536.54,Sangat Rendah,0
+545.87,Debit,Miami,M026,Branch,27,Engineer,41,1,4860.01,Sangat Rendah,0
+21.21,Debit,Nashville,M063,Online,55,Engineer,37,1,9575.42,Sangat Rendah,0
+423.53,Credit,Kansas City,M025,Branch,50,Doctor,81,1,5453.4,Sangat Rendah,0
+142.1,Credit,San Francisco,M056,Online,18,Student,109,1,1545.64,Sangat Rendah,0
+1413.24,Debit,New York,M016,ATM,58,Engineer,199,1,7272.01,Sangat Rendah,0
+114.15,Debit,Atlanta,M001,ATM,19,Student,52,1,1612.4,Sangat Rendah,0
+275.98,Credit,Washington,M053,Online,72,Retired,67,1,6151.05,Sangat Rendah,0
+590.68,Debit,Washington,M037,Branch,27,Student,23,1,852.2,Sangat Rendah,0
+152.42,Debit,San Jose,M057,ATM,42,Doctor,176,1,9141.79,Sangat Rendah,0
+395.77,Credit,El Paso,M095,Branch,43,Doctor,118,1,6425.99,Sangat Rendah,0
+615.16,Debit,Boston,M080,Online,26,Student,140,1,214.61,Sangat Rendah,0
+207.82,Credit,Las Vegas,M078,Online,19,Student,30,1,229.02,Sangat Rendah,0
+220.52,Debit,Seattle,M054,ATM,57,Retired,152,1,1793.09,Sangat Rendah,0
+281.47,Debit,Philadelphia,M029,ATM,34,Engineer,142,1,4437.48,Sangat Rendah,0
+57.91,Credit,Sacramento,M079,Branch,58,Engineer,97,1,3641.06,Sangat Rendah,0
+30.48,Credit,Seattle,M073,Branch,32,Doctor,78,1,11481.85,Sangat Rendah,0
+1152.58,Debit,Austin,M020,Branch,65,Retired,180,1,7567.17,Sangat Rendah,0
+453.09,Debit,San Jose,M088,Branch,48,Doctor,97,1,6708.65,Sangat Rendah,0
+424.47,Debit,Oklahoma City,M050,Online,22,Student,116,1,5491.55,Sangat Rendah,0
+228.4,Debit,Omaha,M060,ATM,67,Doctor,116,1,9598.43,Sangat Rendah,0
+67.17,Debit,Seattle,M034,Online,63,Doctor,48,1,14410.44,Sangat Rendah,0
+284.89,Debit,Atlanta,M042,Online,53,Doctor,115,1,9738.6,Sangat Rendah,0
+118.69,Debit,Omaha,M029,Online,33,Doctor,296,1,749.34,Sangat Rendah,0
+221.33,Debit,Louisville,M015,ATM,27,Student,276,1,1185.43,Sangat Rendah,0
+252.31,Credit,Seattle,M037,ATM,26,Student,172,1,1584.6,Sangat Rendah,0
+58.85,Credit,Milwaukee,M041,Online,71,Retired,115,1,1789.8,Sangat Rendah,0
+194.68,Debit,Memphis,M002,Online,32,Doctor,165,1,14494.18,Sangat Rendah,0
+433.53,Debit,Philadelphia,M098,Branch,38,Doctor,231,1,6368.32,Sangat Rendah,0
+178.26,Debit,Oklahoma City,M003,ATM,59,Retired,59,1,1137.13,Sangat Rendah,0
+207.65,Debit,San Francisco,M066,Online,34,Engineer,98,1,5143.8,Sangat Rendah,0
+237.0,Debit,Tucson,M076,Online,49,Doctor,115,1,14021.4,Sangat Rendah,0
+1169.59,Debit,New York,M067,Online,28,Student,114,1,5946.45,Sangat Rendah,0
+347.63,Credit,Chicago,M025,Online,25,Student,272,1,1400.04,Sangat Rendah,0
+517.68,Debit,Omaha,M066,ATM,31,Doctor,24,1,11305.81,Sangat Rendah,0
+36.25,Debit,Tucson,M059,Branch,52,Doctor,76,1,193.06,Sangat Rendah,0
+46.53,Debit,San Francisco,M082,ATM,42,Engineer,34,1,4468.12,Sangat Rendah,0
+207.47,Debit,Miami,M045,ATM,53,Doctor,12,1,1688.9,Sangat Rendah,0
+199.7,Debit,Indianapolis,M084,ATM,43,Engineer,285,1,7574.45,Sangat Rendah,0
+307.89,Credit,Nashville,M032,Online,62,Retired,90,1,2637.55,Sangat Rendah,0
+403.63,Debit,Las Vegas,M042,Branch,31,Engineer,167,3,3304.02,Rendah,1
+20.06,Debit,Memphis,M017,ATM,27,Student,144,1,445.21,Sangat Rendah,0
+236.57,Debit,Sacramento,M023,ATM,79,Retired,112,1,3488.77,Sangat Rendah,0
+0.32,Debit,Boston,M033,ATM,39,Engineer,136,1,7158.58,Sangat Rendah,0
+14.28,Debit,Phoenix,M059,ATM,23,Student,81,1,1597.51,Sangat Rendah,0
+232.35,Credit,Atlanta,M048,Branch,33,Engineer,153,1,4186.25,Sangat Rendah,0
+317.53,Debit,Miami,M070,Online,44,Engineer,104,1,6237.68,Sangat Rendah,0
+74.67,Debit,Indianapolis,M074,ATM,43,Engineer,283,1,3449.35,Sangat Rendah,0
+65.01,Credit,Austin,M004,Online,29,Doctor,67,1,10235.19,Sangat Rendah,0
+0.45,Debit,Kansas City,M078,Branch,34,Engineer,172,1,8670.23,Sangat Rendah,0
+364.13,Debit,Fort Worth,M070,ATM,63,Doctor,61,1,8198.0,Sangat Rendah,0
+340.13,Debit,Mesa,M029,Branch,24,Student,32,3,1149.74,Rendah,1
+15.81,Debit,Oklahoma City,M018,Branch,69,Doctor,11,4,8384.85,Sedang,1
+222.66,Debit,Detroit,M038,Online,39,Doctor,88,1,14466.38,Sangat Rendah,0
+638.24,Debit,Phoenix,M047,Branch,48,Engineer,64,1,5695.78,Sangat Rendah,0
+241.21,Debit,Omaha,M037,ATM,31,Engineer,108,1,1220.86,Sangat Rendah,0
+171.16,Debit,New York,M058,Online,51,Retired,42,1,6126.5,Sangat Rendah,0
+1360.67,Debit,Raleigh,M092,Branch,29,Engineer,118,1,2861.65,Sangat Rendah,0
+37.65,Credit,San Jose,M062,Online,27,Student,109,1,411.78,Sangat Rendah,0
+25.77,Debit,Memphis,M054,Online,68,Retired,18,1,4331.54,Sangat Rendah,0
+789.8,Debit,Jacksonville,M038,ATM,40,Doctor,94,1,13948.09,Sangat Rendah,0
+308.85,Credit,Los Angeles,M030,Branch,20,Student,33,2,333.19,Rendah,0
+1454.52,Debit,Miami,M088,ATM,27,Student,20,1,1189.03,Sangat Rendah,0
+806.97,Debit,Seattle,M028,Online,25,Student,11,1,102.2,Sangat Rendah,0
+364.81,Debit,Charlotte,M027,Online,25,Student,53,1,1145.23,Sangat Rendah,0
+490.82,Debit,Kansas City,M029,ATM,26,Engineer,114,1,8704.27,Sangat Rendah,0
+1021.38,Debit,Detroit,M013,Branch,61,Doctor,125,1,6223.26,Sangat Rendah,0
+311.28,Debit,Atlanta,M045,Branch,49,Doctor,198,1,135.96,Sangat Rendah,0
+85.03,Debit,San Diego,M020,ATM,51,Retired,48,1,4597.57,Sangat Rendah,0
+307.75,Debit,Detroit,M085,Branch,64,Doctor,63,1,1061.58,Sangat Rendah,0
+333.67,Debit,Fort Worth,M037,Online,36,Engineer,68,1,9238.08,Sangat Rendah,0
+589.89,Debit,Jacksonville,M028,Branch,56,Engineer,213,3,9404.63,Rendah,1
+372.08,Debit,Houston,M032,Branch,66,Doctor,63,1,13330.74,Sangat Rendah,0
+502.9,Credit,Fresno,M001,Online,26,Student,141,1,341.24,Sangat Rendah,0
+103.81,Debit,Oklahoma City,M098,ATM,36,Doctor,34,1,7044.63,Sangat Rendah,0
+69.43,Debit,Las Vegas,M003,ATM,30,Engineer,162,1,9281.85,Sangat Rendah,0
+110.4,Credit,San Diego,M033,ATM,56,Doctor,62,1,8639.36,Sangat Rendah,0
+275.65,Credit,Atlanta,M013,Branch,28,Engineer,14,1,4957.57,Sangat Rendah,0
+336.01,Debit,Colorado Springs,M043,Online,63,Doctor,121,4,9938.2,Sedang,1
+251.8,Debit,Mesa,M020,ATM,62,Doctor,102,1,11796.66,Sangat Rendah,0
+334.07,Debit,New York,M054,Branch,59,Engineer,200,1,7306.79,Sangat Rendah,0
+52.44,Debit,Raleigh,M046,Online,27,Student,87,1,3157.75,Sangat Rendah,0
+1030.85,Debit,San Diego,M060,ATM,25,Student,39,1,1941.8,Sangat Rendah,0
+141.37,Debit,Denver,M026,Online,46,Engineer,77,1,1019.77,Sangat Rendah,0
+211.7,Credit,Chicago,M064,Online,50,Doctor,205,1,12272.78,Sangat Rendah,0
+61.4,Debit,San Jose,M073,Branch,41,Engineer,20,2,7892.87,Rendah,0
+308.23,Debit,Las Vegas,M058,ATM,60,Retired,23,1,4150.63,Sangat Rendah,0
+111.41,Debit,Chicago,M079,Branch,21,Student,181,1,1204.11,Sangat Rendah,0
+675.49,Debit,Charlotte,M065,ATM,61,Retired,159,1,1893.0,Sangat Rendah,0
+29.72,Debit,San Antonio,M084,ATM,26,Student,38,1,1059.62,Sangat Rendah,0
+301.73,Debit,Tucson,M044,Online,67,Doctor,163,1,990.74,Sangat Rendah,0
+294.61,Debit,Omaha,M046,Branch,60,Retired,74,1,7375.59,Sangat Rendah,0
+106.43,Credit,Phoenix,M063,ATM,52,Engineer,164,1,9403.12,Sangat Rendah,0
+381.52,Debit,Seattle,M052,Online,36,Doctor,79,1,5798.92,Sangat Rendah,0
+1142.76,Credit,Houston,M058,Online,25,Student,71,1,1498.93,Sangat Rendah,0
+5.66,Debit,Fresno,M029,Branch,40,Engineer,33,1,5434.64,Sangat Rendah,0
+209.09,Debit,Virginia Beach,M091,ATM,48,Doctor,203,1,9100.81,Sangat Rendah,0
+521.81,Debit,Virginia Beach,M058,ATM,47,Engineer,34,1,4750.96,Sangat Rendah,0
+588.36,Debit,Charlotte,M068,Online,33,Engineer,134,1,8434.99,Sangat Rendah,0
+146.67,Debit,Albuquerque,M025,Online,20,Student,273,1,1569.75,Sangat Rendah,0
+176.52,Credit,San Diego,M022,Online,73,Retired,94,5,7132.08,Sedang,1
+57.34,Debit,Atlanta,M089,Online,27,Student,81,1,1100.64,Sangat Rendah,0
+294.77,Debit,Philadelphia,M087,Online,77,Retired,101,1,2272.17,Sangat Rendah,0
+881.32,Debit,El Paso,M015,Online,31,Engineer,59,1,2287.93,Sangat Rendah,0
+162.59,Debit,Indianapolis,M098,Branch,64,Retired,19,1,7104.83,Sangat Rendah,0
+56.15,Debit,Nashville,M089,Branch,31,Doctor,77,1,13265.92,Sangat Rendah,0
+524.55,Debit,El Paso,M039,ATM,39,Doctor,175,1,8292.75,Sangat Rendah,0
+535.4,Debit,San Diego,M023,Branch,23,Student,110,1,651.84,Sangat Rendah,0
+56.84,Debit,Raleigh,M088,ATM,45,Engineer,185,1,7977.78,Sangat Rendah,0
+135.94,Debit,Houston,M020,Branch,71,Retired,258,1,4710.21,Sangat Rendah,0
+47.1,Credit,Washington,M021,Branch,42,Doctor,178,1,6308.07,Sangat Rendah,0
+124.05,Credit,Albuquerque,M031,Branch,61,Doctor,220,1,7009.54,Sangat Rendah,0
+802.89,Debit,Chicago,M037,ATM,19,Student,175,1,1973.63,Sangat Rendah,0
+193.16,Debit,Charlotte,M100,ATM,64,Retired,109,1,2304.56,Sangat Rendah,0
+541.52,Credit,Indianapolis,M094,Branch,48,Engineer,161,1,6087.24,Sangat Rendah,0
+20.17,Debit,San Antonio,M088,ATM,77,Retired,86,1,3869.37,Sangat Rendah,0
+35.98,Credit,Nashville,M004,Branch,40,Doctor,133,1,11147.34,Sangat Rendah,0
+273.24,Debit,Fresno,M011,Branch,51,Retired,173,1,2202.21,Sangat Rendah,0
+663.45,Debit,Albuquerque,M076,ATM,67,Retired,147,1,5897.29,Sangat Rendah,0
+343.86,Debit,Charlotte,M058,Branch,57,Engineer,70,1,3278.65,Sangat Rendah,0
+69.38,Debit,Detroit,M042,Branch,69,Doctor,280,2,12072.11,Rendah,0
+75.43,Debit,Fresno,M096,ATM,77,Retired,266,1,1441.86,Sangat Rendah,0
+414.64,Debit,Mesa,M060,Branch,32,Doctor,74,1,7253.22,Sangat Rendah,0
+86.79,Debit,Fort Worth,M100,Branch,33,Doctor,166,1,8795.37,Sangat Rendah,0
+1105.88,Debit,Omaha,M047,ATM,34,Engineer,36,1,2636.32,Sangat Rendah,0
+14.1,Debit,Louisville,M027,Branch,45,Engineer,73,1,6949.21,Sangat Rendah,0
+63.33,Credit,Louisville,M014,Branch,23,Student,124,1,792.33,Sangat Rendah,0
+606.27,Debit,Louisville,M018,Branch,29,Doctor,42,1,9668.78,Sangat Rendah,0
+4.47,Debit,Baltimore,M033,Branch,27,Student,132,1,1381.75,Sangat Rendah,0
+289.01,Debit,Miami,M044,Online,66,Retired,96,1,4226.26,Sangat Rendah,0
+338.69,Debit,Virginia Beach,M026,Branch,18,Student,169,1,1137.89,Sangat Rendah,0
+97.73,Debit,Sacramento,M018,Branch,69,Doctor,156,1,7885.21,Sangat Rendah,0
+1021.16,Debit,Albuquerque,M046,ATM,20,Student,104,1,9427.06,Sangat Rendah,0
+27.61,Credit,Fort Worth,M015,ATM,54,Retired,26,1,3679.64,Sangat Rendah,0
+284.17,Debit,Memphis,M074,ATM,51,Retired,189,1,3479.56,Sangat Rendah,0
+76.21,Debit,Los Angeles,M055,Branch,22,Student,69,1,664.93,Sangat Rendah,0
+334.79,Credit,Denver,M097,Branch,69,Doctor,292,1,624.09,Sangat Rendah,0
+584.51,Debit,Denver,M010,ATM,74,Retired,76,1,3254.56,Sangat Rendah,0
+432.18,Debit,Las Vegas,M008,Branch,18,Student,162,1,678.83,Sangat Rendah,0
+134.55,Debit,San Jose,M026,Online,59,Doctor,165,1,14852.42,Sangat Rendah,0
+61.66,Debit,Sacramento,M085,ATM,26,Student,86,1,5705.4,Sangat Rendah,0
+12.35,Debit,Fresno,M092,Branch,25,Student,22,1,1846.85,Sangat Rendah,0
+213.25,Debit,San Francisco,M076,Branch,25,Student,63,1,677.79,Sangat Rendah,0
+34.93,Debit,Columbus,M056,Branch,31,Engineer,72,1,2810.37,Sangat Rendah,0
+959.48,Debit,Miami,M004,Branch,67,Doctor,36,1,10631.43,Sangat Rendah,0
+335.68,Debit,Tucson,M062,Online,24,Student,142,1,1188.95,Sangat Rendah,0
+423.96,Debit,San Diego,M086,ATM,43,Doctor,75,1,8374.38,Sangat Rendah,0
+361.38,Credit,Milwaukee,M095,Online,72,Retired,71,3,4972.92,Rendah,1
+220.82,Debit,Louisville,M089,Branch,42,Engineer,31,1,4298.13,Sangat Rendah,0
+717.36,Credit,San Diego,M020,Online,22,Student,138,1,514.88,Sangat Rendah,0
+406.12,Debit,Houston,M004,ATM,42,Doctor,106,1,10501.53,Sangat Rendah,0
+427.83,Debit,Phoenix,M066,ATM,47,Engineer,29,1,3293.06,Sangat Rendah,0
+416.62,Credit,Baltimore,M091,Online,26,Student,67,1,9700.9,Sangat Rendah,0
+21.9,Debit,Phoenix,M084,ATM,28,Student,30,1,1052.27,Sangat Rendah,0
+717.74,Credit,Sacramento,M020,Online,42,Engineer,168,1,8375.16,Sangat Rendah,0
+393.68,Debit,San Diego,M087,ATM,55,Doctor,141,1,10135.88,Sangat Rendah,0
+281.91,Debit,Denver,M069,Branch,25,Student,269,1,225.53,Sangat Rendah,0
+239.85,Debit,Tucson,M047,ATM,70,Retired,50,1,1477.63,Sangat Rendah,0
+237.84,Debit,Nashville,M047,Branch,26,Student,16,1,8932.39,Sangat Rendah,0
+459.29,Credit,Kansas City,M016,Online,64,Retired,109,1,1006.12,Sangat Rendah,0
+196.49,Debit,Oklahoma City,M016,Branch,41,Engineer,65,1,7516.56,Sangat Rendah,0
+21.23,Debit,Virginia Beach,M094,ATM,23,Student,103,4,319.18,Sedang,1
+95.23,Debit,Denver,M077,Online,20,Student,60,3,966.88,Rendah,1
+344.87,Debit,Houston,M090,Branch,58,Retired,25,1,7447.44,Sangat Rendah,0
+129.62,Credit,San Jose,M070,ATM,23,Student,124,1,620.28,Sangat Rendah,0
+16.53,Debit,Houston,M017,ATM,21,Student,220,1,707.95,Sangat Rendah,0
+277.02,Credit,Denver,M042,ATM,46,Doctor,227,1,8586.38,Sangat Rendah,0
+13.02,Debit,Charlotte,M014,Branch,51,Doctor,42,1,6076.45,Sangat Rendah,0
+199.02,Debit,Memphis,M081,ATM,22,Student,185,1,793.63,Sangat Rendah,0
+684.5,Debit,Fort Worth,M035,Branch,29,Doctor,76,1,6258.63,Sangat Rendah,0
+1173.74,Credit,Virginia Beach,M086,Online,61,Doctor,61,1,10456.24,Sangat Rendah,0
+45.92,Debit,Nashville,M087,ATM,26,Student,23,1,544.56,Sangat Rendah,0
+761.73,Debit,Columbus,M075,ATM,19,Student,27,1,151.28,Sangat Rendah,0
+331.38,Debit,Miami,M051,ATM,42,Engineer,122,1,844.55,Sangat Rendah,0
+602.8,Debit,Baltimore,M003,Branch,60,Retired,173,1,7417.69,Sangat Rendah,0
+64.12,Credit,Indianapolis,M097,Branch,57,Doctor,222,1,1029.09,Sangat Rendah,0
+57.38,Debit,Kansas City,M062,Online,28,Student,86,1,899.52,Sangat Rendah,0
+94.64,Credit,New York,M036,ATM,28,Student,144,1,586.76,Sangat Rendah,0
+155.56,Credit,Austin,M014,Branch,19,Student,64,1,129.79,Sangat Rendah,0
+301.39,Credit,Denver,M050,Online,47,Doctor,104,1,10548.58,Sangat Rendah,0
+136.31,Debit,Nashville,M055,Online,74,Retired,65,1,4384.95,Sangat Rendah,0
+4.39,Debit,Philadelphia,M084,ATM,26,Student,63,1,1429.61,Sangat Rendah,0
+429.25,Debit,Seattle,M090,Online,29,Engineer,107,1,5019.68,Sangat Rendah,0
+138.54,Credit,Austin,M028,Branch,60,Engineer,93,1,8274.77,Sangat Rendah,0
+33.03,Debit,Washington,M019,Branch,21,Student,28,1,935.88,Sangat Rendah,0
+76.39,Debit,Sacramento,M005,Online,30,Doctor,80,1,11584.32,Sangat Rendah,0
+25.32,Debit,Oklahoma City,M090,ATM,19,Student,25,1,1642.34,Sangat Rendah,0
+330.91,Debit,Kansas City,M041,ATM,36,Engineer,28,1,6481.35,Sangat Rendah,0
+153.55,Debit,Denver,M099,Online,37,Doctor,16,1,5619.91,Sangat Rendah,0
+217.61,Debit,Omaha,M039,Online,27,Student,120,1,1661.1,Sangat Rendah,0
+131.69,Credit,Denver,M067,Branch,53,Engineer,59,1,2958.43,Sangat Rendah,0
+953.17,Debit,Raleigh,M024,Online,60,Retired,84,1,3506.11,Sangat Rendah,0
+68.49,Debit,Nashville,M051,Online,67,Retired,49,1,6683.31,Sangat Rendah,0
+1493.0,Debit,Colorado Springs,M096,ATM,69,Retired,151,1,1619.16,Sangat Rendah,0
+470.62,Debit,Tucson,M002,Branch,57,Doctor,127,1,12470.62,Sangat Rendah,0
+385.35,Debit,Miami,M045,Branch,38,Doctor,269,1,5184.13,Sangat Rendah,0
+74.72,Debit,Phoenix,M031,Online,26,Student,132,1,165.75,Sangat Rendah,0
+352.03,Credit,Phoenix,M001,Online,27,Student,219,1,4846.68,Sangat Rendah,0
+275.87,Debit,Seattle,M096,ATM,25,Student,112,1,1697.58,Sangat Rendah,0
+90.94,Credit,Colorado Springs,M084,ATM,63,Retired,56,1,3896.08,Sangat Rendah,0
+206.25,Debit,Baltimore,M074,ATM,74,Retired,56,1,3651.07,Sangat Rendah,0
+116.76,Debit,Philadelphia,M067,ATM,51,Engineer,212,1,4480.43,Sangat Rendah,0
+91.5,Debit,Omaha,M033,ATM,47,Doctor,77,1,667.66,Sangat Rendah,0
+489.31,Debit,Louisville,M089,Branch,43,Engineer,36,1,5595.22,Sangat Rendah,0
+1664.33,Debit,San Antonio,M064,Branch,18,Student,65,1,1588.31,Sangat Rendah,0
+414.49,Credit,Phoenix,M051,Online,58,Doctor,108,1,12709.58,Sangat Rendah,0
+315.13,Debit,Omaha,M045,Branch,30,Engineer,143,1,6570.94,Sangat Rendah,0
+28.38,Debit,Tucson,M042,Branch,45,Doctor,260,1,8892.62,Sangat Rendah,0
+456.05,Debit,Detroit,M073,Branch,68,Doctor,20,1,11729.51,Sangat Rendah,0
+277.22,Debit,Kansas City,M035,Branch,35,Doctor,41,1,12104.51,Sangat Rendah,0
+54.84,Debit,Kansas City,M002,Online,52,Retired,124,1,3495.51,Sangat Rendah,0
+29.92,Credit,Denver,M010,Online,68,Doctor,63,1,7855.01,Sangat Rendah,0
+133.06,Debit,Las Vegas,M072,Online,35,Engineer,143,1,8843.44,Sangat Rendah,0
+332.06,Debit,Seattle,M086,ATM,29,Doctor,221,4,11826.52,Sedang,1
+14.34,Credit,Memphis,M004,Online,67,Retired,24,1,7932.51,Sangat Rendah,0
+468.32,Debit,Fresno,M095,Online,69,Retired,152,1,4710.04,Sangat Rendah,0
+582.17,Debit,Tucson,M093,Branch,57,Engineer,135,1,7310.83,Sangat Rendah,0
+245.62,Debit,San Antonio,M021,Branch,23,Student,127,1,1879.82,Sangat Rendah,0
+981.9,Credit,Baltimore,M029,Online,43,Doctor,112,1,9018.33,Sangat Rendah,0
+83.6,Debit,San Jose,M090,ATM,47,Doctor,192,1,13899.24,Sangat Rendah,0
+331.22,Credit,Oklahoma City,M035,Branch,61,Doctor,161,1,12613.25,Sangat Rendah,0
+57.49,Credit,Detroit,M014,Online,24,Student,177,1,765.15,Sangat Rendah,0
+85.58,Debit,Fort Worth,M029,ATM,55,Engineer,60,1,7794.84,Sangat Rendah,0
+157.56,Debit,Indianapolis,M056,Branch,43,Doctor,159,1,7541.16,Sangat Rendah,0
+230.3,Debit,Colorado Springs,M032,Online,46,Engineer,24,1,8356.88,Sangat Rendah,0
+305.92,Debit,El Paso,M057,ATM,72,Retired,88,1,1445.47,Sangat Rendah,0
+942.7,Debit,Boston,M048,Online,35,Engineer,29,1,5141.32,Sangat Rendah,0
+116.33,Debit,Fresno,M090,Branch,27,Student,144,1,1696.15,Sangat Rendah,0
+537.71,Credit,Mesa,M078,Online,19,Student,175,1,1806.08,Sangat Rendah,0
+538.17,Credit,Washington,M055,Branch,27,Engineer,252,1,5908.04,Sangat Rendah,0
+219.44,Debit,Washington,M003,Online,42,Engineer,23,1,4207.27,Sangat Rendah,0
+61.62,Debit,Miami,M066,Online,57,Doctor,19,1,8365.37,Sangat Rendah,0
+58.77,Debit,Memphis,M036,Online,27,Engineer,191,1,7261.7,Sangat Rendah,0
+538.13,Debit,Charlotte,M045,ATM,62,Retired,165,1,5008.59,Sangat Rendah,0
+177.05,Debit,Philadelphia,M060,Branch,24,Student,235,1,4287.82,Sangat Rendah,0
+403.01,Debit,Washington,M029,Online,63,Doctor,286,3,10513.52,Rendah,1
+719.76,Debit,San Francisco,M038,Branch,19,Student,190,1,690.52,Sangat Rendah,0
+163.22,Debit,Miami,M029,Online,26,Student,217,1,1788.27,Sangat Rendah,0
+242.85,Debit,San Antonio,M036,Online,42,Engineer,93,1,4672.8,Sangat Rendah,0
+291.22,Credit,Baltimore,M095,Online,41,Engineer,100,1,3677.63,Sangat Rendah,0
+56.52,Debit,Omaha,M077,ATM,42,Engineer,152,1,6911.2,Sangat Rendah,0
+195.8,Debit,Raleigh,M052,Online,39,Doctor,186,1,12027.68,Sangat Rendah,0
+66.76,Credit,Austin,M004,Branch,36,Doctor,44,1,184.72,Sangat Rendah,0
+190.9,Debit,Jacksonville,M002,Online,28,Student,40,1,101.25,Sangat Rendah,0
+106.99,Debit,Omaha,M078,Branch,38,Engineer,152,1,5771.4,Sangat Rendah,0
+655.81,Debit,Omaha,M044,ATM,55,Retired,164,2,4539.99,Rendah,0
+107.1,Credit,Philadelphia,M052,Online,25,Student,175,1,193.8,Sangat Rendah,0
+79.92,Debit,Miami,M003,ATM,44,Engineer,274,2,9138.76,Rendah,0
+430.83,Debit,Los Angeles,M079,Branch,18,Student,292,1,941.49,Sangat Rendah,0
+235.34,Debit,Washington,M085,Branch,26,Student,68,1,566.83,Sangat Rendah,0
+86.35,Credit,Indianapolis,M026,Branch,52,Retired,24,1,1550.48,Sangat Rendah,0
+337.99,Debit,Colorado Springs,M069,ATM,70,Doctor,115,1,9038.63,Sangat Rendah,0
+577.13,Credit,San Jose,M065,Branch,40,Engineer,66,1,6640.51,Sangat Rendah,0
+213.33,Debit,Omaha,M088,ATM,52,Retired,161,1,5400.44,Sangat Rendah,0
+54.52,Debit,Indianapolis,M047,Branch,32,Doctor,164,1,6980.98,Sangat Rendah,0
+100.13,Debit,Denver,M068,Branch,57,Doctor,168,1,5209.16,Sangat Rendah,0
+883.92,Credit,Tucson,M006,Online,53,Retired,129,1,2342.64,Sangat Rendah,0
+69.8,Credit,New York,M004,Branch,27,Student,138,1,136.77,Sangat Rendah,0
+768.94,Debit,Indianapolis,M051,Branch,64,Retired,53,1,6860.18,Sangat Rendah,0
+179.62,Debit,Tucson,M082,Online,24,Student,119,1,409.26,Sangat Rendah,0
+425.91,Debit,Jacksonville,M038,ATM,23,Student,47,1,383.58,Sangat Rendah,0
+263.34,Debit,Denver,M084,ATM,64,Retired,55,1,2411.02,Sangat Rendah,0
+113.03,Credit,Tucson,M001,Online,36,Doctor,12,1,6756.13,Sangat Rendah,0
+11.02,Debit,Austin,M070,Online,42,Doctor,42,1,7879.66,Sangat Rendah,0
+865.17,Debit,Houston,M009,Branch,24,Student,161,1,9297.5,Sangat Rendah,0
+152.0,Debit,Albuquerque,M060,ATM,51,Engineer,63,1,7531.43,Sangat Rendah,0
+270.39,Debit,Jacksonville,M006,ATM,25,Student,104,1,899.15,Sangat Rendah,0
+246.41,Debit,Detroit,M071,ATM,54,Retired,23,1,1431.6,Sangat Rendah,0
+336.84,Debit,Washington,M073,ATM,22,Student,100,1,4500.26,Sangat Rendah,0
+261.45,Credit,Oklahoma City,M071,Online,50,Engineer,96,1,6735.74,Sangat Rendah,0
+99.98,Credit,Washington,M093,Online,73,Retired,152,1,3037.97,Sangat Rendah,0
+400.69,Debit,Las Vegas,M066,Online,32,Engineer,26,1,9040.33,Sangat Rendah,0
+411.47,Debit,Fort Worth,M080,ATM,26,Student,120,1,796.63,Sangat Rendah,0
+204.63,Debit,Las Vegas,M090,Online,52,Engineer,92,1,9199.52,Sangat Rendah,0
+421.56,Debit,San Jose,M047,Online,53,Engineer,144,1,8037.87,Sangat Rendah,0
+193.38,Debit,Memphis,M069,ATM,18,Student,285,1,1081.79,Sangat Rendah,0
+377.04,Debit,Chicago,M054,ATM,34,Engineer,64,1,3812.87,Sangat Rendah,0
+54.1,Credit,Boston,M085,Branch,28,Engineer,17,1,940.91,Sangat Rendah,0
+18.1,Debit,Louisville,M020,ATM,57,Retired,66,1,6474.34,Sangat Rendah,0
+408.62,Credit,Fort Worth,M021,Online,48,Engineer,159,1,2498.48,Sangat Rendah,0
+162.1,Debit,Baltimore,M018,Branch,64,Doctor,221,1,9578.74,Sangat Rendah,0
+165.31,Debit,Boston,M059,ATM,49,Doctor,28,1,7346.66,Sangat Rendah,0
+267.48,Debit,Albuquerque,M002,ATM,21,Student,159,2,811.86,Rendah,0
+856.9,Debit,New York,M088,Branch,36,Engineer,150,1,8579.69,Sangat Rendah,0
+433.9,Debit,Albuquerque,M013,Online,65,Doctor,37,1,9013.1,Sangat Rendah,0
+271.22,Credit,Louisville,M056,ATM,45,Doctor,87,1,6863.02,Sangat Rendah,0
+307.68,Credit,Detroit,M068,Online,75,Retired,162,1,2052.84,Sangat Rendah,0
+348.17,Debit,El Paso,M072,ATM,21,Student,181,1,1887.84,Sangat Rendah,0
+43.1,Debit,Denver,M092,Branch,25,Student,102,1,6944.9,Sangat Rendah,0
+557.78,Credit,Phoenix,M072,Branch,26,Student,102,1,1289.48,Sangat Rendah,0
+325.6,Debit,Dallas,M026,ATM,69,Doctor,88,1,13777.1,Sangat Rendah,0
+235.83,Credit,Memphis,M012,Online,53,Engineer,169,1,4120.75,Sangat Rendah,0
+603.54,Debit,Albuquerque,M029,Online,44,Doctor,26,1,10517.47,Sangat Rendah,0
+270.25,Debit,Tucson,M065,ATM,31,Engineer,42,1,5414.97,Sangat Rendah,0
+123.38,Debit,Sacramento,M049,Online,59,Doctor,40,1,13542.41,Sangat Rendah,0
+577.12,Debit,Virginia Beach,M075,ATM,39,Engineer,69,1,5265.88,Sangat Rendah,0
+92.24,Debit,Philadelphia,M076,Branch,60,Engineer,93,1,6937.48,Sangat Rendah,0
+856.21,Credit,Colorado Springs,M072,Branch,33,Doctor,109,1,12690.79,Sangat Rendah,0
+251.54,Debit,Tucson,M029,Branch,48,Doctor,177,1,254.75,Sangat Rendah,0
+28.63,Debit,San Diego,M087,Branch,56,Retired,146,1,3382.91,Sangat Rendah,0
+185.97,Debit,Denver,M041,Online,23,Student,19,1,1776.91,Sangat Rendah,0
+243.08,Credit,Jacksonville,M041,Online,24,Student,93,1,131.25,Sangat Rendah,0
