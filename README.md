@@ -2,7 +2,7 @@
 
 This repository contains the final project submissions for the **Coding Camp** program by Dicoding powered by DBS Foundation. The project consists of two main parts: **classification** and **clustering**, using datasets provided by Dicoding.
 
-## 📁 Project Structure
+## Project Structure
 
 - `Dataset_inisiasi.csv`  
   Dataset used for the classification task.
@@ -16,23 +16,23 @@ This repository contains the final project submissions for the **Coding Camp** p
 - `[Clustering] Submission Akhir BMLP_Rahma Nur Annisa.ipynb`  
   Jupyter Notebook containing the full process and results of the clustering project.
 
-## 🧠 Project Description
+## Project Description
 
-### 🔷 Classification
+### Classification
 The classification project focuses on building a machine learning model to accurately classify data based on the given features. The main steps include:
 - Data exploration and visualization  
 - Data cleaning and preprocessing  
 - Model selection and training  
 - Model performance evaluation
 
-### 🔶 Clustering
+### Clustering
 The clustering project aims to group unlabeled data using unsupervised learning methods. The main steps include:
 - Analyzing data distribution  
 - Determining the optimal number of clusters  
 - Training a clustering model (e.g., K-Means)  
 - Visualizing the clustering results
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 - Python  
 - Pandas  
 - NumPy  
@@ -40,7 +40,7 @@ The clustering project aims to group unlabeled data using unsupervised learning 
 - Matplotlib & Seaborn  
 - Jupyter Notebook
 
-## 👩🏻‍💻 Author
+## Author
 **Rahma Nur Annisa**  
 
 If you find this repository useful and would like to use it as a reference, please give proper credit. 😊
